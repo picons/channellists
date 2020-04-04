@@ -1,0 +1,43 @@
+#NAME Stream Documentaires
+#SERVICE 5002:0:1:51da:c96:3:0:0:0:0:http%3a//145.132.101.50%3a8001/1%3a0%3a16%3a51DA%3aC96%3a3%3aEB0000%3a0%3a0%3a0%3a:Eclips TV/Evenaar
+#DESCRIPTION Eclips TV/Evenaar
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:http%3a//mobia.si/ts/FASHION/stream_iptv_2000k.m3u8?#User-Agent=AppleCoreMedia:Fashion TV
+#DESCRIPTION Fashion TV
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8:FTV - Fashion TV (docu - Frankrijk)
+#DESCRIPTION FTV - Fashion TV (docu - Frankrijk)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//kiev4-cdn.lanet.tv/live/2009.m3u8:Lanet TV Home (Oekraïne - open haard op tv)
+#DESCRIPTION Lanet TV Home (Oekraïne - open haard op tv)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//universeiptv.com%3a8000/live/wcmRHzUxdj/zWdtl2LCCM/883.ts:Planete+ (Frankrijk)
+#DESCRIPTION Planete+ (Frankrijk)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//universeiptv.com%3a8000/live/wcmRHzUxdj/zWdtl2LCCM/847.ts:Polar+ (Frankrijk)
+#DESCRIPTION Polar+ (Frankrijk)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rt-doc.secure.footprint.net/1101-inadv-qidx-2k_v3.m3u8:RT Documentary (nieuws)
+#DESCRIPTION RT Documentary (nieuws)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//93.190.140.42%3a8081/SilenceTV/live/playlist.m3u8:Silence TV World
+#DESCRIPTION Silence TV World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//188.35.9.12%3a21031/udp/038m:Travel Channel
+#DESCRIPTION Travel Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.redefine.pl/00643E2B/4196/0/hls720/720p/list.m3u8?#User-Agent=Mozilla/5.0:VIASAT EXPLORE HD (Polen)
+#DESCRIPTION VIASAT EXPLORE HD (Polen)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.redefine.pl/C1F25A0A/4194/0/hls720/720p/list.m3u8?#User-Agent=Mozilla/5.0:VIASAT HISTORY HD (Polen)
+#DESCRIPTION VIASAT HISTORY HD (Polen)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls.redefine.pl/27D4F385/4195/0/hls576/576p/list.m3u8?#User-Agent=Mozilla/5.0:VIASAT NATURE (Polen)
+#DESCRIPTION VIASAT NATURE (Polen)
+#SERVICE 1:64:233:0:0:0:0:0:0:0:
+#DESCRIPTION +++Tjechie+++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp.elektrika.cz/live/myStream.sdp:Elektrika TV
+#DESCRIPTION Elektrika TV
+#SERVICE 1:64:234:0:0:0:0:0:0:0:
+#DESCRIPTION +++kunst+++
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=JiQgeYAanU0A/item=hABgrOXajdmg/hABgrOXajdmg-20200214110413_5-audio=128000-video=3600000.m3u8?v=20200214110413_5:DS%3a Lam Gods van gebr. Van Eyck
+#DESCRIPTION DS: Lam Gods van gebr. Van Eyck
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=JiQgeYAanU0A/item=cCRgeoTIjlKW/cCRgeoTIjlKW-20200227170747_5-audio=128000-video=2200000.m3u8?v=20200227170747_5:DS%3a Nasa laat ons meekijken door de ogen van Apollo 13-astronaut
+#DESCRIPTION DS: Nasa laat ons meekijken door de ogen van Apollo 13-astronaut
+#SERVICE 1:64:235:0:0:0:0:0:0:0:
+#DESCRIPTION +++techniek+++
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=tqIhfOEY3U0A/item=dDAErMwbZxu0/dDAErMwbZxu0-20200128181203_6-audio=128000-video=3600000.m3u8?v=20200128181203_6:NB%3a QinetiQ bouwt satelliet in Kruibeke (BE) 20200128
+#DESCRIPTION NB: QinetiQ bouwt satelliet in Kruibeke (BE) 20200128
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=tBRoXcgYlBUE/item=KaJMScUKFhi0/KaJMScUKFhi0-20200129173516_5-audio=128000-video=3600000.m3u8?v=20200129173516_5:NB%3a SpaceX lanceert Falcon-draagraket met zestig satellieten 20200129
+#DESCRIPTION NB: SpaceX lanceert Falcon-draagraket met zestig satellieten 20200129
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//media.mediahuisvideo.be/hls/account=JiQgeYAanU0A/item=0BJNPYjb00uk/0BJNPYjb00uk-20200305133021_5-audio=128000-video=3600000.m3u8?v=20200305133021_5:20200303 Groningen%3a Blauwe Loper
+#DESCRIPTION 20200303 Groningen: Blauwe Loper
