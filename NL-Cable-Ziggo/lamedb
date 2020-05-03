@@ -108,6 +108,18 @@ ffff0000:083b:0600
 ffff0000:0840:0600
 	c 290000:6900000:2:5:0:0:0
 /
+ffff0000:0bbc:0600
+	c 266000:6900000:2:5:0:0:0
+/
+ffff0000:0012:0600
+	c 474000:6875000:2:3:0:0:0
+/
+ffff0000:0bbc:0600
+	c 618750:6900000:2:5:0:0:0
+/
+ffff0000:080c:0600
+	c 698750:6900000:2:5:0:0:0
+/
 end
 services
 300d:ffff0000:00cb:0600:1:0
@@ -626,6 +638,9 @@ p:Ziggo,C:0000
 4ad1:ffff0000:080c:0600:1:0
 Sat. 1
 p:Ziggo,C:0000
+4acd:ffff0000:080c:0600:1:0
+Eventkanaal
+p:Ziggo,f:40
 4ada:ffff0000:080d:0600:1:0
 XITE
 p:Ziggo,C:0000
@@ -836,6 +851,12 @@ p:Ziggo,C:0000
 4b63:ffff0000:0813:0600:25:0
 RTL Telekids HD
 p:Ziggo,C:0000
+4b53:ffff0000:0813:0600:1:0
+BBC Three / CBBC
+p:Ziggo,C:0000,f:40
+4b54:ffff0000:0813:0600:1:1
+BBC Four / Cbeebies
+p:Ziggo,C:0000,f:40
 4b65:ffff0000:0814:0600:1:0
 Nicktoons
 p:Ziggo,C:0000
@@ -1322,6 +1343,9 @@ p:Ziggo
 4c7d:ffff0000:083b:0600:25:0
 Eurosport 2 HD
 p:Ziggo,C:0000
+4c85:ffff0000:083b:0600:1:0
+Zender van de Maand
+p:Ziggo,C:0000,f:40
 4aef:ffff0000:0840:0600:1:0
 Disney Channel
 p:Ziggo
@@ -1370,5 +1394,77 @@ p:Ziggo,C:0000
 4af7:ffff0000:0840:0600:25:0
 RTL Z HD
 p:Ziggo,C:0000
+4971:ffff0000:0bbc:0600:2:0
+Oog-Radio
+p:Ziggo,f:40
+4972:ffff0000:0bbc:0600:2:1
+Omroep Assen Radio
+p:Ziggo,f:40
+4973:ffff0000:0bbc:0600:2:2
+RTV Borger-Odoorn
+p:Ziggo,f:40
+4974:ffff0000:0bbc:0600:2:3
+Omroep Westerkwartier
+p:Ziggo,f:40
+4977:ffff0000:0bbc:0600:2:4
+TeamFM Drenthe-Groningen
+p:Ziggo,f:40
+4978:ffff0000:0bbc:0600:2:5
+Regio FM
+p:Ziggo,f:40
+4d59:ffff0000:0bbc:0600:1:3
+Oog-TV
+p:Ziggo,c:0007d1,c:0107db,c:0307d1,f:40
+4d5a:ffff0000:0bbc:0600:1:4
+Omroep Assen TV
+p:Ziggo,c:0008fd,c:010907,c:0308fd,f:40
+4d5b:ffff0000:0bbc:0600:1:5
+RTV1
+p:Ziggo,c:000a29,c:010a33,c:030a29,f:40
+4d5c:ffff0000:0bbc:0600:1:6
+Omroep Westerkwartier TV
+p:Ziggo,f:40
+4d60:ffff0000:0bbc:0600:1:7
+Regionieuws TV
+p:Ziggo,c:001005,c:01100f,c:031005,f:40
+4d6c:ffff0000:0bbc:0600:1:8
+PodiumTV
+p:Ziggo,c:001839,c:011843,c:031839,f:40
+4d5d:ffff0000:0bbc:0600:1:0
+ZO-NWS
+p:Ziggo,f:40
+4d5e:ffff0000:0bbc:0600:1:1
+Lokale Omroep
+p:Ziggo,f:40
+4d5f:ffff0000:0bbc:0600:1:2
+3Heuvelland
+p:Ziggo,f:40
+4d61:ffff0000:0bbc:0600:1:0
+Lokale Omroep
+p:Ziggo,f:40
+4d62:ffff0000:0bbc:0600:1:1
+Omroep x
+p:Ziggo,f:40
+4975:ffff0000:0bbc:0600:2:0
+ZO-NWS Radio
+p:Ziggo,f:40
+4976:ffff0000:0bbc:0600:2:1
+Lokale Omroep radio
+p:Ziggo,f:40
+4979:ffff0000:0bbc:0600:2:0
+Lokale Omroep radio
+p:Ziggo,f:40
+497a:ffff0000:0bbc:0600:2:1
+TIP FM
+p:Ziggo,f:40
+4d25:ffff0000:0012:0600:1:0
+BBC First
+p:Ziggo,f:40
+4d2b:ffff0000:0012:0600:1:1
+Secret Circle info
+p:Ziggo,c:000ed9,c:030ed9,f:40
+4d2c:ffff0000:0012:0600:1:2
+Ziggo Live Events
+p:Ziggo,f:40
 end
 Editor:DreamSet 2.4.14 - http://www.dreamset-editor.com
