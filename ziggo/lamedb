@@ -1466,5 +1466,17 @@ p:Ziggo,c:000ed9,c:030ed9,f:40
 4d2c:ffff0000:0012:0600:1:2
 Ziggo Live Events
 p:Ziggo,f:40
+4976:ffff0000:0bbc:0600:2:0
+BieOs Stein Radio
+p:Ziggo,f:40
+4d5e:ffff0000:0bbc:0600:1:0
+BieOs Stein
+p:Ziggo,f:40
+4d61:ffff0000:0bbc:0600:1:0
+TV Ellef
+p:Ziggo,f:40
+4d62:ffff0000:0bbc:0600:1:0
+Omroep Landgraaf
+p:Ziggo,c:00125d,c:011267,c:03125d,f:40
 end
 Editor:DreamSet 2.4.14 - http://www.dreamset-editor.com
