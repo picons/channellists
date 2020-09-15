@@ -1,1 +1,5 @@
 #NAME User - Bouquets (Radio)
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.hotbird_13b_13c_13e_at_13_0_e.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.astra_1kr_1l_1m_1n_at_19_2_e.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.astra_3b_at_23_5_e.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.astra_2e_2f_2g_at_28_2_e.radio" ORDER BY bouquet
