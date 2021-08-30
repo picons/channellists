@@ -705,6 +705,9 @@ transponders
 00ebb167:0001:0001
 	s 12647000:285000:1:5:235:2:0
 /
+00ebb162:0001:0001
+	s 12642000:280000:1:3:235:2:0
+/
 00d70000:0002:0001
 	s 10856000:30000000:1:1:215:2:0:1:1:0:2
 /
@@ -5678,9 +5681,6 @@ p:M7 Group
 17ce:00eb0000:0c82:0003:25:0
 Filmbox NL HD
 p:M7 Group
-17f3:00eb0000:0c82:0003:129:0
-Downl CAM 2
-p:M7 Group
 3a98:00eb0000:0c84:0003:22:0
 Galaxy4
 p:M7 Group,C:0000
@@ -5855,9 +5855,6 @@ p:Telekom Srbija,C:0000
 4e3b:00eb0000:0c85:0003:25:0
 Eurosport 2 HD
 p:Telekom Srbija,C:0000
-4f2e:00eb0000:0c85:0003:1:0
-Arena 720p
-p:Telekom Srbija
 4e57:00eb0000:0c86:0003:1:0
 PINK World Cinema
 p:Telekom Srbija,C:0000
@@ -6069,7 +6066,7 @@ p:M7 Group
 mSAT Info
 p:Telekom Srbija,C:0000
 4e2c:00eb0000:0c8b:0003:1:0
-Star TV
+Superstar 2 TV HD
 p:Telekom Srbija,C:0000
 4e2d:00eb0000:0c8b:0003:1:0
 Film Klub
@@ -6152,9 +6149,6 @@ p:Telekom Srbija
 5173:00eb0000:0c8b:0003:2:0
 Play radio
 p:Telekom Srbija
-50dc:00eb0000:0c8b:0003:12:0
-STB SSU
-p:
 4e21:00eb0000:0c8b:0003:25:0
 RTS 1 HD
 p:Telekom Srbija,C:0000
@@ -6176,9 +6170,6 @@ p:Telekom Srbija,C:0000
 4e83:00eb0000:0c8b:0003:25:0
 RTS Svet HD
 p:Telekom Srbija
-50e7:00eb0000:0c8b:0003:12:0
-NG SSU
-p:
 36d9:00eb0000:0c8c:0003:1:0
 GERMAN TOTE TV
 p:MB Satellite
@@ -6318,10 +6309,10 @@ p:M7 Group,C:0000
 RTL Klub HD
 p:M7 Group
 3b75:00eb0000:0c8d:0003:22:0
-Test1
+Minimax SK
 p:M7 Group,c:000c1d,c:010c27,c:030c1d,c:050001,C:181d,C:0d96,C:0b02,C:0653,C:0624,C:0500
 3b76:00eb0000:0c8d:0003:22:0
-Test2
+Film+ SK
 p:M7 Group,c:000c81,c:010c8b,c:030c81,c:050001,C:181d,C:0b02,C:0653,C:0624,C:0500
 3746:00eb0000:0c8e:0003:2:0
 Proglas
@@ -6437,9 +6428,6 @@ p:Telekom Srbija,C:0000
 17ea:00eb0000:0c91:0003:1:0
 RTS Poletarac 2
 p:Telekom Srbija,C:0000
-182e:00eb0000:0c91:0003:12:0
-A2C-RMT
-p:ABBS
 17d4:00eb0000:0c91:0003:25:0
 .
 p:BetaDigital
@@ -6455,45 +6443,6 @@ p:BetaDigital,c:0003ff,c:010400,c:0303ff,c:050001,C:1837
 17de:00eb0000:0c91:0003:25:0
 SES Demo HD
 p:MX1
-182f:00eb0000:0c91:0003:100:0
-12032H SID 0x182f
-p:DVB-S2 QPSK 12032H 23.5Â°E
-1830:00eb0000:0c91:0003:100:0
-12032H SID 0x1830
-p:DVB-S2 QPSK 12032H 23.5Â°E
-1831:00eb0000:0c91:0003:100:0
-12032H SID 0x1831
-p:DVB-S2 QPSK 12032H 23.5Â°E
-364c:00eb0000:0c93:0003:12:0
-Hyundai SAT801
-p:M7 Group
-3372:00eb0000:0c93:0003:12:0
-OTA SMIT new
-p:M7 Group
-337f:00eb0000:0c93:0003:12:0
-OTA Tesla T3000
-p:M7 Group
-3381:00eb0000:0c93:0003:12:0
-OTA SMIT
-p:M7 Group
-3383:00eb0000:0c93:0003:12:0
-M7 Zenterio
-p:M7 Group
-338b:00eb0000:0c93:0003:12:0
-M7 DL DSR7141
-p:M7 Group
-338c:00eb0000:0c93:0003:12:0
-Nagra DL DSR7141
-p:M7 Group
-338d:00eb0000:0c93:0003:12:0
-M7 DL DSR 8141
-p:M7 Group
-338e:00eb0000:0c93:0003:12:0
-Nagra DL DSR8141
-p:M7 Group
-3390:00eb0000:0c93:0003:12:0
-OTA CAM803
-p:M7 Group
 334d:00eb0000:0c93:0003:22:0
 CS Mystery
 p:M7 Group,C:0000
@@ -6520,9 +6469,6 @@ JOJ Cinema HD
 p:M7 Group
 335b:00eb0000:0c93:0003:25:0
 Seznam.cz HD
-p:M7 Group
-338f:00eb0000:0c93:0003:212:0
-EPG Nagra
 p:M7 Group
 030b:00eb0000:0c94:0003:22:0
 Klenot TV
@@ -6725,15 +6671,15 @@ p:SES ASTRA
 147e:00eb0000:0c98:0003:2:0
 radio 100,7 Letzebuerg
 p:SES ASTRA
-14a2:00eb0000:0c98:0003:12:0
-LX9SES
-p:SES ASTRA
 145a:00eb0000:0c98:0003:25:0
 TV Lux HD
 p:SES ASTRA
 145b:00eb0000:0c98:0003:22:0
 SES Demo
 p:SES,c:000835,c:010836,c:030835,c:050001
+0000:00eb0000:0c98:0003:2:0
+EuroSpar Music
+p:,c:011a49
 5253:00eb0000:0c99:0003:2:0
 100% NL
 p:M7 Group,c:010087,c:030087
@@ -7013,9 +6959,6 @@ p:Towercom
 1356:00eb0000:0ca2:0003:2:0
 BEAT V
 p:Towercom
-1338:00eb0000:0ca2:0003:12:0
-RDS SAT
-p:Towercom
 132f:00eb0000:0ca2:0003:22:0
 Trojka
 p:Towercom,C:0000
@@ -7072,9 +7015,6 @@ National Geographic
 p:Telekom Srbija,C:0000
 4ea1:00eb0000:0ca4:0003:1:0
 Nature HD/History HD
-p:Telekom Srbija
-4ea3:00eb0000:0ca4:0003:1:0
-Outdoor
 p:Telekom Srbija
 4ea4:00eb0000:0ca4:0003:1:0
 ID
@@ -7505,6 +7445,12 @@ p:MB Satellite,f:40
 03e8:00ebb167:0001:0001:2:0
 NRW Enc1 Ltg-Dssd.
 p:MEDIA BROADCAST,f:40
+012c:00ebb162:0001:0001:2:0
+Radio Osttirol
+p:,c:01002a
+0190:00ebb162:0001:0001:2:0
+Radio POS Österreich
+p:,c:01002b
 3459:00c00000:03e9:0001:31:0
 Service 13401
 p:ORS,C:0000
