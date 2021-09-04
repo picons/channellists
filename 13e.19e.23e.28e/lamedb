@@ -2918,9 +2918,6 @@ p:BSkyB,C:0000
 0f24:011a0000:07d8:0002:25:0
 E4 HD
 p:BSkyB,C:0000
-0e27:011a0000:07d8:0002:25:0
-Sky One HD
-p:BSkyB,C:0000
 0e2e:011a0000:07d8:0002:25:0
 SkySpMainEvHD
 p:BSkyB,C:0000
@@ -3000,10 +2997,10 @@ p:BSkyB
 SOM Test Bert/Ernie
 p:BSkyB
 149c:011a0000:07db:0002:1:0
-5276
+Sky Showcase
 p:BSkyB
 149d:011a0000:07db:0002:1:0
-5277
+SkyShowcase+1
 p:BSkyB,C:0000
 14a1:011a0000:07db:0002:1:0
 5281
@@ -3036,7 +3033,7 @@ bb80:011a0000:07dc:0002:1:0
 ___4110
 p:BSkyB
 1389:011a0000:07dc:0002:1:0
-Sky One
+Sky Max
 p:BSkyB,C:0000
 138c:011a0000:07dc:0002:1:0
 Sky Intro
@@ -3084,7 +3081,7 @@ p:BSkyB
 Dummy Eire Service
 p:BSkyB
 149f:011a0000:07dc:0002:1:0
-5279
+Sky Showcase
 p:BSkyB
 0f03:011a0000:07e0:0002:25:0
 SkySp F'ball HD
@@ -3138,7 +3135,7 @@ p:BSkyB
 launchpad
 p:BSkyB
 149b:011a0000:07e0:0002:25:0
-5275
+SkyShowcaseHD
 p:BSkyB
 14a0:011a0000:07e0:0002:25:0
 5280
@@ -3324,7 +3321,7 @@ p:BSkyB,C:0000
 TG4 HD
 p:BSkyB,C:0000
 149e:011a0000:07e5:0002:25:0
-5278
+SkyShowcaseHD
 p:BSkyB
 1482:011a0000:07e5:0002:25:0
 5250
@@ -3504,10 +3501,7 @@ p:BSkyB,C:0000
 Sky Atlantic HD
 p:BSkyB,C:0000
 0f15:011a0000:07e9:0002:25:0
-Sky One HD
-p:BSkyB,C:0000
-0f19:011a0000:07e9:0002:25:0
-Sky One HD
+Sky Max HD
 p:BSkyB,C:0000
 1521:011a0000:07e9:0002:25:0
 Premier 1 HD
@@ -3570,10 +3564,7 @@ p:BSkyB
 Sky Nature
 p:BSkyB
 1656:011a0000:07ea:0002:1:0
-Sky One
-p:BSkyB
-125d:011a0000:07ea:0002:1:0
-Sky One
+Sky Max
 p:BSkyB
 1076:011a0000:07ea:0002:1:0
 SkySpMainEv
@@ -3581,9 +3572,6 @@ p:BSkyB
 1078:011a0000:07ea:0002:1:0
 SkySpMainEv
 p:BSkyB
-057b:011a0000:07ea:0002:1:0
-Sky One+1
-p:BSkyB,C:0000
 107b:011a0000:07ea:0002:1:0
 SkySp NFL
 p:BSkyB
