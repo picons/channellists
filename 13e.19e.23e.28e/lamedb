@@ -5924,6 +5924,12 @@ p:Telekom Srbija,C:0000
 4e6a:00eb0000:0c86:0003:25:0
 Cinemax 2 HD
 p:Telekom Srbija,C:0000
+4eeb:00eb0000:0c86:0003:1:0
+Arena Sport 6
+p:
+4eec:00eb0000:0c86:0003:1:0
+Arena Sport 7
+p:
 1b92:00eb0000:0c88:0003:22:0
 RTL Z
 p:M7 Group,C:0000
@@ -6044,12 +6050,6 @@ p:Telekom Srbija
 4e82:00eb0000:0c8b:0003:1:0
 RTS 3 HD
 p:Telekom Srbija
-4fb0:00eb0000:0c8b:0003:1:0
-Uci doma 2
-p:Telekom Srbija
-4fb1:00eb0000:0c8b:0003:1:0
-Uci doma 3
-p:Telekom Srbija
 4ef2:00eb0000:0c8b:0003:1:0
 M1
 p:Telekom Srbija
@@ -6109,6 +6109,9 @@ Arena Sport HD
 p:Telekom Srbija,C:0000
 4e83:00eb0000:0c8b:0003:25:0
 RTS Svet HD
+p:Telekom Srbija
+4ea3:00eb0000:0c8b:0003:1:0
+Dox TV
 p:Telekom Srbija
 36d9:00eb0000:0c8c:0003:1:0
 GERMAN TOTE TV
@@ -6185,6 +6188,9 @@ p:M7 Group
 36ff:00eb0000:0c8c:0003:25:0
 CNN Prima News HD
 p:M7 Group
+0000:00eb0000:0c8c:0003:2:0
+Radio POS Euro AC
+p:,c:0119e7
 3b60:00eb0000:0c8d:0003:22:0
 Nickelodeon Hungary
 p:M7 Group,C:0000
@@ -6863,9 +6869,6 @@ p:Towercom
 1348:00eb0000:0ca2:0003:2:0
 Radio Lumen
 p:Towercom
-1349:00eb0000:0ca2:0003:2:0
-Antena Rock
-p:Towercom
 134a:00eb0000:0ca2:0003:2:0
 TEST
 p:Towercom
@@ -7073,6 +7076,9 @@ p:Telekom Srbija
 4ee6:00eb0000:0ca4:0003:1:0
 Telemark
 p:Telekom Srbija,c:0007bd,c:0107be,c:0307bd,c:050001,C:1871,C:0b00
+4eed:00eb0000:0ca4:0003:1:0
+Arena Sport 8
+p:
 7d00:00eb0000:000f:0005:2:0
 
 p:
