@@ -8211,7 +8211,7 @@ p:ARD
 ONE HD
 p:ARD
 2889:00c00000:040f:0001:25:0
-ARD-alpha HD
+ARD alpha HD
 p:ARD
 288a:00c00000:040f:0001:25:0
 SR Fernsehen HD
@@ -8277,7 +8277,7 @@ p:ARD NDR
 NDR Blue
 p:ARD NDR
 28b6:00c00000:040f:0001:10:0
-NDR Plus
+NDR Schlager
 p:ARD NDR
 28ba:00c00000:040f:0001:10:0
 Bremen Eins
@@ -8643,7 +8643,7 @@ p:FOXNWS,C:0000
 BabyTV
 p:DIGITAL+,C:0000
 749d:00c00000:041c:0001:1:0
-M. BIOGRAFÍAS
+M.VACACIONES
 p:Movistar+,C:0000
 749e:00c00000:041c:0001:1:0
 BOING
@@ -8679,7 +8679,7 @@ p:Movistar+,C:0000
 SES 75
 p:BetaDigital
 5278:00c00000:041d:0001:22:0
-Nicer Dicer TV
+Astra Demo
 p:BetaDigital
 5279:00c00000:041d:0001:22:0
 Genius Plus
@@ -9783,7 +9783,7 @@ p:ARD NDR
 alt_NDR Blue
 p:ARD NDR
 6f1f:00c00000:0445:0001:2:0
-alt_NDR Plus
+alt_NDR Schlager
 p:ARD NDR
 6f20:00c00000:0445:0001:2:0
 alt_Bremen Eins
@@ -10251,7 +10251,7 @@ p:MB Satellite
 Erotiksat24 TV temp
 p:MB Satellite
 314d:00c00000:0459:0001:1:0
-MB SAT - Test1
+MBS - Test1
 p:MB Satellite
 314e:00c00000:0459:0001:1:0
 Maennersache TV
@@ -10293,7 +10293,7 @@ p:MB Satellite
 Clipmobile
 p:MB Satellite
 3162:00c00000:0459:0001:1:0
-MB SAT - Test7
+Wir24TV HD
 p:MB Satellite
 3163:00c00000:0459:0001:1:0
 ALT Sendersuchlauf starten!!
@@ -10302,13 +10302,13 @@ p:MB Satellite
 Schlager Radio
 p:MB Satellite
 3165:00c00000:0459:0001:1:0
-MB SAT - Test6
+MBS - Test6
 p:MB Satellite
 3166:00c00000:0459:0001:1:0
-MB SAT - Test4
+MBS - Test4
 p:MB Satellite
 3167:00c00000:0459:0001:1:0
-MB SAT - Test5
+MBS - Test5
 p:MB Satellite
 316e:00c00000:0459:0001:2:0
 ffn
@@ -10470,7 +10470,7 @@ p:-
 RiC
 p:-
 32dd:00c00000:045d:0001:22:0
-n-tv Austria
+ntv Austria
 p:RTL
 32d5:00c00000:045d:0001:25:0
 HITRADIO OE3
@@ -10674,7 +10674,7 @@ p:SKY,C:0000
 Sky Comedy HD
 p:SKY,C:0000
 008b:00c00000:0002:0085:25:0
-Sky Cinema Family HD
+Sky Cinema Christmas HD
 p:SKY,C:0000
 0093:00c00000:0002:0085:25:0
 Sky One HD
@@ -10749,10 +10749,10 @@ p:
 Sky Cinema Premieren
 p:SKY,C:0000
 0197:00c00000:0004:0085:22:0
-Sky Cinema Family
+Sky Cinema Christmas
 p:SKY,C:0000
 00dd:00c00000:0004:0085:22:0
-Sky Sport 1
+Sky  Sport Premier League
 p:SKY,C:0000
 00df:00c00000:0004:0085:22:0
 Sky Sport Bundesliga 1
@@ -10848,7 +10848,7 @@ p:SKY
 Nat Geo Wild HD
 p:SKY,C:0000
 0081:00c00000:0006:0085:25:0
-Sky Sport 1 HD
+Sky  Sport Premier League HD
 p:SKY,C:0000
 0082:00c00000:0006:0085:25:0
 Discovery HD
@@ -10878,7 +10878,7 @@ p:BetaDigital
 Comedy Central Austria
 p:MTV Networks
 003d:00c00000:0007:0085:1:0
-NICKELODEON AT
+Nick/Comedy Central Austria
 p:MTV Networks
 0041:00c00000:0007:0085:1:0
 DELUXE MUSIC
@@ -11055,7 +11055,7 @@ p:SKY,C:0000
 Sky Atlantic HD
 p:SKY,C:0000
 006f:00c00000:000d:0085:25:0
-Sky Cinema 007 HD
+Sky Cinema Special HD
 p:SKY,C:0000
 0070:00c00000:000d:0085:25:0
 NatGeo HD
@@ -11076,7 +11076,7 @@ p:BetaDigital
 Schlager Deluxe
 p:BetaDigital
 0025:00c00000:000f:0085:1:0
-Sky Sport News
+Nicer Dicer TV
 p:SKY
 0026:00c00000:000f:0085:1:0
 HGTV
