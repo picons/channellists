@@ -5460,7 +5460,7 @@ p:Telekom Srbija
 TV Niksic
 p:Telekom Srbija
 4f1b:00eb0000:0c81:0003:1:0
-TV Budva
+Adria TV
 p:Telekom Srbija
 4f1c:00eb0000:0c81:0003:1:0
 TV Pljevlja
@@ -5672,6 +5672,27 @@ p:M7 Group
 3aa1:00eb0000:0c84:0003:25:0
 Film+ HD Hungary
 p:M7 Group
+3aa8:00eb0000:0c84:0003:22:0
+Nickelodeon Hungary
+p:M7 Group
+3aa9:00eb0000:0c84:0003:22:0
+Sorozat+
+p:M7 Group
+3aaa:00eb0000:0c84:0003:22:0
+Zenebutik
+p:M7 Group
+3aab:00eb0000:0c84:0003:22:0
+Mozi+
+p:M7 Group
+3aac:00eb0000:0c84:0003:22:0
+Muzsika TV
+p:M7 Group
+3aad:00eb0000:0c84:0003:22:0
+Slager TV
+p:M7 Group
+3aae:00eb0000:0c84:0003:22:0
+Nick Jr Hungary
+p:M7 Group
 4e24:00eb0000:0c85:0003:1:0
 TV Pink
 p:Telekom Srbija,C:0000
@@ -5831,9 +5852,6 @@ p:Telekom Srbija,C:0000
 4e62:00eb0000:0c86:0003:1:0
 FOX Movies HD
 p:Telekom Srbija,C:0000
-4e70:00eb0000:0c86:0003:1:0
-Pink Family
-p:Telekom Srbija,C:0000
 4e71:00eb0000:0c86:0003:1:0
 Pink Serije
 p:Telekom Srbija,C:0000
@@ -5985,7 +6003,7 @@ p:M7 Group
 Prima KRIMI
 p:M7 Group
 339d:00eb0000:0c89:0003:22:0
-Slagr 2
+Slager Muzika
 p:M7 Group
 3391:00eb0000:0c89:0003:25:0
 Nova HD
@@ -6197,12 +6215,12 @@ p:M7 Group
 36ff:00eb0000:0c8c:0003:25:0
 CNN Prima News HD
 p:M7 Group
-0000:00eb0000:0c8c:0003:2:0
-Radio POS Euro AC
-p:,c:0119e7
-3b60:00eb0000:0c8d:0003:22:0
-Nickelodeon Hungary
-p:M7 Group,C:0000
+36ed:00eb0000:0c8c:0003:22:0
+Prima STAR
+p:M7 Group
+36ee:00eb0000:0c8c:0003:22:0
+Prima Show
+p:M7 Group
 3b61:00eb0000:0c8d:0003:22:0
 Prime
 p:M7 Group,C:0000
@@ -6212,9 +6230,6 @@ p:M7 Group,C:0000
 3b64:00eb0000:0c8d:0003:22:0
 RTL Gold
 p:M7 Group,C:0000
-3b65:00eb0000:0c8d:0003:22:0
-Sorozat+
-p:M7 Group,C:0000
 3b66:00eb0000:0c8d:0003:22:0
 SuperTV2
 p:M7 Group,C:0000
@@ -6223,9 +6238,6 @@ TV2
 p:M7 Group,C:0000
 3b68:00eb0000:0c8d:0003:22:0
 TV4
-p:M7 Group,C:0000
-3b69:00eb0000:0c8d:0003:22:0
-Zenebutik
 p:M7 Group,C:0000
 3b6a:00eb0000:0c8d:0003:22:0
 AXN Black
@@ -6242,18 +6254,6 @@ p:M7 Group
 3b6f:00eb0000:0c8d:0003:22:0
 Spektrum Home
 p:M7 Group
-3b70:00eb0000:0c8d:0003:22:0
-Mozi+
-p:M7 Group
-3b71:00eb0000:0c8d:0003:22:0
-Muzsika TV
-p:M7 Group
-3b72:00eb0000:0c8d:0003:22:0
-Slager TV
-p:M7 Group
-3b73:00eb0000:0c8d:0003:22:0
-Nick Jr Hungary
-p:M7 Group
 3b74:00eb0000:0c8d:0003:22:0
 Nicktoons CZ
 p:M7 Group
@@ -6269,6 +6269,18 @@ p:M7 Group,c:000c1d,c:010c27,c:030c1d,c:050001,C:181d,C:0d96,C:0b02,C:0653,C:062
 3b76:00eb0000:0c8d:0003:22:0
 Film+ SK
 p:M7 Group,c:000c81,c:010c8b,c:030c81,c:050001,C:181d,C:0b02,C:0653,C:0624,C:0500
+3b78:00eb0000:0c8d:0003:25:0
+Jednotka HD
+p:M7 Group
+3b79:00eb0000:0c8d:0003:25:0
+Dvojka HD
+p:M7 Group
+3b7a:00eb0000:0c8d:0003:25:0
+Trojka HD
+p:M7 Group
+3b7b:00eb0000:0c8d:0003:25:0
+RTVS SPORT HD
+p:M7 Group
 3746:00eb0000:0c8e:0003:2:0
 Proglas
 p:M7 Group
@@ -6294,7 +6306,7 @@ p:M7 Group,C:0000
 WAU HD
 p:M7 Group,C:0000
 3722:00eb0000:0c8e:0003:25:0
-Nova 2 HD
+Nova Fun HD
 p:M7 Group,C:0000
 3723:00eb0000:0c8e:0003:25:0
 JOJ Family HD
@@ -6402,7 +6414,7 @@ p:MX1
 CS Mystery
 p:M7 Group,C:0000
 334e:00eb0000:0c93:0003:22:0
-SLAGER MUZIKA
+Slager Original
 p:M7 Group,C:0000
 335a:00eb0000:0c93:0003:22:0
 CS History
@@ -6424,9 +6436,6 @@ JOJ Cinema HD
 p:M7 Group
 335b:00eb0000:0c93:0003:25:0
 Seznam.cz HD
-p:M7 Group
-030b:00eb0000:0c94:0003:22:0
-Klenot TV
 p:M7 Group
 030c:00eb0000:0c94:0003:22:0
 MTV Europe CZ
@@ -6526,6 +6535,9 @@ Cinemax2 HD
 p:M7 Group
 3cf7:00eb0000:0c95:0003:25:0
 Film Europe+ HD
+p:M7 Group
+3cfd:00eb0000:0c95:0003:25:0
+TV8 HD
 p:M7 Group
 52da:00eb0000:0c96:0003:2:0
 MNM
@@ -7035,7 +7047,7 @@ p:Telekom Srbija
 Toxic Rap
 p:Telekom Srbija
 4ebd:00eb0000:0ca4:0003:1:0
-Arena Sport 1x2
+Arena 1x2
 p:Telekom Srbija
 4ebe:00eb0000:0ca4:0003:1:0
 City Play
@@ -7223,9 +7235,6 @@ p:
 0852:00ebad96:0000:0001:1:0
 2130 - ESKA Lublin
 p:
-1f54:00ebad96:0000:0001:1:0
-8020 - Radio Wielkopolska
-p:
 085c:00ebad96:0000:0001:1:0
 2140 - ESKA Poznan
 p:
@@ -7262,9 +7271,6 @@ p:
 0988:00ebad96:0000:0001:1:0
 2440 - ESKA Ilawa
 p:
-1388:00ebad96:0000:0001:1:0
-5000 - Testowy 1
-p:
 0c8a:00ebad96:0000:0001:1:0
 3210 - VOX Radom
 p:
@@ -7276,9 +7282,6 @@ p:
 p:
 0992:00ebad96:0000:0001:1:0
 2450 - ESKA Grudziadz
-p:
-1392:00ebad96:0000:0001:1:0
-5010 - Testowy 2
 p:
 0f96:00ebad96:0000:0001:1:0
 3990 - VOX
@@ -7451,6 +7454,90 @@ p:Telekom Srbija,c:000abf,c:010ac0,c:030abf,c:050001,C:1871
 4f34:00eb0000:0c8a:0003:1:0
 Kanal 5
 p:Telekom Srbija,c:000ac9,c:010aca,c:030ac9,c:050001,C:1871
+4f35:00eb0000:0c8a:0003:1:0
+Fox Adria
+p:Telekom Srbija
+4f36:00eb0000:0c8a:0003:1:0
+Fox Crime Adria
+p:Telekom Srbija
+4f37:00eb0000:0c8a:0003:1:0
+Nat Geo Adria
+p:Telekom Srbija
+4f38:00eb0000:0c8a:0003:1:0
+24Kitchen Adria
+p:Telekom Srbija
+7d00:00eb0000:000f:0005:2:0
+
+p:
+5208:00eb0000:000f:0005:2:0
+
+p:
+cf08:00eb0000:000f:0005:2:0
+
+p:
+7918:00eb0000:000f:0005:2:0
+
+p:
+cb20:00eb0000:000f:0005:2:0
+
+p:
+c738:00eb0000:000f:0005:2:0
+
+p:
+9858:00eb0000:000f:0005:2:0
+
+p:
+6d60:00eb0000:000f:0005:2:0
+
+p:
+9470:00eb0000:000f:0005:2:0
+
+p:
+6978:00eb0000:000f:0005:2:0
+
+p:
+9088:00eb0000:000f:0005:2:0
+
+p:
+6590:00eb0000:000f:0005:2:0
+
+p:
+e290:00eb0000:000f:0005:2:0
+
+p:
+8ca0:00eb0000:000f:0005:2:0
+
+p:
+61a8:00eb0000:000f:0005:2:0
+
+p:
+dea8:00eb0000:000f:0005:2:0
+
+p:
+88b8:00eb0000:000f:0005:2:0
+
+p:
+5dc0:00eb0000:000f:0005:2:0
+
+p:
+dac0:00eb0000:000f:0005:2:0
+
+p:
+84d0:00eb0000:000f:0005:2:0
+
+p:
+59d8:00eb0000:000f:0005:2:0
+
+p:
+d6d8:00eb0000:000f:0005:2:0
+
+p:
+55f0:00eb0000:000f:0005:2:0
+
+p:
+d2f0:00eb0000:000f:0005:2:0
+
+p:
 3459:00c00000:03e9:0001:31:0
 Service 13401
 p:ORS,C:0000
