@@ -2748,6 +2748,12 @@ ffff0000:083b:0600
 ffff0000:0840:0600
 	c 290000:6900000:2:5:0:0:0
 /
+ffff0000:081a:0600
+	c 466000:6900000:2:5:0:0:0
+/
+ffff0000:0839:0600
+	c 474000:6900000:2:3:0:0:0
+/
 eeee01da:0906:2210
 	t 473999000:0:5:5:4:6:2:4:2:0:1:0
 /
@@ -2867,6 +2873,9 @@ p:Ziggo
 3012:ffff0000:00cb:0600:25:0
 RTV Hoeksche Waard
 p:Ziggo
+37e2:ffff0000:00cb:0600:2:0
+AMOR FM
+p:Ziggo
 4e21:ffff0000:0801:0600:1:0
 24Kitchen
 p:Ziggo,C:0000,f:1000
@@ -2964,7 +2973,7 @@ p:Ziggo,C:0000
 TRT Müzik
 p:Ziggo,C:0000
 4e68:ffff0000:0804:0600:1:0
-Show TV
+ShowTÈurk
 p:Ziggo,C:0000
 4e69:ffff0000:0804:0600:1:0
 SET Asia
@@ -2993,12 +3002,6 @@ p:Ziggo,C:0000
 4e67:ffff0000:0804:0600:25:0
 Horse & Country TV HD
 p:Ziggo,C:0000
-4a39:ffff0000:0805:0600:1:0
-BBC One
-p:Ziggo,f:1000
-4a3a:ffff0000:0805:0600:1:0
-BBC Two
-p:Ziggo,f:1000
 4a3b:ffff0000:0805:0600:1:0
 Canvas
 p:Ziggo,f:1000
@@ -3009,13 +3012,13 @@ p:Ziggo,f:1000
 BBC World News
 p:Ziggo,f:1000
 4a3e:ffff0000:0805:0600:1:0
-REVOLT
+UHD3 DVB
 p:Ziggo
 4651:ffff0000:0805:0600:2:0
-Mini Disco
+Kids Disco
 p:Ziggo,C:0000
 4652:ffff0000:0805:0600:2:0
-Teen Party
+Franse Chansons
 p:Ziggo,C:0000
 4653:ffff0000:0805:0600:2:0
 Piratenplaten
@@ -3036,7 +3039,7 @@ p:Ziggo,C:0000
 Muziek Van Nu
 p:Ziggo,C:0000
 4659:ffff0000:0805:0600:2:0
-Zeroes Heroes
+00s Heroes
 p:Ziggo,C:0000
 465a:ffff0000:0805:0600:2:0
 Back 2 The 90s
@@ -3051,7 +3054,7 @@ p:Ziggo,C:0000
 Gouwe Ouwe
 p:Ziggo,C:0000
 465e:ffff0000:0805:0600:2:0
-Thuisorkest
+Klassiek
 p:Ziggo,C:0000
 465f:ffff0000:0805:0600:2:0
 Yoga Flow
@@ -3090,7 +3093,7 @@ p:Ziggo
 Op De Koffie
 p:Ziggo,C:0000
 4666:ffff0000:0806:0600:2:0
-Pure Focus
+Calm Piano
 p:Ziggo,C:0000
 4667:ffff0000:0806:0600:2:0
 Mellow Beats
@@ -3099,7 +3102,7 @@ p:Ziggo,C:0000
 Take It Easy
 p:Ziggo,C:0000
 4669:ffff0000:0806:0600:2:0
-Jazzy Dinner
+Dinner Time
 p:Ziggo,C:0000
 466a:ffff0000:0806:0600:2:0
 LOVE.
@@ -3111,13 +3114,13 @@ p:Ziggo,C:0000
 Sing-Along
 p:Ziggo,C:0000
 466d:ffff0000:0806:0600:2:0
-Huisfeestje
+NL Classics
 p:Ziggo,C:0000
 466e:ffff0000:0806:0600:2:0
-All Out Dance
+This is EDM
 p:Ziggo,C:0000
 466f:ffff0000:0806:0600:2:0
-Workout!
+Club Techno
 p:Ziggo,C:0000
 4670:ffff0000:0806:0600:2:0
 Reggae Feels
@@ -3129,7 +3132,7 @@ p:Ziggo,C:0000
 Country Roads
 p:Ziggo,C:0000
 4673:ffff0000:0806:0600:2:0
-Twist Again
+50s&60s Rock
 p:Ziggo,C:0000
 27e8:ffff0000:0806:0600:2:0
 Sky Radio
@@ -3231,7 +3234,7 @@ p:Ziggo
 Groot Nieuws Radio
 p:Ziggo
 468d:ffff0000:0808:0600:2:0
-Rock Legends
+Classic Rock
 p:Ziggo,C:0000
 468e:ffff0000:0808:0600:2:0
 Rock On
@@ -3240,22 +3243,22 @@ p:Ziggo,C:0000
 Kneiterhard
 p:Ziggo,C:0000
 4690:ffff0000:0808:0600:2:0
-Indie Wave
+Metal Madness
 p:Ziggo,C:0000
 4691:ffff0000:0808:0600:2:0
-Sit Back&Jazz
+Jazz Vibes
 p:Ziggo,C:0000
 4692:ffff0000:0808:0600:2:0
 Soul Baby
 p:Ziggo,C:0000
 4693:ffff0000:0808:0600:2:0
-Straattaal
+Wereldmuziek
 p:Ziggo,C:0000
 4694:ffff0000:0808:0600:2:0
-Urban Vibes
+Got The Blues
 p:Ziggo,C:0000
 4695:ffff0000:0808:0600:2:0
-Themafeestje
+Season Vibes
 p:Ziggo,C:0000
 4696:ffff0000:0808:0600:2:0
 Ziggo Dome
@@ -3275,18 +3278,12 @@ p:Ziggo,f:1000
 4aba:ffff0000:080b:0600:25:0
 SBS6 HD
 p:Ziggo,C:0000,f:1000
-5298:ffff0000:080c:0600:1:0
-L1TV
-p:Ziggo,f:1000
 4ac5:ffff0000:080c:0600:1:0
 RTV-7
 p:Ziggo,c:0007d1,c:0107db,c:0307d1,C:0000,f:1000
 4ac6:ffff0000:080c:0600:1:0
 Secret Circle
 p:Ziggo,C:0000,f:1000
-4ac8:ffff0000:080c:0600:1:0
-L1 TV
-p:Ziggo,f:1000
 4ac9:ffff0000:080c:0600:1:0
 Cartoon Network
 p:Ziggo,C:0000
@@ -3294,7 +3291,7 @@ p:Ziggo,C:0000
 NPO Nieuws
 p:Ziggo,C:0000,f:1000
 4acf:ffff0000:080c:0600:1:0
-NPO Politiek
+NPO Politiek en Nieuws
 p:Ziggo,C:0000,f:1000
 4ad0:ffff0000:080c:0600:1:0
 ONS
@@ -3302,6 +3299,15 @@ p:Ziggo,C:0000,f:1000
 4ad1:ffff0000:080c:0600:1:0
 Sat. 1
 p:Ziggo,C:0000,f:1000
+529f:ffff0000:080c:0600:1:0
+NPO Politiek
+p:Ziggo,C:0000
+5298:ffff0000:080c:0600:25:0
+L1TV
+p:Ziggo
+4ac8:ffff0000:080c:0600:25:0
+L1 TV
+p:Ziggo
 4ada:ffff0000:080d:0600:1:0
 XITE
 p:Ziggo,C:0000,f:1000
@@ -3356,54 +3362,51 @@ p:Ziggo
 4ade:ffff0000:080d:0600:25:0
 Comedy Central HD
 p:Ziggo,C:0000,f:1000
-4b07:ffff0000:080e:0600:1:0
+4b07:ffff0000:080e:0600:25:0
 RTV Utrecht
-p:Ziggo,f:1000
-4b08:ffff0000:080e:0600:1:0
+p:Ziggo
+4b08:ffff0000:080e:0600:25:0
 TV Rijnmond
-p:Ziggo,f:1000
-4b09:ffff0000:080e:0600:1:0
+p:Ziggo
+4b09:ffff0000:080e:0600:25:0
 Omroep Flevoland
-p:Ziggo,f:1000
-4b0a:ffff0000:080e:0600:1:0
+p:Ziggo
+4b0a:ffff0000:080e:0600:25:0
 AT5
-p:Ziggo,f:1000
-4b0b:ffff0000:080e:0600:1:0
+p:Ziggo
+4b0b:ffff0000:080e:0600:25:0
 NH Nieuws
-p:Ziggo,f:1000
-4b0c:ffff0000:080e:0600:1:0
+p:Ziggo
+4b0c:ffff0000:080e:0600:25:0
 TV West
-p:Ziggo,f:1000
-4b0d:ffff0000:080e:0600:1:0
+p:Ziggo
+4b0d:ffff0000:080e:0600:25:0
 Omroep Zeeland
-p:Ziggo,f:1000
-4b0e:ffff0000:080e:0600:1:0
+p:Ziggo
+4b0e:ffff0000:080e:0600:25:0
 Omrop Fryslân
-p:Ziggo,f:1000
-52d7:ffff0000:080e:0600:1:0
+p:Ziggo
+52d7:ffff0000:080e:0600:25:0
 RTV Utrecht
-p:Ziggo,c:000ed9,c:010ee3,c:020f3d,c:030ed9,f:1000
-52d8:ffff0000:080e:0600:1:0
+p:Ziggo
+52d8:ffff0000:080e:0600:25:0
 TV Rijnmond
-p:Ziggo,f:1000
-52d9:ffff0000:080e:0600:1:0
+p:Ziggo
+52d9:ffff0000:080e:0600:25:0
 Omroep Flevoland
-p:Ziggo,f:1000
-52da:ffff0000:080e:0600:1:0
+p:Ziggo
+52da:ffff0000:080e:0600:25:0
 AT5
-p:Ziggo,f:1000
-52db:ffff0000:080e:0600:1:0
+p:Ziggo
+52db:ffff0000:080e:0600:25:0
 NH Nieuws
-p:Ziggo,f:1000
-52dc:ffff0000:080e:0600:1:0
+p:Ziggo
+52dc:ffff0000:080e:0600:25:0
 TV West
-p:Ziggo,f:1000
-52de:ffff0000:080e:0600:1:0
+p:Ziggo
+52de:ffff0000:080e:0600:25:0
 Omrop Fryslân
-p:Ziggo,f:1000
-7613:ffff0000:080f:0600:25:0
-Ziggo Live Events ESPN
-p:Ziggo,C:0000
+p:Ziggo
 4b15:ffff0000:080f:0600:25:0
 National Geographic Channel HD
 p:Ziggo,C:0000,f:1000
@@ -3412,9 +3415,6 @@ Discovery HD
 p:Ziggo,C:0000,f:1000
 4b1a:ffff0000:080f:0600:25:0
 Canvas HD
-p:Ziggo,C:0000,f:1000
-4b1b:ffff0000:080f:0600:25:0
-ESPN 5
 p:Ziggo,C:0000,f:1000
 4b30:ffff0000:0810:0600:1:0
 Stingray DJAZZ
@@ -3438,7 +3438,7 @@ p:Ziggo,C:0000
 Ziggo Sport Docu HD
 p:Ziggo,C:0000
 4b38:ffff0000:0810:0600:25:0
-Ziggo Sport Tennis
+Ziggo Sport Tennis HD
 p:Ziggo,C:0000,f:1000
 4b39:ffff0000:0810:0600:25:0
 Ziggo
@@ -3465,7 +3465,7 @@ p:Ziggo,C:0000,f:1000
 TRT Turk
 p:Ziggo,C:0000
 4b4d:ffff0000:0812:0600:1:0
-TV 8
+TV8 Int.
 p:Ziggo,C:0000
 4b4e:ffff0000:0812:0600:1:0
 TV Oranje
@@ -3491,9 +3491,6 @@ p:Ziggo,C:0000,f:1000
 4b5f:ffff0000:0813:0600:1:0
 Stingray Lite TV
 p:Ziggo,C:0000,f:1000
-4b60:ffff0000:0813:0600:1:0
-192TV
-p:Ziggo,C:0000,f:1000
 4b61:ffff0000:0813:0600:25:0
 Shorts TV HD
 p:Ziggo,C:0000,f:1000
@@ -3502,6 +3499,9 @@ RTL Lounge HD
 p:Ziggo,C:0000,f:1000
 4b63:ffff0000:0813:0600:25:0
 RTL Telekids HD
+p:Ziggo,C:0000
+4b60:ffff0000:0813:0600:25:0
+192TV HD
 p:Ziggo,C:0000
 4b65:ffff0000:0814:0600:1:0
 Nicktoons
@@ -3513,7 +3513,7 @@ p:Ziggo,C:0000,f:1000
 Nick Jr.
 p:Ziggo,C:0000,f:1000
 4b68:ffff0000:0814:0600:1:0
-MTV Music 24
+MTV 90s
 p:Ziggo,C:0000,f:1000
 4b69:ffff0000:0814:0600:1:0
 PassieXXX
@@ -3531,10 +3531,13 @@ p:Ziggo,C:0000,f:1000
 MBC
 p:Ziggo,C:0000
 4b6b:ffff0000:0814:0600:25:0
-NPO 1 extra HD
+NPO 1 extra
 p:Ziggo,C:0000
 4b71:ffff0000:0814:0600:25:0
 Penthouse Gold
+p:Ziggo,C:0000
+533b:ffff0000:0814:0600:25:0
+NPO 1 extra
 p:Ziggo,C:0000
 4b79:ffff0000:0815:0600:25:0
 Ziggo Sport Select HD
@@ -3587,9 +3590,6 @@ p:Ziggo,f:1000
 4b9b:ffff0000:0816:0600:1:0
 Radio Info
 p:Ziggo
-4b9c:ffff0000:0816:0600:1:0
-498 SID 0x4b9c
-p:
 4b92:ffff0000:0816:0600:25:0
 Ziggo Live Events
 p:Ziggo
@@ -3598,6 +3598,12 @@ Ziggo Zenderoverzicht HD
 p:Ziggo
 4b95:ffff0000:0816:0600:25:0
 Ziggo Zenderoverzicht HD
+p:Ziggo
+4b9c:ffff0000:0816:0600:25:0
+prime video
+p:Ziggo
+4b9d:ffff0000:0816:0600:25:0
+Radio Info
 p:Ziggo
 4ba2:ffff0000:0817:0600:25:0
 één HD
@@ -3635,132 +3641,6 @@ p:Ziggo,C:0000
 4cc9:ffff0000:0819:0600:25:0
 Film1 On Demand.
 p:Ziggo
-4115:ffff0000:081a:0600:1:0
-Code Download HZN
-p:Ziggo,c:031fff
-4116:ffff0000:081a:0600:1:0
-Humax 5500C
-p:Ziggo
-4117:ffff0000:081a:0600:1:0
-Codedownload D4A
-p:Ziggo
-4cd4:ffff0000:081a:0600:1:0
-Testbeeld
-p:Ziggo
-4cd5:ffff0000:081a:0600:1:0
-Testbeeld
-p:Ziggo
-4cd8:ffff0000:081a:0600:1:0
-Ziggo Sport.
-p:Ziggo
-4cd9:ffff0000:081a:0600:1:0
-Ziggo
-p:Ziggo
-4ccd:ffff0000:081a:0600:25:0
-Ziggo Sport HD
-p:Ziggo,f:1000
-4cd6:ffff0000:081a:0600:25:0
-Ziggo Live Events
-p:Ziggo
-4cd7:ffff0000:081a:0600:25:0
-SBS9 HD
-p:Ziggo,c:001389,c:0213ed,c:031389,c:041394,c:050001,C:1868,C:1850,C:1801,C:0606,C:0604,C:0602,f:1000
-4511:ffff0000:081b:0600:1:0
-Ajax TV
-p:Ziggo,C:0000
-4512:ffff0000:081b:0600:1:0
-iTV NGC On Demand
-p:Ziggo
-4513:ffff0000:081b:0600:1:0
-iTV Disney On Demand
-p:Ziggo
-4514:ffff0000:081b:0600:1:0
-iTV Discovery On Demand
-p:Ziggo
-4515:ffff0000:081b:0600:1:0
-iTV CDT New
-p:Ziggo
-4516:ffff0000:081b:0600:1:0
-iTV Comedy Central On Demand
-p:Ziggo
-4518:ffff0000:081b:0600:1:0
-iTV FOX Sport COD
-p:Ziggo
-4519:ffff0000:081b:0600:1:0
-iTV Nickelodeon On Demand
-p:Ziggo
-451a:ffff0000:081b:0600:1:0
-iTV MTV On Demand
-p:Ziggo
-451b:ffff0000:081b:0600:1:0
-PSV TV
-p:Ziggo,C:0000
-451c:ffff0000:081b:0600:1:0
-iTV FOX
-p:Ziggo
-451d:ffff0000:081b:0600:1:0
-iTV Sport 1 ondemand
-p:Ziggo
-451e:ffff0000:081b:0600:1:0
-iTV 13th street
-p:Ziggo
-451f:ffff0000:081b:0600:1:0
-iTV CoD een
-p:Ziggo
-4520:ffff0000:081b:0600:1:0
-iTV CoD Canvas
-p:Ziggo
-4521:ffff0000:081b:0600:1:0
-iTV CoD Ketnet
-p:Ziggo
-4522:ffff0000:081b:0600:1:0
-Place Holder Application
-p:Ziggo
-4523:ffff0000:081b:0600:1:0
-iTV Eredivisie on Demand
-p:Ziggo
-4524:ffff0000:081b:0600:1:0
-iTV CoD History channel
-p:Ziggo
-4526:ffff0000:081b:0600:1:0
-iTV Nachtlounge COD
-p:Ziggo
-4527:ffff0000:081b:0600:1:0
-iTV Filmfestival COD
-p:Ziggo
-4528:ffff0000:081b:0600:1:0
-iTV General Messaging 4
-p:Ziggo
-4529:ffff0000:081b:0600:1:0
-iTV CoD Kijk
-p:Ziggo
-452a:ffff0000:081b:0600:1:0
-iTV TV Tips
-p:Ziggo
-452b:ffff0000:081b:0600:1:0
-iTV CoD Cartoon
-p:Ziggo
-452c:ffff0000:081b:0600:1:0
-iTV Self Care Application
-p:Ziggo
-452e:ffff0000:081b:0600:1:0
-VOD2 test
-p:Ziggo
-452f:ffff0000:081b:0600:1:0
-ondemand
-p:Ziggo
-4530:ffff0000:081b:0600:1:0
-VOD2 Dual Barker 1
-p:Ziggo
-4531:ffff0000:081b:0600:1:0
-VOD2 Dual Barker 2
-p:Ziggo
-4532:ffff0000:081b:0600:1:0
-On Demand
-p:Ziggo
-4ce1:ffff0000:081b:0600:25:0
-Ziggo Live Events
-p:Ziggo
 4cf5:ffff0000:081c:0600:25:0
 24Kitchen HD
 p:Ziggo,C:0000,f:1000
@@ -3773,17 +3653,11 @@ p:Ziggo,C:0000,f:1000
 4cfc:ffff0000:081c:0600:25:0
 XITE HD
 p:Ziggo,C:0000,f:1000
-76b1:ffff0000:0831:0600:25:0
-Ziggo Live Events ESPN
-p:Ziggo,C:0000
 4bb5:ffff0000:0831:0600:25:0
 ID HD
 p:Ziggo,C:0000
 4bb6:ffff0000:0831:0600:25:0
 Ziggo Sport Golf HD
-p:Ziggo,C:0000,f:1000
-4bb9:ffff0000:0831:0600:25:0
-ESPN 6
 p:Ziggo,C:0000,f:1000
 4bbc:ffff0000:0831:0600:25:0
 Spike HD
@@ -3860,12 +3734,6 @@ p:Ziggo,C:0000,f:1000
 4c23:ffff0000:0836:0600:1:0
 BBC Entertainment
 p:Ziggo,C:0000,f:1000
-4c24:ffff0000:0836:0600:1:0
-Boomerang
-p:Ziggo,c:0014b5,c:0114c0,c:0314b5,c:050001,C:0000,f:1000
-4c25:ffff0000:0836:0600:1:0
-CI
-p:Ziggo,C:0000,f:1000
 4c26:ffff0000:0836:0600:1:0
 Nick Music
 p:Ziggo,C:0000,f:1000
@@ -3876,10 +3744,19 @@ p:Ziggo,C:0000,f:1000
 RTL Crime HD
 p:Ziggo,C:0000,f:1000
 4c1c:ffff0000:0836:0600:25:0
-NPO 2 extra HD
+NPO 2 extra
 p:Ziggo,C:0000
 4c1f:ffff0000:0836:0600:25:0
 DanceTelevision
+p:Ziggo,C:0000
+4c24:ffff0000:0836:0600:25:0
+Boomerang HD
+p:Ziggo,C:0000
+4c25:ffff0000:0836:0600:25:0
+Crime+Investigation HD
+p:Ziggo,C:0000
+53ec:ffff0000:0836:0600:25:0
+NPO 2 extra
 p:Ziggo,C:0000
 4c32:ffff0000:0837:0600:25:0
 Netflix.
@@ -3890,51 +3767,12 @@ p:Ziggo
 4c35:ffff0000:0837:0600:25:0
 Ziggo Live Events ESPN
 p:Ziggo,C:0000
-4c36:ffff0000:0837:0600:25:0
-Ziggo Live Events ESPN
-p:Ziggo,C:0000
 4c30:ffff0000:0837:0600:31:0
 UHD DVB
 p:Ziggo,c:000b55,c:010b5f,c:030b55,c:050007,C:0000
 4c3e:ffff0000:0837:0600:31:0
 UHD2 DVB
 p:Ziggo,c:001bbd,c:011bc7,c:031bbd,c:050001,C:0000
-3f35:ffff0000:0839:0600:1:0
-Testbeeld
-p:Ziggo
-3f36:ffff0000:0839:0600:1:0
-Radio Actual
-p:Ziggo
-3f3d:ffff0000:0839:0600:1:0
-TV Guide
-p:Ziggo
-3f3e:ffff0000:0839:0600:1:0
-Code Download
-p:Ziggo
-3f3f:ffff0000:0839:0600:1:0
-Switch Image
-p:Ziggo
-3f42:ffff0000:0839:0600:1:0
-TV Search
-p:Ziggo
-3f43:ffff0000:0839:0600:1:0
-Welcome Application
-p:Ziggo
-3f45:ffff0000:0839:0600:1:0
-Ziggo Live Events
-p:Ziggo
-3f46:ffff0000:0839:0600:1:0
-Standby Application
-p:Ziggo
-3f47:ffff0000:0839:0600:1:0
-Film1 Applicatie
-p:Ziggo
-3f49:ffff0000:0839:0600:1:0
-CUTV
-p:Ziggo
-3f4a:ffff0000:0839:0600:1:0
-MGM ON Demand
-p:Ziggo
 7761:ffff0000:083a:0600:25:0
 Ziggo Live Events ESPN
 p:Ziggo,C:0000
@@ -3953,39 +3791,39 @@ p:Ziggo,C:0000,f:1000
 4c6e:ffff0000:083a:0600:25:0
 TLC HD
 p:Ziggo,C:0000,f:1000
-544f:ffff0000:083b:0600:1:0
-TV Noord
-p:Ziggo,f:1000
-5457:ffff0000:083b:0600:1:0
-TV Drenthe
-p:Ziggo,f:1000
-5458:ffff0000:083b:0600:1:0
-TV Oost
-p:Ziggo,f:1000
-5459:ffff0000:083b:0600:1:0
-Omroep Brabant
-p:Ziggo,f:1000
-545a:ffff0000:083b:0600:1:0
-TV Gelderland
-p:Ziggo,f:1000
-4c7f:ffff0000:083b:0600:1:0
-TV Noord
-p:Ziggo,f:1000
-4c87:ffff0000:083b:0600:1:0
-TV Drenthe
-p:Ziggo,f:1000
-4c88:ffff0000:083b:0600:1:0
-TV Oost
-p:Ziggo,f:1000
-4c89:ffff0000:083b:0600:1:0
-Omroep Brabant
-p:Ziggo,f:1000
-4c8a:ffff0000:083b:0600:1:0
-TV Gelderland
-p:Ziggo,f:1000
 4c7d:ffff0000:083b:0600:25:0
 Eurosport 2 HD
 p:Ziggo,C:0000,f:1000
+544f:ffff0000:083b:0600:25:0
+TV Noord
+p:Ziggo
+5457:ffff0000:083b:0600:25:0
+TV Drenthe
+p:Ziggo
+5458:ffff0000:083b:0600:25:0
+TV Oost
+p:Ziggo
+5459:ffff0000:083b:0600:25:0
+Omroep Brabant
+p:Ziggo
+545a:ffff0000:083b:0600:25:0
+TV Gelderland
+p:Ziggo
+4c7f:ffff0000:083b:0600:25:0
+TV Noord
+p:Ziggo
+4c87:ffff0000:083b:0600:25:0
+TV Drenthe
+p:Ziggo
+4c88:ffff0000:083b:0600:25:0
+TV Oost
+p:Ziggo
+4c89:ffff0000:083b:0600:25:0
+Omroep Brabant
+p:Ziggo
+4c8a:ffff0000:083b:0600:25:0
+TV Gelderland
+p:Ziggo
 4aef:ffff0000:0840:0600:1:0
 Disney Channel
 p:Ziggo,f:1000
@@ -4034,5 +3872,32 @@ p:Ziggo,C:0000,f:1000
 4af7:ffff0000:0840:0600:25:0
 RTL Z HD
 p:Ziggo,C:0000,f:1000
+4cd4:ffff0000:081a:0600:1:0
+Testbeeld
+p:Ziggo
+4cd5:ffff0000:081a:0600:1:0
+Testbeeld
+p:Ziggo
+4cd8:ffff0000:081a:0600:1:0
+Ziggo Sport.
+p:Ziggo
+4cd9:ffff0000:081a:0600:1:0
+Ziggo
+p:Ziggo
+4ccd:ffff0000:081a:0600:25:0
+Ziggo Sport HD
+p:Ziggo
+4cd6:ffff0000:081a:0600:25:0
+Ziggo Live Events
+p:Ziggo
+4cd7:ffff0000:081a:0600:25:0
+SBS9 HD
+p:Ziggo,C:0000
+3f35:ffff0000:0839:0600:1:0
+Testbeeld
+p:Ziggo
+3f45:ffff0000:0839:0600:1:0
+Ziggo Live Events
+p:Ziggo,C:0000
 end
 Editor:DreamSet 2.4.14 - http://www.dreamset-editor.com
