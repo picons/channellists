@@ -3143,15 +3143,6 @@ p:Ziggo
 4a50:ffff0000:0806:0600:25:0
 Net5 HD
 p:Ziggo,C:0000,f:1000
-4a61:ffff0000:0807:0600:1:0
-NPO 1
-p:Ziggo,f:1000
-4a62:ffff0000:0807:0600:1:0
-NPO 2
-p:Ziggo,f:1000
-4a63:ffff0000:0807:0600:1:0
-NPO 3
-p:Ziggo,f:1000
 4a64:ffff0000:0807:0600:1:0
 Ziggo Sport
 p:Ziggo,f:1000
