@@ -2754,6 +2754,9 @@ ffff0000:081a:0600
 ffff0000:0839:0600
 	c 474000:6900000:2:3:0:0:0
 /
+ffff0000:081b:0600
+	c 546000:6900000:2:5:0:0:0
+/
 eeee01da:0906:2210
 	t 473999000:0:5:5:4:6:2:4:2:0:1:0
 /
@@ -3012,7 +3015,7 @@ p:Ziggo,f:1000
 BBC World News
 p:Ziggo,f:1000
 4a3e:ffff0000:0805:0600:1:0
-UHD3 DVB
+ESPN UHD
 p:Ziggo
 4651:ffff0000:0805:0600:2:0
 Kids Disco
@@ -3759,7 +3762,7 @@ p:Ziggo
 Ziggo Live Events ESPN
 p:Ziggo,C:0000
 4c30:ffff0000:0837:0600:31:0
-UHD DVB
+Ziggo Sport
 p:Ziggo,c:000b55,c:010b5f,c:030b55,c:050007,C:0000
 4c3e:ffff0000:0837:0600:31:0
 UHD2 DVB
@@ -3863,6 +3866,15 @@ p:Ziggo,C:0000,f:1000
 4af7:ffff0000:0840:0600:25:0
 RTL Z HD
 p:Ziggo,C:0000,f:1000
+4115:ffff0000:081a:0600:1:0
+Code Download HZN
+p:Ziggo
+4116:ffff0000:081a:0600:1:0
+Humax 5500C
+p:Ziggo
+4117:ffff0000:081a:0600:1:0
+Codedownload D4A
+p:Ziggo
 4cd4:ffff0000:081a:0600:1:0
 Testbeeld
 p:Ziggo
@@ -3887,8 +3899,134 @@ p:Ziggo,C:0000
 3f35:ffff0000:0839:0600:1:0
 Testbeeld
 p:Ziggo
+3f36:ffff0000:0839:0600:1:0
+Radio Actual
+p:Ziggo
+3f3d:ffff0000:0839:0600:1:0
+TV Guide
+p:Ziggo
+3f3e:ffff0000:0839:0600:1:0
+Code Download
+p:Ziggo
+3f3f:ffff0000:0839:0600:1:0
+Switch Image
+p:Ziggo
+3f42:ffff0000:0839:0600:1:0
+TV Search
+p:Ziggo
+3f43:ffff0000:0839:0600:1:0
+Welcome Application
+p:Ziggo
 3f45:ffff0000:0839:0600:1:0
 Ziggo Live Events
 p:Ziggo,C:0000
+3f46:ffff0000:0839:0600:1:0
+Standby Application
+p:Ziggo
+3f47:ffff0000:0839:0600:1:0
+Film1 Applicatie
+p:Ziggo
+3f49:ffff0000:0839:0600:1:0
+CUTV
+p:Ziggo
+3f4a:ffff0000:0839:0600:1:0
+MGM ON Demand
+p:Ziggo
+4511:ffff0000:081b:0600:1:0
+Ajax TV
+p:Ziggo,C:0000
+4512:ffff0000:081b:0600:1:0
+iTV NGC On Demand
+p:Ziggo
+4513:ffff0000:081b:0600:1:0
+iTV Disney On Demand
+p:Ziggo
+4514:ffff0000:081b:0600:1:0
+iTV Discovery On Demand
+p:Ziggo
+4515:ffff0000:081b:0600:1:0
+iTV CDT New
+p:Ziggo
+4516:ffff0000:081b:0600:1:0
+iTV Comedy Central On Demand
+p:Ziggo
+4518:ffff0000:081b:0600:1:0
+iTV FOX Sport COD
+p:Ziggo
+4519:ffff0000:081b:0600:1:0
+iTV Nickelodeon On Demand
+p:Ziggo
+451a:ffff0000:081b:0600:1:0
+iTV MTV On Demand
+p:Ziggo
+451b:ffff0000:081b:0600:1:0
+PSV TV
+p:Ziggo,C:0000
+451c:ffff0000:081b:0600:1:0
+iTV FOX
+p:Ziggo
+451d:ffff0000:081b:0600:1:0
+iTV Sport 1 ondemand
+p:Ziggo
+451e:ffff0000:081b:0600:1:0
+iTV 13th street
+p:Ziggo
+451f:ffff0000:081b:0600:1:0
+iTV CoD een
+p:Ziggo
+4520:ffff0000:081b:0600:1:0
+iTV CoD Canvas
+p:Ziggo
+4521:ffff0000:081b:0600:1:0
+iTV CoD Ketnet
+p:Ziggo
+4522:ffff0000:081b:0600:1:0
+Place Holder Application
+p:Ziggo
+4523:ffff0000:081b:0600:1:0
+iTV Eredivisie on Demand
+p:Ziggo
+4524:ffff0000:081b:0600:1:0
+iTV CoD History channel
+p:Ziggo
+4526:ffff0000:081b:0600:1:0
+iTV Nachtlounge COD
+p:Ziggo
+4527:ffff0000:081b:0600:1:0
+iTV Filmfestival COD
+p:Ziggo
+4528:ffff0000:081b:0600:1:0
+iTV General Messaging 4
+p:Ziggo
+4529:ffff0000:081b:0600:1:0
+iTV CoD Kijk
+p:Ziggo
+452a:ffff0000:081b:0600:1:0
+iTV TV Tips
+p:Ziggo
+452b:ffff0000:081b:0600:1:0
+iTV CoD Cartoon
+p:Ziggo
+452c:ffff0000:081b:0600:1:0
+iTV Self Care Application
+p:Ziggo
+452e:ffff0000:081b:0600:1:0
+VOD2 test
+p:Ziggo
+452f:ffff0000:081b:0600:1:0
+ondemand
+p:Ziggo
+4530:ffff0000:081b:0600:1:0
+VOD2 Dual Barker 1
+p:Ziggo
+4531:ffff0000:081b:0600:1:0
+VOD2 Dual Barker 2
+p:Ziggo
+4532:ffff0000:081b:0600:1:0
+On Demand
+p:Ziggo
+4ce1:ffff0000:081b:0600:25:0
+Ziggo Live Events
+p:Ziggo
 end
 Editor:DreamSet 2.4.14 - http://www.dreamset-editor.com
