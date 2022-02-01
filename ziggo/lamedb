@@ -2918,9 +2918,6 @@ p:Ziggo,f:1000
 4e4e:ffff0000:0803:0600:1:0
 CGTN
 p:Ziggo,C:0000,f:1000
-4e50:ffff0000:0803:0600:1:0
-NPO Zappelin extra
-p:Ziggo,C:0000,f:1000
 4e53:ffff0000:0803:0600:1:0
 Family7
 p:Ziggo,C:0000,f:1000
@@ -3176,6 +3173,9 @@ p:Ziggo
 4a66:ffff0000:0807:0600:25:0
 Nickelodeon HD
 p:Ziggo,C:0000,f:1000
+4679:ffff0000:0807:0600:2:0
+Sunlite Radio
+p:Ziggo
 4a75:ffff0000:0808:0600:1:0
 Veronica / Disney XD
 p:Ziggo,f:1000
@@ -3281,9 +3281,6 @@ p:Ziggo,C:0000,f:1000
 4ac9:ffff0000:080c:0600:1:0
 Cartoon Network
 p:Ziggo,C:0000
-4ace:ffff0000:080c:0600:1:0
-NPO Nieuws
-p:Ziggo,C:0000,f:1000
 4acf:ffff0000:080c:0600:1:0
 NPO Politiek en Nieuws
 p:Ziggo,C:0000,f:1000
@@ -3293,9 +3290,6 @@ p:Ziggo,C:0000,f:1000
 4ad1:ffff0000:080c:0600:1:0
 Sat. 1
 p:Ziggo,C:0000,f:1000
-529f:ffff0000:080c:0600:1:0
-NPO Politiek
-p:Ziggo,C:0000
 5298:ffff0000:080c:0600:25:0
 L1TV
 p:Ziggo
@@ -3530,9 +3524,6 @@ p:Ziggo,C:0000
 4b71:ffff0000:0814:0600:25:0
 Penthouse Gold
 p:Ziggo,C:0000
-533b:ffff0000:0814:0600:25:0
-NPO 1 extra
-p:Ziggo,C:0000
 4b79:ffff0000:0815:0600:25:0
 Ziggo Sport Select HD
 p:Ziggo,C:0000,f:1000
@@ -3749,9 +3740,6 @@ p:Ziggo,C:0000
 4c25:ffff0000:0836:0600:25:0
 Crime+Investigation HD
 p:Ziggo,C:0000
-53ec:ffff0000:0836:0600:25:0
-NPO 2 extra
-p:Ziggo,C:0000
 4c32:ffff0000:0837:0600:25:0
 Netflix.
 p:Ziggo
@@ -3765,7 +3753,7 @@ p:Ziggo,C:0000
 Ziggo Sport
 p:Ziggo,c:000b55,c:010b5f,c:030b55,c:050007,C:0000
 4c3e:ffff0000:0837:0600:31:0
-UHD2 DVB
+Eurosport 4K
 p:Ziggo,c:001bbd,c:011bc7,c:031bbd,c:050001,C:0000
 7761:ffff0000:083a:0600:25:0
 Ziggo Live Events ESPN
@@ -3896,6 +3884,9 @@ p:Ziggo
 4cd7:ffff0000:081a:0600:25:0
 SBS9 HD
 p:Ziggo,C:0000
+44fe:ffff0000:081a:0600:193:0
+MH_System_Data_Service
+p:Ziggo
 3f35:ffff0000:0839:0600:1:0
 Testbeeld
 p:Ziggo
