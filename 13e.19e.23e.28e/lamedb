@@ -711,6 +711,9 @@ transponders
 00eb0000:0c8a:0003
 	s 11895000:30000000:1:3:235:2:0:1:2:0:2
 /
+00ebada1:0001:0000
+	s 11681000:1497000:1:3:235:2:0:1:1:0:2
+/
 00d70000:0002:0001
 	s 10856000:30000000:1:1:215:2:0:1:1:0:2
 /
@@ -5574,16 +5577,13 @@ p:M7 Group
 Radio Veronica
 p:M7 Group
 177a:00eb0000:0c82:0003:22:0
-NPO Politiek
+NPO Politiek en Nieuws
 p:M7 Group,C:0000
 177f:00eb0000:0c82:0003:22:0
 192TV
 p:M7 Group,C:0000
 178e:00eb0000:0c82:0003:22:0
 FOX Channel
-p:M7 Group,C:0000
-1793:00eb0000:0c82:0003:22:0
-Boomerang
 p:M7 Group,C:0000
 1794:00eb0000:0c82:0003:22:0
 Boomerang CZ
@@ -5602,9 +5602,6 @@ CD Infokanaal
 p:M7 Group
 17e1:00eb0000:0c82:0003:22:0
 TVV Infokanaal
-p:M7 Group
-17e9:00eb0000:0c82:0003:22:0
-Cartoon Network
 p:M7 Group
 17ea:00eb0000:0c82:0003:22:0
 FIGHTBOX
@@ -5766,16 +5763,16 @@ p:Telekom Srbija
 LFCTV
 p:Telekom Srbija
 4e48:00eb0000:0c85:0003:1:0
-CineStar TV 1
+HRT 1
 p:Telekom Srbija
 4e49:00eb0000:0c85:0003:1:0
-CineStar TV Action & Thriller
+HRT 2
 p:Telekom Srbija
 4e4a:00eb0000:0c85:0003:1:0
 Arena Sport_4
 p:Telekom Srbija
 4e4b:00eb0000:0c85:0003:1:0
-CineStar TV Comedy &Family
+HRT 3
 p:Telekom Srbija
 4e4c:00eb0000:0c85:0003:1:0
 Pink Premium
@@ -5963,6 +5960,9 @@ p:
 4eec:00eb0000:0c86:0003:1:0
 Arena Sport 7
 p:
+4e70:00eb0000:0c86:0003:1:0
+Pink family
+p:Telekom Srbija
 1b92:00eb0000:0c88:0003:22:0
 RTL Z
 p:M7 Group,C:0000
@@ -6149,9 +6149,21 @@ p:Telekom Srbija
 4ea3:00eb0000:0c8b:0003:1:0
 Dox TV
 p:Telekom Srbija
-36d9:00eb0000:0c8c:0003:1:0
-GERMAN TOTE TV
-p:MB Satellite
+50dc:00eb0000:0c8b:0003:12:0
+STB SSU
+p:
+50de:00eb0000:0c8b:0003:12:0
+GM SRB SSU
+p:
+50df:00eb0000:0c8b:0003:12:0
+GM BIH SSU
+p:
+50e0:00eb0000:0c8b:0003:12:0
+GM CG SSU
+p:
+50e7:00eb0000:0c8b:0003:12:0
+NG SSU
+p:
 36e3:00eb0000:0c8c:0003:22:0
 DOCUBOX
 p:M7 Group,C:0000
@@ -6419,6 +6431,18 @@ p:BetaDigital,c:0003ff,c:010400,c:0303ff,c:050001,C:1837
 17de:00eb0000:0c91:0003:25:0
 SES Demo HD
 p:MX1
+182e:00eb0000:0c91:0003:12:0
+A2C-RMT
+p:ABBS
+182f:00eb0000:0c91:0003:100:0
+12032H SID 0x182f
+p:DVB-S2 QPSK 12032H 23.5Â°E
+1830:00eb0000:0c91:0003:100:0
+12032H SID 0x1830
+p:DVB-S2 QPSK 12032H 23.5Â°E
+1831:00eb0000:0c91:0003:100:0
+12032H SID 0x1831
+p:DVB-S2 QPSK 12032H 23.5Â°E
 334d:00eb0000:0c93:0003:22:0
 CS Mystery
 p:M7 Group,C:0000
@@ -6445,6 +6469,21 @@ JOJ Cinema HD
 p:M7 Group
 335b:00eb0000:0c93:0003:25:0
 Seznam.cz HD
+p:M7 Group
+3372:00eb0000:0c93:0003:12:0
+OTA SMIT new
+p:M7 Group
+3381:00eb0000:0c93:0003:12:0
+OTA SMIT
+p:M7 Group
+3383:00eb0000:0c93:0003:12:0
+M7 Zenterio
+p:M7 Group
+3390:00eb0000:0c93:0003:12:0
+OTA CAM803
+p:M7 Group
+338f:00eb0000:0c93:0003:212:0
+EPG Nagra
 p:M7 Group
 030c:00eb0000:0c94:0003:22:0
 MTV Europe CZ
@@ -6505,6 +6544,15 @@ Love Nature HD INT
 p:M7 Group
 031b:00eb0000:0c94:0003:25:0
 Love Nature HD BNL
+p:M7 Group
+031d:00eb0000:0c94:0003:22:0
+Kino Barrandov
+p:M7 Group
+031e:00eb0000:0c94:0003:22:0
+Barrandov Krimi
+p:M7 Group
+031c:00eb0000:0c94:0003:25:0
+TV Barrandov HD
 p:M7 Group
 3cf8:00eb0000:0c95:0003:22:0
 Adventure TV
@@ -6620,6 +6668,12 @@ p:M7 Group,C:0000
 51e5:00eb0000:0c96:0003:25:0
 NGC HD
 p:M7 Group,C:0000
+5273:00eb0000:0c96:0003:22:0
+History NL
+p:M7 Group,C:0000
+52ed:00eb0000:0c96:0003:25:0
+Sport 10 HD
+p:M7 Group
 1451:00eb0000:0c98:0003:1:0
 Ocko TV
 p:SES ASTRA
@@ -6656,6 +6710,9 @@ p:SES,c:000835,c:010836,c:030835,c:050001
 0000:00eb0000:0c98:0003:2:0
 EuroSpar Music
 p:,c:011a49
+14a2:00eb0000:0c98:0003:12:0
+LX9SES
+p:SES ASTRA
 5253:00eb0000:0c99:0003:2:0
 100% NL
 p:M7 Group,c:010087,c:030087
@@ -6734,6 +6791,21 @@ p:M7 Group,C:0000
 52b0:00eb0000:0c99:0003:25:0
 BBC First
 p:M7 Group,C:0000
+5274:00eb0000:0c99:0003:22:0
+Nickelodeon
+p:M7 Group
+5275:00eb0000:0c99:0003:22:0
+Comedy Central NL
+p:M7 Group
+528b:00eb0000:0c99:0003:22:0
+Spike
+p:M7 Group
+528c:00eb0000:0c99:0003:22:0
+MTV NL
+p:M7 Group
+5292:00eb0000:0c99:0003:22:0
+TV Oranje
+p:M7 Group
 1f73:00eb0000:0ca1:0003:10:0
 CRo RADIOZURNAL
 p:Cesky Rozhlas
@@ -6839,9 +6911,6 @@ p:M7 Group
 1f4d:00eb0000:0ca1:0003:25:0
 TESTS7
 p:M7 Group
-1336:00eb0000:0ca2:0003:1:0
-Otta - interaktivna sluzba
-p:Towercom
 1427:00eb0000:0ca2:0003:2:0
 VLNA ZS
 p:Towercom
@@ -6932,32 +7001,32 @@ p:Towercom
 1356:00eb0000:0ca2:0003:2:0
 BEAT V
 p:Towercom
-132f:00eb0000:0ca2:0003:22:0
-Trojka
-p:Towercom,C:0000
 1328:00eb0000:0ca2:0003:25:0
 TA3 HD
-p:Towercom,C:0000
-1329:00eb0000:0ca2:0003:25:0
-Jednotka
-p:Towercom,C:0000
-132a:00eb0000:0ca2:0003:25:0
-Dvojka
-p:Towercom,C:0000
-132b:00eb0000:0ca2:0003:25:0
-TV Barrandov HD
-p:Towercom,C:0000
-132c:00eb0000:0ca2:0003:25:0
-Kino Barrandov HD
-p:Towercom,C:0000
-132d:00eb0000:0ca2:0003:25:0
-Barrandov Krimi HD
 p:Towercom,C:0000
 132e:00eb0000:0ca2:0003:25:0
 TV Noe HD
 p:Towercom
-1332:00eb0000:0ca2:0003:25:0
-TV8 HD
+135a:00eb0000:0ca2:0003:2:0
+Europa 2 Z
+p:Towercom
+135b:00eb0000:0ca2:0003:2:0
+Europa 2 S
+p:Towercom
+135c:00eb0000:0ca2:0003:2:0
+Europa 2 V
+p:Towercom
+135d:00eb0000:0ca2:0003:2:0
+Fun Radio 1
+p:Towercom
+135e:00eb0000:0ca2:0003:2:0
+Fun Radio 2
+p:Towercom
+135f:00eb0000:0ca2:0003:2:0
+Fun Radio 3
+p:Towercom
+1338:00eb0000:0ca2:0003:12:0
+RDS SAT
 p:Towercom
 4e5c:00eb0000:0ca4:0003:1:0
 KCN Svet plus 3
@@ -7035,7 +7104,7 @@ p:Telekom Srbija
 TV Hayat Music
 p:Telekom Srbija
 4eb6:00eb0000:0ca4:0003:1:0
-MTV 00s
+Nova BH
 p:Telekom Srbija
 4eb7:00eb0000:0ca4:0003:1:0
 Pink Music
@@ -7181,76 +7250,7 @@ p:
 d2f0:00eb0000:000f:0005:2:0
 
 p:
-7d00:00eb0000:000f:0005:2:0
-
-p:
-5208:00eb0000:000f:0005:2:0
-
-p:
-cf08:00eb0000:000f:0005:2:0
-
-p:
-7918:00eb0000:000f:0005:2:0
-
-p:
-cb20:00eb0000:000f:0005:2:0
-
-p:
-c738:00eb0000:000f:0005:2:0
-
-p:
 9858:00eb0000:000f:0005:2:0
-
-p:
-6d60:00eb0000:000f:0005:2:0
-
-p:
-9470:00eb0000:000f:0005:2:0
-
-p:
-6978:00eb0000:000f:0005:2:0
-
-p:
-9088:00eb0000:000f:0005:2:0
-
-p:
-6590:00eb0000:000f:0005:2:0
-
-p:
-e290:00eb0000:000f:0005:2:0
-
-p:
-8ca0:00eb0000:000f:0005:2:0
-
-p:
-61a8:00eb0000:000f:0005:2:0
-
-p:
-dea8:00eb0000:000f:0005:2:0
-
-p:
-88b8:00eb0000:000f:0005:2:0
-
-p:
-5dc0:00eb0000:000f:0005:2:0
-
-p:
-dac0:00eb0000:000f:0005:2:0
-
-p:
-84d0:00eb0000:000f:0005:2:0
-
-p:
-59d8:00eb0000:000f:0005:2:0
-
-p:
-d6d8:00eb0000:000f:0005:2:0
-
-p:
-55f0:00eb0000:000f:0005:2:0
-
-p:
-d2f0:00eb0000:000f:0005:2:0
 
 p:
 0802:00ebad96:0000:0001:1:0
@@ -7488,7 +7488,7 @@ p:MEDIA BROADCAST,f:40
 Radio Osttirol
 p:,c:01002a
 0190:00ebb162:0001:0001:2:0
-Radio POS Österreich
+RadioPOS
 p:,c:01002b
 4f25:00eb0000:0c8a:0003:1:0
 MRT 1
@@ -7547,6 +7547,102 @@ p:Telekom Srbija
 4f38:00eb0000:0c8a:0003:1:0
 24Kitchen Adria
 p:Telekom Srbija
+7d00:00eb0000:000f:0005:2:0
+
+p:
+5208:00eb0000:000f:0005:2:0
+
+p:
+cf08:00eb0000:000f:0005:2:0
+
+p:
+7918:00eb0000:000f:0005:2:0
+
+p:
+cb20:00eb0000:000f:0005:2:0
+
+p:
+c738:00eb0000:000f:0005:2:0
+
+p:
+9858:00eb0000:000f:0005:2:0
+
+p:
+6d60:00eb0000:000f:0005:2:0
+
+p:
+9470:00eb0000:000f:0005:2:0
+
+p:
+6978:00eb0000:000f:0005:2:0
+
+p:
+9088:00eb0000:000f:0005:2:0
+
+p:
+6590:00eb0000:000f:0005:2:0
+
+p:
+e290:00eb0000:000f:0005:2:0
+
+p:
+8ca0:00eb0000:000f:0005:2:0
+
+p:
+61a8:00eb0000:000f:0005:2:0
+
+p:
+dea8:00eb0000:000f:0005:2:0
+
+p:
+88b8:00eb0000:000f:0005:2:0
+
+p:
+5dc0:00eb0000:000f:0005:2:0
+
+p:
+dac0:00eb0000:000f:0005:2:0
+
+p:
+84d0:00eb0000:000f:0005:2:0
+
+p:
+59d8:00eb0000:000f:0005:2:0
+
+p:
+d6d8:00eb0000:000f:0005:2:0
+
+p:
+55f0:00eb0000:000f:0005:2:0
+
+p:
+d2f0:00eb0000:000f:0005:2:0
+
+p:
+1f40:00ebada1:0001:0000:2:0
+11681V SID 0x1f40
+p:DVB-S2 QPSK 11681V 23.5Â°E
+1b58:00ebada1:0001:0000:2:0
+11681V SID 0x1b58
+p:DVB-S2 QPSK 11681V 23.5Â°E
+1770:00ebada1:0001:0000:2:0
+11681V SID 0x1770
+p:DVB-S2 QPSK 11681V 23.5Â°E
+1388:00ebada1:0001:0000:2:0
+11681V SID 0x1388
+p:DVB-S2 QPSK 11681V 23.5Â°E
+0fa0:00ebada1:0001:0000:2:0
+11681V SID 0xfa0
+p:DVB-S2 QPSK 11681V 23.5Â°E
+0bb8:00ebada1:0001:0000:2:0
+11681V SID 0xbb8
+p:DVB-S2 QPSK 11681V 23.5Â°E
+07d0:00ebada1:0001:0000:2:0
+11681V SID 0x7d0
+p:DVB-S2 QPSK 11681V 23.5Â°E
+03e8:00ebada1:0001:0000:2:0
+11681V SID 0x3e8
+p:DVB-S2 QPSK 11681V 23.5Â°E
 3459:00c00000:03e9:0001:31:0
 Service 13401
 p:ORS,C:0000
