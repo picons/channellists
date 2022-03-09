@@ -11642,6 +11642,18 @@ p:XTRATV
 0474:00820000:005e:0055:22:0
 ICTV
 p:XTRATV
+0500:00820000:005e:0055:22:0
+A Premier
+p:XTRATV,c:000502,c:030502,c:050001,c:140504
+0514:00820000:005e:0055:22:0
+NatGeoWild HD
+p:XTRATV
+04d8:00820000:005e:0055:22:0
+Dorama
+p:XTRATV
+04ec:00820000:005e:0055:22:0
+VIP Comedy
+p:XTRATV,c:0004ee,c:0304ee,c:050001,c:1404f0
 1c86:00820000:1ce8:0071:1:0
 AXN White
 p:Cyfrowy Polsat S.A.,C:0000
@@ -13656,7 +13668,7 @@ p:TSA
 24H
 p:TSA
 39d3:00820000:1fa4:013e:1:0
-Detskii Mir
+Detskiy Mir - TeleClub
 p:ARC/DCM2 TSOIP,C:0000
 39d4:00820000:1fa4:013e:1:0
 Lubimoe Kino
@@ -16032,7 +16044,7 @@ p:SkyItalia,C:0000
 Sky Sport
 p:SkyItalia,C:0000
 2dbf:00820000:1a2c:fbff:1:0
-Primafila 6
+Primafila 1
 p:SkyItalia,C:0000
 2dc0:00820000:1a2c:fbff:1:0
 Sky Sport Football
@@ -16047,7 +16059,7 @@ p:SkyItalia,C:0000
 Mosaico Cinema
 p:SkyItalia
 2dcc:00820000:1a2c:fbff:1:0
-Pitt vs Clooney Collection
+Sergio Leone Collection
 p:SkyItalia,C:0000
 2dcd:00820000:1a2c:fbff:1:0
 Sky Cinema Comedy
@@ -16062,7 +16074,7 @@ p:SkyItalia,C:0000
 Sky Sport
 p:SkyItalia,C:0000
 2dd4:00820000:1a2c:fbff:1:0
-Sky Cinema Due +24
+Sky Cinema Per te
 p:SkyItalia
 2de9:00820000:1a2c:fbff:1:0
 .BLU
