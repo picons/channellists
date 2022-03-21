@@ -11100,7 +11100,7 @@ p:BetaDigital
 N24 DOKU Austria
 p:BetaDigital
 003c:00c00000:0007:0085:1:0
-Comedy Central Austria
+.
 p:MTV Networks
 003d:00c00000:0007:0085:1:0
 Nick/Comedy Central Austria
@@ -14642,6 +14642,15 @@ p:ViewSat,c:0005ab,c:0105ac,c:0305ab,c:050001
 4224:00820000:2f44:013e:22:0
 Blue Hustler POL
 p:M7 Group,c:000230,c:01007e,c:030230,c:050001,C:0000
+4232:00820000:2f44:013e:1:0
+RADA
+p:FFmpeg
+4234:00820000:2f44:013e:1:0
+ByoBlue
+p:M-Three Satcom
+4233:00820000:2f44:013e:22:0
+1+1 International
+p:1plus1 Media
 4345:00820000:300c:013e:2:0
 SRF 1
 p:Schweizer Radio und Fernsehen
@@ -16508,6 +16517,12 @@ p:XTRATV,c:000976,c:030976,c:050001,c:140978
 0884:00820000:0060:0055:22:0
 Setanta Sports
 p:XTRATV,c:000886,c:030886,c:050001,c:140887
+09b0:00820000:0060:0055:22:0
+RADA rus
+p:
+09c4:00820000:0060:0055:22:0
+RADA eng
+p:
 0001:00820000:0578:013f:1:0
 CNA TV
 p:iKO Media Group,c:000065,c:010066,c:030065,c:050001
