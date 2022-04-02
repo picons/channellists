@@ -5543,26 +5543,17 @@ p:Telekom Srbija
 4ede:00eb0000:0c81:0003:1:0
 TV Belle Amie
 p:Telekom Srbija
-4edf:00eb0000:0c81:0003:1:0
-TV Palma
-p:Telekom Srbija
 4ee0:00eb0000:0c81:0003:1:0
 Panon TV
 p:Telekom Srbija
 4ee1:00eb0000:0c81:0003:1:0
 Novosadska TV
 p:Telekom Srbija
-4ee2:00eb0000:0c81:0003:1:0
-TV Vujic
-p:Telekom Srbija
-4ee3:00eb0000:0c81:0003:1:0
-TV Galaksija 32
-p:Telekom Srbija
 4ee4:00eb0000:0c81:0003:1:0
 TV 5
 p:Telekom Srbija
 4ee8:00eb0000:0c81:0003:1:0
-Arena Sport 1_HD
+Arena Sport_1 HD
 p:Telekom Srbija
 4ee9:00eb0000:0c81:0003:1:0
 Arena Sport 1 HD CG
@@ -5783,9 +5774,6 @@ p:Telekom Srbija
 4e45:00eb0000:0c85:0003:1:0
 Disney
 p:Telekom Srbija
-4e46:00eb0000:0c85:0003:1:0
-Arena Sport_2
-p:Telekom Srbija
 4e47:00eb0000:0c85:0003:1:0
 LFCTV
 p:Telekom Srbija
@@ -5794,9 +5782,6 @@ HRT 1
 p:Telekom Srbija
 4e49:00eb0000:0c85:0003:1:0
 HRT 2
-p:Telekom Srbija
-4e4a:00eb0000:0c85:0003:1:0
-Arena Sport_4
 p:Telekom Srbija
 4e4b:00eb0000:0c85:0003:1:0
 HRT 3
@@ -5855,9 +5840,6 @@ p:Telekom Srbija,C:0000
 4e6c:00eb0000:0c85:0003:1:0
 Klasik TV
 p:Telekom Srbija
-4e57:00eb0000:0c86:0003:1:0
-Arena Sport_3
-p:Telekom Srbija,C:0000
 4e58:00eb0000:0c86:0003:1:0
 Pink Film
 p:Telekom Srbija,C:0000
@@ -5951,9 +5933,6 @@ p:Telekom Srbija
 4e91:00eb0000:0c86:0003:1:0
 FTV
 p:Telekom Srbija
-4e92:00eb0000:0c86:0003:1:0
-Koreni
-p:Telekom Srbija
 4e93:00eb0000:0c86:0003:1:0
 OK KANAL
 p:Telekom Srbija
@@ -5982,14 +5961,11 @@ p:Telekom Srbija,C:0000
 Cinemax 2
 p:Telekom Srbija,C:0000
 4eeb:00eb0000:0c86:0003:1:0
-Arena Sport 6
+Arena Sport 6 HD
 p:
 4eec:00eb0000:0c86:0003:1:0
-Arena Sport 7
+Arena Sport 7 HD
 p:
-4e70:00eb0000:0c86:0003:1:0
-Pink family
-p:Telekom Srbija
 1b92:00eb0000:0c88:0003:22:0
 RTL Z
 p:M7 Group,C:0000
@@ -6124,9 +6100,6 @@ M2
 p:Telekom Srbija
 4ef4:00eb0000:0c8b:0003:1:0
 RTL Klub
-p:Telekom Srbija
-4ef5:00eb0000:0c8b:0003:1:0
-KCN Music 2
 p:Telekom Srbija
 4ef6:00eb0000:0c8b:0003:1:0
 Story 4
@@ -6327,7 +6300,7 @@ p:M7 Group
 Dvojka HD
 p:M7 Group
 3b7a:00eb0000:0c8d:0003:25:0
-Trojka HD
+RTVS 24 HD
 p:M7 Group
 3b7b:00eb0000:0c8d:0003:25:0
 RTVS SPORT HD
@@ -6583,9 +6556,6 @@ Barrandov Krimi
 p:M7 Group
 031c:00eb0000:0c94:0003:25:0
 TV Barrandov HD
-p:M7 Group
-3cf8:00eb0000:0c95:0003:22:0
-Adventure TV
 p:M7 Group
 3cf9:00eb0000:0c95:0003:22:0
 Filmbox Stars
@@ -7047,17 +7017,26 @@ p:Towercom
 Europa 2 V
 p:Towercom
 135d:00eb0000:0ca2:0003:2:0
-Fun Radio 1
+FUNRADIO Z
 p:Towercom
 135e:00eb0000:0ca2:0003:2:0
-Fun Radio 2
+FUNRADIO S
 p:Towercom
 135f:00eb0000:0ca2:0003:2:0
-Fun Radio 3
+FUNRADIO V
 p:Towercom
 1338:00eb0000:0ca2:0003:12:0
 RDS SAT
 p:Towercom
+1357:00eb0000:0ca2:0003:2:0
+Expres Z
+p:Towercom,c:031735,c:04173f
+1358:00eb0000:0ca2:0003:2:0
+Expres S
+p:Towercom,c:011736,c:031736
+1359:00eb0000:0ca2:0003:2:0
+Expres V
+p:Towercom,c:011737,c:031737
 4e5c:00eb0000:0ca4:0003:1:0
 KCN Svet plus 3
 p:Telekom Srbija,C:0000
@@ -7085,9 +7064,6 @@ p:Telekom Srbija,C:0000
 4e9b:00eb0000:0ca4:0003:1:0
 National Geographic
 p:Telekom Srbija,C:0000
-4ea1:00eb0000:0ca4:0003:1:0
-Nature HD/History HD
-p:Telekom Srbija
 4ea4:00eb0000:0ca4:0003:1:0
 ID
 p:Telekom Srbija
@@ -7136,9 +7112,6 @@ p:Telekom Srbija
 4eb6:00eb0000:0ca4:0003:1:0
 Nova BH
 p:Telekom Srbija
-4eb7:00eb0000:0ca4:0003:1:0
-Pink Music
-p:Telekom Srbija
 4eb8:00eb0000:0ca4:0003:1:0
 Pink Hits 1
 p:Telekom Srbija
@@ -7159,12 +7132,6 @@ Arena 1x2
 p:Telekom Srbija
 4ebe:00eb0000:0ca4:0003:1:0
 City Play
-p:Telekom Srbija
-4ebf:00eb0000:0ca4:0003:1:0
-Bravo Music
-p:Telekom Srbija
-4ec0:00eb0000:0ca4:0003:1:0
-Pink Music 2
 p:Telekom Srbija
 4ec1:00eb0000:0ca4:0003:1:0
 JEKA
@@ -7206,7 +7173,7 @@ p:Telekom Srbija
 Telemark
 p:Telekom Srbija,c:0007bd,c:0107be,c:0307bd,c:050001,C:1871,C:0b00
 4eed:00eb0000:0ca4:0003:1:0
-Arena Sport 8
+Arena Sport 8 HD
 p:
 7d00:00eb0000:000f:0005:2:0
 
