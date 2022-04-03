@@ -2760,6 +2760,9 @@ ffff0000:081b:0600
 ffff0000:0839:0600
 	c 474000:6875000:2:3:0:0:0
 /
+ffff0000:0c7a:0600
+	c 266000:6900000:2:5:0:0:0
+/
 eeee01da:0906:2210
 	t 473999000:0:5:5:4:6:2:4:2:0:0:0
 /
@@ -2783,105 +2786,6 @@ eeee029a:0908:2210
 /
 end
 services
-300d:ffff0000:00cb:0600:1:0
-LINQ TV
-p:Ziggo
-300e:ffff0000:00cb:0600:1:0
-Open Rotterdam
-p:Ziggo
-300f:ffff0000:00cb:0600:1:0
-Rotterdam Podium
-p:Ziggo
-3010:ffff0000:00cb:0600:1:0
-TV Dordrecht
-p:Ziggo,f:1000
-3011:ffff0000:00cb:0600:1:0
-SRC TV
-p:Ziggo
-3013:ffff0000:00cb:0600:1:0
-Atos TV
-p:Ziggo
-3014:ffff0000:00cb:0600:1:0
-RTV Slogo
-p:Ziggo
-3015:ffff0000:00cb:0600:1:0
-Lansingerland TV
-p:Ziggo
-3016:ffff0000:00cb:0600:1:0
-WOS Media
-p:Ziggo,f:1000
-3017:ffff0000:00cb:0600:1:0
-Merwe TV
-p:Ziggo
-3018:ffff0000:00cb:0600:1:0
-Ridderkerk TV
-p:Ziggo
-3019:ffff0000:00cb:0600:1:0
-RTV Krimpenerwaard
-p:Ziggo
-301a:ffff0000:00cb:0600:1:0
-RTV Papendrecht
-p:Ziggo
-301b:ffff0000:00cb:0600:1:0
-Exxact Barendrecht
-p:Ziggo
-37dd:ffff0000:00cb:0600:2:0
-LINQ FM
-p:Ziggo
-37de:ffff0000:00cb:0600:2:0
-Atos Radio
-p:Ziggo
-37df:ffff0000:00cb:0600:2:0
-Radio Ridderkerk
-p:Ziggo
-37e0:ffff0000:00cb:0600:2:0
-SRC FM
-p:Ziggo
-37e1:ffff0000:00cb:0600:2:0
-FunX Lokaal
-p:Ziggo
-37e3:ffff0000:00cb:0600:2:0
-DrechtstadFM
-p:Ziggo
-37e4:ffff0000:00cb:0600:2:0
-Radio Hoeksche Waard
-p:Ziggo
-37e5:ffff0000:00cb:0600:2:0
-Merwe Radio
-p:Ziggo
-37e6:ffff0000:00cb:0600:2:0
-Lansingerland FM
-p:Ziggo
-37e7:ffff0000:00cb:0600:2:0
-Klok radio
-p:Ziggo
-37e8:ffff0000:00cb:0600:2:0
-RA Utrecht
-p:Ziggo
-37e9:ffff0000:00cb:0600:2:0
-Radio Slogo
-p:Ziggo
-37ea:ffff0000:00cb:0600:2:0
-RTV Krimpenerwaard
-p:Ziggo
-37eb:ffff0000:00cb:0600:2:0
-Radio West
-p:Ziggo
-37ec:ffff0000:00cb:0600:2:0
-RTV Papendrecht
-p:Ziggo
-37ed:ffff0000:00cb:0600:2:0
-Exxact
-p:Ziggo
-37ee:ffff0000:00cb:0600:2:0
-WOS Radio
-p:Ziggo
-3012:ffff0000:00cb:0600:25:0
-RTV Hoeksche Waard
-p:Ziggo
-37e2:ffff0000:00cb:0600:2:0
-AMOR FM
-p:Ziggo
 4e21:ffff0000:0801:0600:1:0
 24Kitchen
 p:Ziggo,C:0000,f:1000
@@ -2915,24 +2819,12 @@ p:Ziggo,C:0000,f:1000
 4e3d:ffff0000:0802:0600:25:0
 MTV Live HD
 p:Ziggo,C:0000,f:1000
-4e4c:ffff0000:0803:0600:1:0
-Stingray Classica
-p:Ziggo,f:1000
 4e4e:ffff0000:0803:0600:1:0
 CGTN
-p:Ziggo,C:0000,f:1000
-4e53:ffff0000:0803:0600:1:0
-Family7
 p:Ziggo,C:0000,f:1000
 4e54:ffff0000:0803:0600:1:0
 Mediaset Italia
 p:Ziggo,C:0000,f:1000
-4e55:ffff0000:0803:0600:1:0
-Arte
-p:Ziggo,C:0000,f:1000
-4e56:ffff0000:0803:0600:1:0
-Erotiek Pakket info
-p:Ziggo
 2b21:ffff0000:0803:0600:2:0
 1LIVE
 p:Ziggo
@@ -2966,6 +2858,21 @@ p:Ziggo
 4e57:ffff0000:0803:0600:25:0
 MyZen HD
 p:Ziggo,C:0000,f:1000
+4e49:ffff0000:0803:0600:25:0
+Ukraine 24 HD
+p:Ziggo
+4e4c:ffff0000:0803:0600:25:0
+Stingray Classica
+p:Ziggo
+4e53:ffff0000:0803:0600:25:0
+Family7
+p:Ziggo
+4e55:ffff0000:0803:0600:25:0
+Arte
+p:Ziggo
+4e56:ffff0000:0803:0600:25:0
+Erotiek Pakket info
+p:Ziggo
 4e63:ffff0000:0804:0600:1:0
 Pebble TV
 p:Ziggo,C:0000,f:1000
@@ -3010,9 +2917,6 @@ Canvas
 p:Ziggo,f:1000
 4a3c:ffff0000:0805:0600:1:0
 één
-p:Ziggo,f:1000
-4a3d:ffff0000:0805:0600:1:0
-BBC World News
 p:Ziggo,f:1000
 4a3e:ffff0000:0805:0600:1:0
 ESPN UHD
@@ -3083,6 +2987,9 @@ p:Ziggo
 278a:ffff0000:0805:0600:2:0
 Radio509
 p:Ziggo
+4a3d:ffff0000:0805:0600:25:0
+BBC World News HD
+p:Ziggo
 4a51:ffff0000:0806:0600:1:0
 Ketnet
 p:Ziggo,f:1000
@@ -3146,9 +3053,6 @@ p:Ziggo
 4a50:ffff0000:0806:0600:25:0
 Net5 HD
 p:Ziggo,C:0000,f:1000
-4a64:ffff0000:0807:0600:1:0
-Ziggo Sport
-p:Ziggo,f:1000
 4a67:ffff0000:0807:0600:1:0
 2M
 p:Ziggo,C:0000,f:1000
@@ -3178,6 +3082,12 @@ Nickelodeon HD
 p:Ziggo,C:0000,f:1000
 4679:ffff0000:0807:0600:2:0
 Sunlite Radio
+p:Ziggo
+4681:ffff0000:0807:0600:2:0
+Grand Prix Radio
+p:Ziggo
+4a68:ffff0000:0807:0600:25:0
+Viaplay Xtra
 p:Ziggo
 4a75:ffff0000:0808:0600:1:0
 Veronica / Disney XD
@@ -3278,27 +3188,24 @@ p:Ziggo,C:0000,f:1000
 4ac5:ffff0000:080c:0600:1:0
 RTV-7
 p:Ziggo,c:0007d1,c:0107db,c:0307d1,C:0000,f:1000
-4ac6:ffff0000:080c:0600:1:0
-Secret Circle
-p:Ziggo,C:0000,f:1000
-4ac9:ffff0000:080c:0600:1:0
-Cartoon Network
-p:Ziggo,C:0000
-4acf:ffff0000:080c:0600:1:0
-NPO Politiek en Nieuws
-p:Ziggo,C:0000,f:1000
-4ad0:ffff0000:080c:0600:1:0
-ONS
-p:Ziggo,C:0000,f:1000
-4ad1:ffff0000:080c:0600:1:0
-Sat. 1
-p:Ziggo,C:0000,f:1000
 5298:ffff0000:080c:0600:25:0
 L1TV
 p:Ziggo
 4ac8:ffff0000:080c:0600:25:0
 L1 TV
 p:Ziggo
+4ac6:ffff0000:080c:0600:25:0
+Secret Circle
+p:Ziggo,C:0000
+4acf:ffff0000:080c:0600:25:0
+NPO Politiek en Nieuws
+p:Ziggo,C:0000
+4ad0:ffff0000:080c:0600:25:0
+ONS
+p:Ziggo,C:0000
+4ad1:ffff0000:080c:0600:25:0
+Sat. 1
+p:Ziggo,C:0000
 4ada:ffff0000:080d:0600:1:0
 XITE
 p:Ziggo,C:0000,f:1000
@@ -3423,7 +3330,7 @@ p:Ziggo,C:0000,f:1000
 Discovery Science HD
 p:Ziggo,C:0000,f:1000
 4b33:ffff0000:0810:0600:25:0
-Cartoon Network HD
+Cartoon Network
 p:Ziggo,C:0000
 4b37:ffff0000:0810:0600:25:0
 Ziggo Sport Docu HD
@@ -3563,21 +3470,6 @@ p:Ziggo,C:0000
 4b93:ffff0000:0816:0600:1:0
 Ziggo Zenderoverzicht
 p:Ziggo
-4b96:ffff0000:0816:0600:1:0
-Aljazeera English
-p:Ziggo,C:0000,f:1000
-4b97:ffff0000:0816:0600:1:0
-Euronews
-p:Ziggo,f:1000
-4b99:ffff0000:0816:0600:1:0
-TRT Türk
-p:Ziggo,C:0000
-4b9a:ffff0000:0816:0600:1:0
-TV5 Monde
-p:Ziggo,f:1000
-4b9b:ffff0000:0816:0600:1:0
-Radio Info
-p:Ziggo
 4b92:ffff0000:0816:0600:25:0
 Ziggo Live Events
 p:Ziggo
@@ -3591,6 +3483,24 @@ p:Ziggo
 prime video
 p:Ziggo
 4b9d:ffff0000:0816:0600:25:0
+Radio Info
+p:Ziggo
+5369:ffff0000:0816:0600:25:0
+TRT Türk
+p:Ziggo
+4b96:ffff0000:0816:0600:25:0
+Aljazeera English
+p:Ziggo
+4b97:ffff0000:0816:0600:25:0
+Euronews
+p:Ziggo
+4b99:ffff0000:0816:0600:25:0
+TRT Türk
+p:Ziggo
+4b9a:ffff0000:0816:0600:25:0
+TV5 Monde
+p:Ziggo
+4b9b:ffff0000:0816:0600:25:0
 Radio Info
 p:Ziggo
 4ba2:ffff0000:0817:0600:25:0
@@ -3665,9 +3575,6 @@ p:Ziggo,f:1000
 4bdd:ffff0000:0833:0600:1:0
 Spike
 p:Ziggo,f:1000
-4be4:ffff0000:0833:0600:1:0
-TVE
-p:Ziggo,C:0000,f:1000
 4be6:ffff0000:0833:0600:1:0
 RTL Z
 p:Ziggo,f:1000
@@ -3677,9 +3584,9 @@ p:Ziggo,C:0000,f:1000
 4be8:ffff0000:0833:0600:25:0
 Eurosport 1 HD
 p:Ziggo,C:0000,f:1000
-4bf7:ffff0000:0834:0600:1:0
-CNN
-p:Ziggo,f:1000
+4be4:ffff0000:0833:0600:25:0
+TVE
+p:Ziggo,C:0000
 4bf8:ffff0000:0834:0600:1:0
 Net5
 p:Ziggo,f:1000
@@ -3695,6 +3602,9 @@ p:Ziggo,C:0000,f:1000
 4bf2:ffff0000:0834:0600:25:0
 Veronica HD / Disney XD
 p:Ziggo,C:0000,f:1000
+4bf7:ffff0000:0834:0600:25:0
+CNN HD
+p:Ziggo
 4c09:ffff0000:0835:0600:1:0
 WDR
 p:Ziggo,f:1000
@@ -3756,8 +3666,14 @@ p:Ziggo,C:0000
 Ziggo Sport
 p:Ziggo,c:000b55,c:010b5f,c:030b55,c:050007,C:0000
 4c3e:ffff0000:0837:0600:31:0
-Eurosport 4K
+19518
 p:Ziggo,c:001bbd,c:011bc7,c:031bbd,c:050001,C:0000
+4c31:ffff0000:0837:0600:25:0
+Viaplay
+p:Ziggo
+4c34:ffff0000:0837:0600:25:0
+Viaplay Info
+p:Ziggo
 7761:ffff0000:083a:0600:25:0
 Ziggo Live Events ESPN
 p:Ziggo,C:0000
@@ -3989,6 +3905,9 @@ p:Ziggo
 3f35:ffff0000:0839:0600:1:0
 Testbeeld
 p:Ziggo
+3f36:ffff0000:0839:0600:1:0
+Radio Actual
+p:Ziggo
 3f3d:ffff0000:0839:0600:1:0
 TV Guide
 p:Ziggo
@@ -4018,6 +3937,105 @@ CUTV
 p:Ziggo
 3f4a:ffff0000:0839:0600:1:0
 MGM ON Demand
+p:Ziggo
+1968:ffff0000:0c7a:0600:1:0
+RTV Papendrecht
+p:Ziggo
+1969:ffff0000:0c7a:0600:1:0
+TV Hoeksche Waard
+p:Ziggo
+196a:ffff0000:0c7a:0600:1:0
+Open Rotterdam
+p:Ziggo
+196b:ffff0000:0c7a:0600:1:0
+Rotterdam Podium
+p:Ziggo
+196c:ffff0000:0c7a:0600:1:0
+Atos TV
+p:Ziggo
+196d:ffff0000:0c7a:0600:1:0
+LINQ TV
+p:Ziggo
+196e:ffff0000:0c7a:0600:1:0
+RTV Dordrecht
+p:Ziggo
+196f:ffff0000:0c7a:0600:1:0
+Lansingerland TV
+p:Ziggo
+1970:ffff0000:0c7a:0600:1:0
+Capelle TV
+p:Ziggo
+1971:ffff0000:0c7a:0600:1:0
+RTV Slogo
+p:Ziggo
+1972:ffff0000:0c7a:0600:1:0
+WOS Media
+p:Ziggo
+1973:ffff0000:0c7a:0600:1:0
+Merwe TV
+p:Ziggo
+1974:ffff0000:0c7a:0600:1:0
+Ridderkerk TV
+p:Ziggo
+1975:ffff0000:0c7a:0600:1:0
+SRC TV
+p:Ziggo
+1976:ffff0000:0c7a:0600:1:0
+RTV Krimpenerwaard
+p:Ziggo
+1977:ffff0000:0c7a:0600:1:0
+Exxact Barendrecht
+p:Ziggo
+0db4:ffff0000:0c7a:0600:2:0
+WOS Radio
+p:Ziggo
+0db5:ffff0000:0c7a:0600:2:0
+Amor FM
+p:Ziggo
+0db6:ffff0000:0c7a:0600:2:0
+LINQ FM
+p:Ziggo
+0db7:ffff0000:0c7a:0600:2:0
+Atos Radio
+p:Ziggo
+0db8:ffff0000:0c7a:0600:2:0
+Radio Ridderkerk
+p:Ziggo
+0db9:ffff0000:0c7a:0600:2:0
+FunX Lokaal Rotterdam
+p:Ziggo
+0dba:ffff0000:0c7a:0600:2:0
+DrechtstadFM
+p:Ziggo
+0dbb:ffff0000:0c7a:0600:2:0
+Radio Hoeksche Waard
+p:Ziggo
+0dbc:ffff0000:0c7a:0600:2:0
+Lansingerland FM
+p:Ziggo
+0dbd:ffff0000:0c7a:0600:2:0
+Capelle Radio
+p:Ziggo
+0dbe:ffff0000:0c7a:0600:2:0
+Klok Radio
+p:Ziggo
+0dbf:ffff0000:0c7a:0600:2:0
+Radio Slogo
+p:Ziggo
+0dc0:ffff0000:0c7a:0600:2:0
+RTV Papendrecht Radio
+p:Ziggo
+0dc1:ffff0000:0c7a:0600:2:0
+Merwe Radio
+p:Ziggo
+0dc2:ffff0000:0c7a:0600:2:0
+SRC FM
+p:Ziggo
+0dc3:ffff0000:0c7a:0600:2:0
+RTV Krimpenerwaard Radio
+p:Ziggo
+0dc4:ffff0000:0c7a:0600:2:0
+Exxact Radio
 p:Ziggo
 end
 Editor:DreamSet 2.4.13 - http://www.dreamset-editor.com
