@@ -6210,7 +6210,7 @@ p:M7 Group
 Comedy Central
 p:M7 Group
 36f9:00eb0000:0c8c:0003:22:0
-Spike 24
+Paramount Network NL
 p:M7 Group
 36fa:00eb0000:0c8c:0003:22:0
 Nickelodeon
@@ -6804,7 +6804,7 @@ p:M7 Group
 Comedy Central NL
 p:M7 Group
 528b:00eb0000:0c99:0003:22:0
-Spike
+Paramount Network
 p:M7 Group
 528c:00eb0000:0c99:0003:22:0
 MTV NL
@@ -7809,7 +7809,7 @@ p:ServusTV
 ORF2N HD
 p:ORF,C:0000
 7468:00c00000:03f0:0001:1:0
-EUROPSORT 3
+M+ Ellas #V
 p:DIGITAL+,C:0000
 7469:00c00000:03f0:0001:1:0
 NOVA
@@ -8688,7 +8688,7 @@ p:DVB-S QPSK 11097V 19.2Â°E
 11097V SID 0x7573
 p:DVB-S QPSK 11097V 19.2Â°E
 7574:00c00000:0412:0001:1:0
-LALIGATVBAR3
+DAZN 1 BAR
 p:Movistar+
 7575:00c00000:0412:0001:1:0
 11097V SID 0x7575
@@ -8730,7 +8730,7 @@ p:DVB-S QPSK 11097V 19.2Â°E
 M+ LaLiga 9
 p:Movistar+
 7582:00c00000:0412:0001:1:0
-LALIGATVBAR4
+DAZN 2 BAR
 p:Movistar+
 7583:00c00000:0412:0001:1:0
 11097V SID 0x7583
@@ -8814,7 +8814,7 @@ p:CAZPES,C:0000
 ANTENA 3
 p:DIGITAL +,C:0000
 772d:00c00000:0416:0001:1:0
-BLAZE
+AMC BREAK
 p:DIGITAL+,C:0000
 772e:00c00000:0416:0001:1:0
 NICKELODEON
@@ -8829,7 +8829,7 @@ p:COSMO,C:0000
 HISTORIA
 p:HIST,C:0000
 7732:00c00000:0416:0001:1:0
-CRIMEN+INVES
+AMC CRIME
 p:Movistar+,C:0000
 7733:00c00000:0416:0001:1:0
 M+ #VAMOS
@@ -8838,7 +8838,7 @@ p:Movistar+,C:0000
 M+ #VAMOS
 p:Movistar+,C:0000
 7736:00c00000:0416:0001:1:0
-M+ Los Goya
+M+ Cine Español
 p:Movistar+,C:0000
 7738:00c00000:0416:0001:1:0
 24 HORAS
@@ -9452,6 +9452,15 @@ p:SES ASTRA
 1644:00c00000:042c:0001:25:0
 DW English HD
 p:Deutsche Welle
+1659:00c00000:042c:0001:1:0
+UA:Pershyi
+p:
+166d:00c00000:042c:0001:1:0
+MALYATKO TV
+p:
+1663:00c00000:042c:0001:22:0
+RADA eng
+p:
 1f41:00c00000:042e:0001:25:0
 BET
 p:CSAT,C:0000
@@ -9740,6 +9749,12 @@ p:MTV Networks Europe,C:0000
 6fed:00c00000:0436:0001:25:0
 Comedy Central HD AT
 p:MTV Networks Europe,c:000bcd,c:030bcd,c:040bce,c:050001,C:06e2,C:0650,C:0648,C:0500
+7000:00c00000:0436:0001:1:0
+Comedy Central HD.
+p:MTV Networks Europe,c:000bcd,c:010bd0,c:020bd3,c:030bcd,c:050001,C:0500
+6ffe:00c00000:0436:0001:1:0
+Nickelodeon Ukraine Pluto TV
+p:Paramount
 6d66:00c00000:0437:0001:1:0
 ZDF
 p:ZDFvision
@@ -10586,9 +10601,6 @@ p:MB Satellite
 315e:00c00000:0459:0001:1:0
 MBS - Test3
 p:MB Satellite
-315e:00c00000:0459:0001:12:0
-MBS - Test3
-p:MB Satellite,f:40
 332d:00c00000:045b:0001:1:0
 ORF III
 p:ORF
@@ -10718,6 +10730,9 @@ p:RTL
 32d5:00c00000:045d:0001:25:0
 HITRADIO OE3
 p:ORF
+32de:00c00000:045d:0001:22:0
+Wir24TV
+p:-,c:000bd6,c:010bd7,c:030bd6,c:050001
 2649:00c00000:0460:0001:1:0
 F3 BNORMANDIE
 p:CSAT,C:0000
@@ -10832,11 +10847,8 @@ p:SKY,C:0000
 0016:00c00000:0002:0085:22:0
 Heimatkanal
 p:SKY,C:0000
-0018:00c00000:0002:0085:22:0
-Classica
-p:SKY,C:0000
 00de:00c00000:0002:0085:22:0
-Sky Sport 2
+Sky Sport Tennis
 p:SKY,C:0000
 000e:00c00000:0002:0085:25:0
 Sky Comedy HD
@@ -10848,13 +10860,10 @@ p:SKY,C:0000
 Sky One HD
 p:SKY,C:0000
 0115:00c00000:0002:0085:25:0
-Sky Sport Bundesliga 3 HD
+Sky Sport Bundesliga 2 HD
 p:SKY
 0116:00c00000:0002:0085:25:0
-Sky Sport 4 HD
-p:SKY
-0118:00c00000:0002:0085:25:0
-Eurosport360HD 2
+Sky Sport 2 HD
 p:SKY
 000f:00c00000:0002:0085:25:0
 Sky Nature HD
@@ -10865,15 +10874,15 @@ p:
 0f9a:00c00000:0002:0085:12:0
 Pace TDC 866 NSDX
 p:
+0009:00c00000:0002:0085:22:0
+Sky Cinema Action
+p:SKY,C:0000
+0192:00c00000:0002:0085:22:0
+Crime + Investigation
+p:SKY,C:0000
 0008:00c00000:0003:0085:22:0
 Sky Cinema Fun
 p:SKY,C:0000
-0009:00c00000:0003:0085:22:0
-Sky Cinema Action
-p:SKY,C:0000
-001c:00c00000:0003:0085:22:0
-Boomerang
-p:SKY
 0011:00c00000:0003:0085:25:0
 Sky Sport F1 HD
 p:SKY
@@ -10881,31 +10890,25 @@ p:SKY
 Beate Uhse HD
 p:SKY
 0138:00c00000:0003:0085:211:0
-Sky Sport Bundesliga 7
+Sky Sport Bundesliga 6
 p:SKY
 0139:00c00000:0003:0085:211:0
-Sky Sport 8
+Sky Sport 6
 p:SKY
 013d:00c00000:0003:0085:25:0
-Sky Sport Bundesliga 7 HD
+Sky Sport Bundesliga 6 HD
 p:SKY
 013e:00c00000:0003:0085:25:0
-Sky Sport 8 HD
-p:SKY
-0140:00c00000:0003:0085:25:0
-Eurosport360HD 6
+Sky Sport 6 HD
 p:SKY
 0146:00c00000:0003:0085:25:0
 Sky Sport Austria 5 HD
 p:SKY
 0147:00c00000:0003:0085:25:0
-Sky Sport Bundesliga 8 HD
+Sky Sport Bundesliga 7 HD
 p:SKY
 0148:00c00000:0003:0085:25:0
-Sky Sport 9 HD
-p:SKY
-014a:00c00000:0003:0085:25:0
-Eurosport360HD 7
+Sky Sport 7 HD
 p:SKY
 0010:00c00000:0003:0085:25:0
 Sky Documentaries HD
@@ -10916,6 +10919,9 @@ p:SKY
 00c8:00c00000:0003:0085:198:0
 BDL VoD
 p:SKY
+0155:00c00000:0003:0085:25:0
+Prime Video Sportsbar
+p:SKY,C:0000
 0dad:00c00000:0004:0085:1:0
 GFD Service
 p:
@@ -10932,10 +10938,10 @@ p:SKY,C:0000
 Sky Cinema Family
 p:SKY,C:0000
 00dd:00c00000:0004:0085:22:0
-Sky Sport 1
+Sky Sport Top Event
 p:SKY,C:0000
 00df:00c00000:0004:0085:22:0
-Sky Sport Bundesliga 1
+Sky Sport Bundesliga
 p:SKY,C:0000
 000b:00c00000:0004:0085:25:0
 Sky Cinema Thriller HD
@@ -10944,13 +10950,10 @@ p:SKY,C:0000
 Sky Krimi HD
 p:SKY,C:0000
 0133:00c00000:0004:0085:25:0
-Sky Sport Bundesliga 6 HD
+Sky Sport Bundesliga 5 HD
 p:SKY
 0134:00c00000:0004:0085:25:0
-Sky Sport 7 HD
-p:SKY
-0136:00c00000:0004:0085:25:0
-Eurosport360HD 5
+Sky Sport 5 HD
 p:SKY
 008c:00c00000:0004:0085:25:0
 Warner TV Film HD
@@ -11027,26 +11030,20 @@ p:DVB-S QPSK 12460H 19.2Â°E
 0204:00c00000:0006:0085:22:0
 Sky Cinema Classics
 p:SKY,C:0000
-002b:00c00000:0006:0085:22:0
-Sky Cinema Premieren +24
-p:SKY,C:0000
 010b:00c00000:0006:0085:25:0
-Sky Sport Bundesliga 2 HD
+Sky Sport Bundesliga 1 HD
 p:SKY
 010c:00c00000:0006:0085:25:0
-Sky Sport 3 HD
+Sky Sport 1 HD
 p:SKY,C:0000
 000d:00c00000:0006:0085:25:0
 Sky Crime HD
 p:SKY,C:0000
-010e:00c00000:0006:0085:25:0
-Eurosport360HD 1
-p:SKY
 0076:00c00000:0006:0085:25:0
 Nat Geo Wild HD
 p:SKY,C:0000
 0081:00c00000:0006:0085:25:0
-Sky Sport 1 HD
+Sky Sport Top Event  HD
 p:SKY,C:0000
 0082:00c00000:0006:0085:25:0
 Discovery HD
@@ -11136,64 +11133,70 @@ p:DVB-S QPSK 12148H 19.2Â°E
 STEST1
 p:SKY,C:0000
 0124:00c00000:0008:0085:211:0
-Sky Sport Bundesliga 5
+Sky Sport Bundesliga 4
 p:SKY
 0125:00c00000:0008:0085:211:0
-Sky Sport 6
+Sky Sport 4
 p:SKY
 012e:00c00000:0008:0085:211:0
-Sky Sport Bundesliga 6
+Sky Sport Bundesliga 5
 p:SKY
 012f:00c00000:0008:0085:211:0
-Sky Sport 7
+Sky Sport 5
 p:SKY
 0142:00c00000:0008:0085:211:0
-Sky Sport Bundesliga 8
+Sky Sport Bundesliga 7
 p:SKY
 0143:00c00000:0008:0085:211:0
-Sky Sport 9
+Sky Sport 7
 p:SKY
 014c:00c00000:0008:0085:211:0
-Sky Sport Bundesliga 9
+Sky Sport Bundesliga 8
 p:SKY
 014d:00c00000:0008:0085:211:0
-Sky Sport 10
+Sky Sport 8
 p:SKY
 00fc:00c00000:0008:0085:211:0
-Sky Sport Bundesliga 10
+Sky Sport Bundesliga 9
 p:SKY
 00fd:00c00000:0008:0085:211:0
-Sky Sport 11
+Sky Sport 9
 p:SKY
 007d:00c00000:0008:0085:25:0
 CNBC HD
 p:SKY
 0106:00c00000:0008:0085:211:0
-Sky Sport Bundesliga 2
+Sky Sport Bundesliga 1
 p:SKY
 0107:00c00000:0008:0085:211:0
-Sky Sport 3
+Sky Sport 1
 p:SKY
 0110:00c00000:0008:0085:211:0
-Sky Sport Bundesliga 3
+Sky Sport Bundesliga 2
 p:SKY
 0111:00c00000:0008:0085:211:0
-Sky Sport 4
+Sky Sport 2
 p:SKY
 011a:00c00000:0008:0085:211:0
-Sky Sport Bundesliga 4
+Sky Sport Bundesliga 3
 p:SKY
 011b:00c00000:0008:0085:211:0
-Sky Sport 5
+Sky Sport 3
 p:SKY
+0149:00c00000:0008:0085:25:0
+Sky Sport Austria 2 HD
+p:SKY,c:001cff,c:031cff,c:040c02,c:050001,C:0000
+0153:00c00000:0008:0085:25:0
+Sky Sport Austria 3 HD
+p:SKY
+008f:00c00000:0008:0085:25:0
+Sky Sport Austria 1 HD
+p:SKY,c:000aff,c:030aff,c:040b03,c:050001,C:0000
 0129:00c00000:0009:0085:25:0
-Sky Sport Bundesliga 5 HD
+Sky Sport Bundesliga 4 HD
 p:SKY
 012a:00c00000:0009:0085:25:0
-Sky Sport 6 HD
-p:SKY
-012c:00c00000:0009:0085:25:0
-Eurosport360HD 4
+Sky Sport 4 HD
 p:SKY
 0065:00c00000:0009:0085:25:0
 Universal TV HD
@@ -11207,15 +11210,12 @@ p:SKY,C:0000
 0084:00c00000:0009:0085:25:0
 DAZN 1 HD
 p:SKY,C:0000
-008f:00c00000:0009:0085:25:0
-Sky Sport Austria 1 HD
+008d:00c00000:0009:0085:25:0
+Sky Sport Mix HD
 p:SKY,C:0000
-0153:00c00000:0009:0085:25:0
-Sky Sport Austria 3 HD
-p:SKY
-0155:00c00000:0009:0085:25:0
-Prime Video Sportsbar
-p:SKY
+0091:00c00000:0009:0085:25:0
+Sky Sport Premier League HD
+p:SKY,C:0000
 0192:00c00000:000b:0085:22:0
 Crime + Investigation
 p:SKY
@@ -11226,10 +11226,10 @@ p:SKY
 Motorvision TV
 p:SKY
 0101:00c00000:000b:0085:25:0
-Sky Sport Bundesliga 10 HD
+Sky Sport Bundesliga 9 HD
 p:SKY
 0102:00c00000:000b:0085:25:0
-Sky Sport 11 HD
+Sky Sport 9  HD
 p:SKY
 0103:00c00000:000b:0085:25:0
 Sky Sport Austria 4 HD
@@ -11261,20 +11261,23 @@ p:SKY
 0196:00c00000:000b:0085:22:0
 Kinowelt TV
 p:SKY,C:0000
+010d:00c00000:000b:0085:25:0
+Sky Sport 10 HD
+p:SKY,f:40
+010f:00c00000:000b:0085:25:0
+Sky Sport Bundesliga 10 HD
+p:SKY,f:40
 0321:00c00000:000c:0085:22:0
 STEST2
 p:SKY,C:0000
 011f:00c00000:000c:0085:25:0
-Sky Sport Bundesliga 4 HD
+Sky Sport Bundesliga 3 HD
 p:SKY
 0120:00c00000:000c:0085:25:0
-Sky Sport 5 HD
-p:SKY
-0122:00c00000:000c:0085:25:0
-Eurosport360HD 3
+Sky Sport 3 HD
 p:SKY
 0069:00c00000:000c:0085:25:0
-Sky Sport Bundesliga 1 HD
+Sky Sport Bundesliga HD
 p:SKY,C:0000
 006b:00c00000:000c:0085:25:0
 Sky Cinema Best Of HD
@@ -11303,23 +11306,26 @@ p:
 0fc3:00c00000:000c:0085:12:0
 Humax PR-HD3000S
 p:
+001c:00c00000:000c:0085:22:0
+Boomerang
+p:SKY,c:0004ff,c:010501,c:0304ff,c:050001,C:0000
 001b:00c00000:000d:0085:22:0
 Nicktoons
 p:SKY,C:0000
 0031:00c00000:000d:0085:22:0
-Spiegel TV Wissen
+Curiosity Channel powered by Spiegel
 p:SKY,C:0000
 006e:00c00000:000d:0085:25:0
 Sky Atlantic HD
 p:SKY,C:0000
 006f:00c00000:000d:0085:25:0
-Sky Cinema Mittelerde HD
+Sky Cinema 007 HD
 p:SKY,C:0000
 0070:00c00000:000d:0085:25:0
 NatGeo HD
 p:SKY,C:0000
 0072:00c00000:000d:0085:25:0
-Sky Sport 2 HD
+Sky Sport Tennis HD
 p:SKY,C:0000
 007f:00c00000:000d:0085:25:0
 13th Street HD
@@ -11327,6 +11333,12 @@ p:SKY,C:0000
 0149:00c00000:000d:0085:25:0
 Sky Sport Austria 2 HD
 p:SKY
+002b:00c00000:000d:0085:22:0
+Sky Cinema Premieren +24
+p:SKY,C:0000,f:40
+0090:00c00000:000d:0085:25:0
+Sky Sport Golf HD
+p:SKY,C:0000,f:40
 0021:00c00000:000f:0085:1:0
 Genius family
 p:BetaDigital
@@ -11358,10 +11370,10 @@ p:SES
 .
 p:BetaDigital,c:0004ff,c:010500,c:0304ff,c:050001
 0151:00c00000:0010:0085:25:0
-Sky Sport Bundesliga 9 HD
+Sky Sport Bundesliga 8 HD
 p:SKY
 0152:00c00000:0010:0085:25:0
-Sky Sport 10 HD
+Sky Sport 8  HD
 p:SKY
 0154:00c00000:0010:0085:25:0
 Eurosport360HD 8
