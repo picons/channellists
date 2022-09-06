@@ -13182,7 +13182,7 @@ p:DVB-S2 8PSK 11823H 13.0Â°E
 Cobalt Data
 p:NETMED
 1bbd:00820000:17d4:013e:1:0
-M3_TEST1
+ÅÑÔ NEWS
 p:NetMed
 1bbe:00820000:17d4:013e:1:0
 Novasportsextra4HD
@@ -14319,7 +14319,7 @@ p:CANAL+
 TVP ABC
 p:CANAL+
 3d60:00820000:2c88:013e:1:0
-Puls 2
+Kino Polska Muzyka
 p:CANAL+
 3d61:00820000:2c88:013e:1:0
 Kino TV HD
@@ -14381,6 +14381,9 @@ p:CANAL+
 3db5:00820000:2c88:013e:100:0
 10796V SID 0x3db5
 p:DVB-S2 8PSK 10796V 13.0Â°E
+3d92:00820000:2c88:013e:1:0
+Kino Polska Muzyka
+p:CANAL+,f:40
 43a0:00820000:2cec:013e:1:0
 CNL
 p:Eutelsat
@@ -14702,6 +14705,9 @@ p:M-Three Satcom
 4235:00820000:2f44:013e:1:0
 Espresso TV
 p:,c:0005d3,c:0105d4,c:0305d3
+4236:00820000:2f44:013e:1:0
+Noursat English
+p:ViewMedia,f:40
 4345:00820000:300c:013e:2:0
 SRF 1
 p:Schweizer Radio und Fernsehen
