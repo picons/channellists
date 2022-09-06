@@ -3762,22 +3762,22 @@ p:BSkyB
 Sky Action HD
 p:BSkyB,C:0000
 1782:011a0000:07ee:0002:25:0
-WizardingWldHD
+Sky Family HD
 p:BSkyB,C:0000
 1784:011a0000:07ee:0002:25:0
-SuperheroHD
+BacktoSchoolHD
 p:BSkyB,C:0000
 17ae:011a0000:07ee:0002:25:0
 Sky Thriller HD
 p:BSkyB
 0ee7:011a0000:07ee:0002:25:0
-CultClassicsHD
+Sky Greats HD
 p:BSkyB,C:0000
 0ee8:011a0000:07ee:0002:25:0
 Sky Drama HD
 p:BSkyB,C:0000
 0ee9:011a0000:07ee:0002:25:0
-Smr Scares HD
+Sky ScFi/HorHD
 p:BSkyB,C:0000
 0eeb:011a0000:07ee:0002:25:0
 Sky Comedy HD
@@ -4638,7 +4638,7 @@ d3d5:011a0000:0829:0002:1:0
 Aastha
 p:BSkyB
 d3d3:011a0000:0829:0002:1:0
-54227
+Samaa TV
 p:BSkyB
 c6c0:011a0000:082a:0002:1:0
 babes&brazzers
@@ -5232,7 +5232,7 @@ d7a5:011a0000:0840:0002:1:0
 BT Sport 1
 p:BSkyB,C:0000
 d7a7:011a0000:0840:0002:1:0
-Trace Hits
+Trace Xmas
 p:BSkyB
 d7a8:011a0000:0840:0002:1:0
 RealityXtra
