@@ -5810,9 +5810,6 @@ p:Telekom Srbija
 4e42:00eb0000:0c85:0003:1:0
 JimJam
 p:Telekom Srbija
-4e43:00eb0000:0c85:0003:1:0
-Pink Super Kids
-p:Telekom Srbija
 4e44:00eb0000:0c85:0003:1:0
 Hype TV
 p:Telekom Srbija
@@ -5852,9 +5849,6 @@ p:
 4e53:00eb0000:0c85:0003:1:0
 Pink Western
 p:Telekom Srbija
-4e54:00eb0000:0c85:0003:1:0
-Pink Romance
-p:Telekom Srbija
 4e55:00eb0000:0c85:0003:1:0
 Pink Sci-Fi & Fantasy
 p:Telekom Srbija
@@ -5885,6 +5879,9 @@ p:Telekom Srbija,C:0000
 4e6c:00eb0000:0c85:0003:1:0
 Klasik TV
 p:Telekom Srbija
+4e2d:00eb0000:0c85:0003:1:0
+Film Klub
+p:Telekom Srbija,C:0000
 4e58:00eb0000:0c86:0003:1:0
 Pink Film
 p:Telekom Srbija,C:0000
@@ -5978,9 +5975,6 @@ p:Telekom Srbija
 4e91:00eb0000:0c86:0003:1:0
 FTV
 p:Telekom Srbija
-4e93:00eb0000:0c86:0003:1:0
-OK KANAL
-p:Telekom Srbija
 4e94:00eb0000:0c86:0003:1:0
 Travel Channel
 p:Telekom Srbija
@@ -6011,14 +6005,14 @@ p:
 4eec:00eb0000:0c86:0003:1:0
 Arena Sport 7 HD
 p:
+4e72:00eb0000:0c86:0003:1:0
+Film Klub Extra
+p:Telekom Srbija
 1b92:00eb0000:0c88:0003:22:0
 RTL Z
 p:M7 Group,C:0000
 1b95:00eb0000:0c88:0003:22:0
 Play6
-p:M7 Group,C:0000
-1bff:00eb0000:0c88:0003:22:0
-RTL Crime
 p:M7 Group,C:0000
 1b6c:00eb0000:0c88:0003:25:0
 RTL4 HD
@@ -6047,17 +6041,11 @@ p:M7 Group,C:0000
 1bfd:00eb0000:0c88:0003:25:0
 Nautical HD
 p:M7 Group,C:0000
-1bd6:00eb0000:0c88:0003:22:0
-RTL Lounge
-p:M7 Group
 339a:00eb0000:0c89:0003:22:0
 Jojko
 p:M7 Group
 339b:00eb0000:0c89:0003:22:0
 Nova International
-p:M7 Group
-339c:00eb0000:0c89:0003:22:0
-Prima KRIMI
 p:M7 Group
 339d:00eb0000:0c89:0003:22:0
 Slager Muzika
@@ -6095,14 +6083,14 @@ p:M7 Group,c:001c5d,c:011c5f,c:031c5d,c:050001,C:181d,C:0b02,C:0653,C:0624,C:050
 339f:00eb0000:0c89:0003:25:0
 Markiza Krimi HD
 p:M7 Group,C:0000
+33a0:00eb0000:0c89:0003:25:0
+JOJ 24 HD
+p:M7 Group,c:001c85,c:011c86,c:031c85,c:050001,C:181d,C:0b02,C:0653,C:0624,C:0500
 4e20:00eb0000:0c8b:0003:1:0
 mSAT Info
 p:Telekom Srbija,C:0000
 4e2c:00eb0000:0c8b:0003:1:0
 Superstar 2 TV HD
-p:Telekom Srbija,C:0000
-4e2d:00eb0000:0c8b:0003:1:0
-Film Klub
 p:Telekom Srbija,C:0000
 4e30:00eb0000:0c8b:0003:1:0
 Dečija TV
@@ -6112,9 +6100,6 @@ Dexy TV
 p:Telekom Srbija,C:0000
 4e6f:00eb0000:0c8b:0003:1:0
 RTS Klasika
-p:Telekom Srbija
-4e72:00eb0000:0c8b:0003:1:0
-Film Klub Extra
 p:Telekom Srbija
 4e7a:00eb0000:0c8b:0003:1:0
 RTS Život
@@ -6168,7 +6153,7 @@ p:Telekom Srbija
 Radio Beograd 202
 p:Telekom Srbija
 5172:00eb0000:0c8b:0003:2:0
-AS FM
+AS FM radio
 p:Telekom Srbija
 5173:00eb0000:0c8b:0003:2:0
 Play radio
@@ -6197,21 +6182,9 @@ p:Telekom Srbija
 4ea3:00eb0000:0c8b:0003:1:0
 Dox TV
 p:Telekom Srbija
-50dc:00eb0000:0c8b:0003:12:0
-STB SSU
-p:
-50de:00eb0000:0c8b:0003:12:0
-GM SRB SSU
-p:
-50df:00eb0000:0c8b:0003:12:0
-GM BIH SSU
-p:
-50e0:00eb0000:0c8b:0003:12:0
-GM CG SSU
-p:
-50e7:00eb0000:0c8b:0003:12:0
-NG SSU
-p:
+4ec4:00eb0000:0c8b:0003:1:0
+Blic TV HD
+p:Telekom Srbija
 36e3:00eb0000:0c8c:0003:22:0
 DOCUBOX
 p:M7 Group,C:0000
@@ -6272,6 +6245,9 @@ p:M7 Group
 36ee:00eb0000:0c8c:0003:22:0
 Prima Show
 p:M7 Group
+36ec:00eb0000:0c8c:0003:25:0
+Prima Krimi HD
+p:M7 Group,C:0000
 3b61:00eb0000:0c8d:0003:22:0
 Prime
 p:M7 Group,C:0000
@@ -6578,6 +6554,9 @@ p:M7 Group
 031c:00eb0000:0c94:0003:25:0
 TV Barrandov HD
 p:M7 Group
+0313:00eb0000:0c94:0003:22:0
+NGC
+p:M7 Group,C:0000,f:1000
 3cf9:00eb0000:0c95:0003:22:0
 Filmbox Stars
 p:M7 Group
@@ -6695,6 +6674,9 @@ p:M7 Group,C:0000
 52ed:00eb0000:0c96:0003:25:0
 Sport 10 HD
 p:M7 Group
+52f1:00eb0000:0c96:0003:25:0
+EarthxTV
+p:M7 Group,c:000215,c:030215,c:040071,c:050001
 1451:00eb0000:0c98:0003:1:0
 Ocko TV
 p:SES ASTRA
@@ -6728,6 +6710,12 @@ p:,c:011a49
 14a2:00eb0000:0c98:0003:12:0
 LX9SES
 p:SES ASTRA
+1485:00eb0000:0c98:0003:1:0
+TELEIPPICA 1
+p:
+1486:00eb0000:0c98:0003:1:0
+TELEIPPICA 2
+p:
 5253:00eb0000:0c99:0003:2:0
 100% NL
 p:M7 Group,c:010087,c:030087
@@ -6923,6 +6911,9 @@ p:M7 Group
 1f4d:00eb0000:0ca1:0003:25:0
 TESTS7
 p:M7 Group
+1f4c:00eb0000:0ca1:0003:25:0
+Prima +1 HD
+p:M7 Group,f:1000
 1427:00eb0000:0ca2:0003:2:0
 VLNA ZS
 p:Towercom
@@ -7190,6 +7181,9 @@ p:Telekom Srbija,c:0007bd,c:0107be,c:0307bd,c:050001,C:1871,C:0b00
 4eed:00eb0000:0ca4:0003:1:0
 Arena Sport 8 HD
 p:
+4ea8:00eb0000:0ca4:0003:1:0
+English Club TV
+p:Telekom Srbija
 7d00:00eb0000:000f:0005:2:0
 
 p:
@@ -7260,78 +7254,6 @@ d2f0:00eb0000:000f:0005:2:0
 
 p:
 9858:00eb0000:000f:0005:2:0
-
-p:
-7d00:00eb0000:000f:0005:2:0
-
-p:
-5208:00eb0000:000f:0005:2:0
-
-p:
-cf08:00eb0000:000f:0005:2:0
-
-p:
-7918:00eb0000:000f:0005:2:0
-
-p:
-cb20:00eb0000:000f:0005:2:0
-
-p:
-c738:00eb0000:000f:0005:2:0
-
-p:
-9858:00eb0000:000f:0005:2:0
-
-p:
-6d60:00eb0000:000f:0005:2:0
-
-p:
-9470:00eb0000:000f:0005:2:0
-
-p:
-6978:00eb0000:000f:0005:2:0
-
-p:
-9088:00eb0000:000f:0005:2:0
-
-p:
-6590:00eb0000:000f:0005:2:0
-
-p:
-e290:00eb0000:000f:0005:2:0
-
-p:
-8ca0:00eb0000:000f:0005:2:0
-
-p:
-61a8:00eb0000:000f:0005:2:0
-
-p:
-dea8:00eb0000:000f:0005:2:0
-
-p:
-88b8:00eb0000:000f:0005:2:0
-
-p:
-5dc0:00eb0000:000f:0005:2:0
-
-p:
-dac0:00eb0000:000f:0005:2:0
-
-p:
-84d0:00eb0000:000f:0005:2:0
-
-p:
-59d8:00eb0000:000f:0005:2:0
-
-p:
-d6d8:00eb0000:000f:0005:2:0
-
-p:
-55f0:00eb0000:000f:0005:2:0
-
-p:
-d2f0:00eb0000:000f:0005:2:0
 
 p:
 0802:00ebad96:0000:0001:1:0
@@ -7717,6 +7639,18 @@ p:DVB-S2 8PSK 11895V 23.5Â°E
 p:DVB-S2 8PSK 11895V 23.5Â°E
 5157:00ebae77:0005:0000:2:0
 11895V SID 0x5157
+p:DVB-S2 8PSK 11895V 23.5Â°E
+4f39:00ebae77:0005:0000:1:0
+11895V SID 0x4f39
+p:DVB-S2 8PSK 11895V 23.5Â°E
+4f3a:00ebae77:0005:0000:1:0
+11895V SID 0x4f3a
+p:DVB-S2 8PSK 11895V 23.5Â°E
+4e5c:00ebae77:0005:0000:1:0
+11895V SID 0x4e5c
+p:DVB-S2 8PSK 11895V 23.5Â°E
+4e6e:00ebae77:0005:0000:1:0
+11895V SID 0x4e6e
 p:DVB-S2 8PSK 11895V 23.5Â°E
 345d:00c00000:03e9:0001:31:0
 Service13405
