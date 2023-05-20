@@ -2976,7 +2976,7 @@ p:Ziggo
 Qmusic Nonstop
 p:Ziggo
 4a3d:ffff0000:0805:0600:25:0
-BBC World News
+BBC News
 p:Ziggo
 4a53:ffff0000:0806:0600:1:0
 SBS6
@@ -3453,7 +3453,7 @@ p:Ziggo
 NPO Start
 p:Ziggo
 4ba2:ffff0000:0817:0600:25:0
-één
+VRT 1
 p:Ziggo,C:0000,f:1000
 4ba3:ffff0000:0817:0600:25:0
 MTV
@@ -3585,7 +3585,7 @@ p:Ziggo,C:0000
 DanceTelevision
 p:Ziggo,C:0000
 4c24:ffff0000:0836:0600:25:0
-Boomerang
+Cartoonito
 p:Ziggo,C:0000
 4c25:ffff0000:0836:0600:25:0
 Crime+Investigation
@@ -3724,24 +3724,18 @@ Testbeeld
 p:Ziggo
 4ccd:ffff0000:081a:0600:25:0
 Ziggo Sport
-p:Ziggo,c:0007d1,c:0107db,c:0307d1,c:050001,f:1000
-4cd7:ffff0000:081a:0600:25:0
-SBS9
-p:Ziggo,C:0000,f:1000
+p:Ziggo
 4cd6:ffff0000:081a:0600:25:0
 Ziggo Live Events
 p:Ziggo
+4cd7:ffff0000:081a:0600:25:0
+SBS9
+p:Ziggo,C:0000
 4511:ffff0000:081b:0600:25:0
 Ajax TV
 p:Ziggo,C:0000
 4ce1:ffff0000:081b:0600:25:0
 Ziggo Live Events
-p:Ziggo
-3f47:ffff0000:0839:0600:1:0
-Film1 Applicatie
-p:Ziggo
-3f35:ffff0000:0839:0600:22:0
-Testbeeld
 p:Ziggo
 3f45:ffff0000:0839:0600:25:0
 Ziggo Live Events
@@ -3758,23 +3752,11 @@ p:Ziggo
 196c:ffff0000:0c7a:0600:1:0
 Atos TV
 p:Ziggo
-196d:ffff0000:0c7a:0600:1:0
-LINQ TV
-p:Ziggo
 196e:ffff0000:0c7a:0600:1:0
 TV Dordrecht
 p:Ziggo
-196f:ffff0000:0c7a:0600:1:0
-Lansingerland TV
-p:Ziggo
 1970:ffff0000:0c7a:0600:1:0
 Capelle TV
-p:Ziggo
-1972:ffff0000:0c7a:0600:1:0
-WOS Media
-p:Ziggo
-1975:ffff0000:0c7a:0600:1:0
-SRC TV
 p:Ziggo
 0db4:ffff0000:0c7a:0600:2:0
 WOS Radio
@@ -3844,6 +3826,18 @@ RTV Krimpenerwaard
 p:Ziggo
 1977:ffff0000:0c7a:0600:25:0
 Exxact Barendrecht
+p:Ziggo
+196d:ffff0000:0c7a:0600:25:0
+LINQ TV
+p:Ziggo
+196f:ffff0000:0c7a:0600:25:0
+Lansingerland TV
+p:Ziggo
+1972:ffff0000:0c7a:0600:25:0
+WOS Media
+p:Ziggo
+1975:ffff0000:0c7a:0600:25:0
+SRC TV
 p:Ziggo
 end
 Editor:DreamSet 2.4.13 - http://www.dreamset-editor.com
