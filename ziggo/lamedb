@@ -2763,6 +2763,9 @@ ffff0000:0839:0600
 ffff0000:0c7a:0600
 	c 266000:6900000:2:5:0:0:0
 /
+ffff0000:0c86:0600
+	c 266000:6900000:2:5:0:0:0
+/
 eeee01da:0906:2210
 	t 473999000:0:5:5:4:6:2:4:2:0:0:0
 /
@@ -3488,6 +3491,27 @@ p:Ziggo,C:0000
 4cc9:ffff0000:0819:0600:25:0
 Film1 On Demand.
 p:Ziggo
+4cd4:ffff0000:081a:0600:22:0
+Testbeeld
+p:Ziggo
+4cd5:ffff0000:081a:0600:22:0
+Testbeeld
+p:Ziggo
+4ccd:ffff0000:081a:0600:25:0
+Ziggo Sport
+p:Ziggo
+4cd6:ffff0000:081a:0600:25:0
+Ziggo Live Events
+p:Ziggo
+4cd7:ffff0000:081a:0600:25:0
+SBS9
+p:Ziggo,C:0000
+4511:ffff0000:081b:0600:25:0
+Ajax TV
+p:Ziggo,C:0000
+4ce1:ffff0000:081b:0600:25:0
+Ziggo Live Events
+p:Ziggo
 4cf5:ffff0000:081c:0600:25:0
 24Kitchen
 p:Ziggo,C:0000,f:1000
@@ -3623,6 +3647,12 @@ p:Ziggo
 4c36:ffff0000:0837:0600:25:0
 HBOmax
 p:Ziggo
+3f35:ffff0000:0839:0600:22:0
+Testbeeld
+p:Ziggo
+3f45:ffff0000:0839:0600:25:0
+Ziggo Live Events
+p:Ziggo,C:0000
 7761:ffff0000:083a:0600:25:0
 Ziggo Live Events ESPN
 p:Ziggo,C:0000
@@ -3715,30 +3745,6 @@ RTL Z
 p:Ziggo,C:0000,f:1000
 4af2:ffff0000:0840:0600:25:0
 NDR
-p:Ziggo
-4cd4:ffff0000:081a:0600:22:0
-Testbeeld
-p:Ziggo
-4cd5:ffff0000:081a:0600:22:0
-Testbeeld
-p:Ziggo
-4ccd:ffff0000:081a:0600:25:0
-Ziggo Sport
-p:Ziggo
-4cd6:ffff0000:081a:0600:25:0
-Ziggo Live Events
-p:Ziggo
-4cd7:ffff0000:081a:0600:25:0
-SBS9
-p:Ziggo,C:0000
-4511:ffff0000:081b:0600:25:0
-Ajax TV
-p:Ziggo,C:0000
-4ce1:ffff0000:081b:0600:25:0
-Ziggo Live Events
-p:Ziggo
-3f45:ffff0000:0839:0600:25:0
-Ziggo Live Events
 p:Ziggo
 1969:ffff0000:0c7a:0600:1:0
 TV Hoeksche Waard
@@ -3838,6 +3844,87 @@ WOS Media
 p:Ziggo
 1975:ffff0000:0c7a:0600:25:0
 SRC TV
+p:Ziggo
+1bc9:ffff0000:0c86:0600:1:0
+Omroep Zulthe
+p:Ziggo
+1bca:ffff0000:0c86:0600:1:0
+Omroep Het Hogeland
+p:Ziggo
+1bcb:ffff0000:0c86:0600:1:0
+ZO!34 TV
+p:Ziggo
+1bcd:ffff0000:0c86:0600:1:0
+Regionieuws TV
+p:Ziggo
+1bce:ffff0000:0c86:0600:1:0
+TV AA en Hunze
+p:Ziggo
+100c:ffff0000:0c86:0600:2:0
+Tukker FM
+p:Ziggo
+100d:ffff0000:0c86:0600:2:0
+Radio AA en Hunze
+p:Ziggo
+100e:ffff0000:0c86:0600:2:0
+Simone FM
+p:Ziggo
+100f:ffff0000:0c86:0600:2:0
+Tynaarlo Lokaal
+p:Ziggo
+1010:ffff0000:0c86:0600:2:0
+Eemsdelta Radio
+p:Ziggo
+1011:ffff0000:0c86:0600:2:0
+RTV1 Radio
+p:Ziggo
+1012:ffff0000:0c86:0600:2:0
+RTV GO Radio
+p:Ziggo
+1013:ffff0000:0c86:0600:2:0
+Oog-Radio
+p:Ziggo
+1014:ffff0000:0c86:0600:2:0
+Omroep Assen Radio
+p:Ziggo
+1015:ffff0000:0c86:0600:2:0
+RTV Borger-Odoorn Radio
+p:Ziggo
+1016:ffff0000:0c86:0600:2:0
+Radio Westerwolde
+p:Ziggo
+1017:ffff0000:0c86:0600:2:0
+Omroep Het Hogeland Radio
+p:Ziggo
+1018:ffff0000:0c86:0600:2:0
+ZO!34 FM
+p:Ziggo
+1019:ffff0000:0c86:0600:2:0
+TeamFM Drenthe-Groningen
+p:Ziggo
+101a:ffff0000:0c86:0600:2:0
+Regio FM
+p:Ziggo
+101b:ffff0000:0c86:0600:2:0
+GigantFM
+p:Ziggo
+101c:ffff0000:0c86:0600:2:0
+Joy Radio
+p:Ziggo
+1bc7:ffff0000:0c86:0600:22:0
+Omroep Assen TV
+p:Ziggo
+1bc8:ffff0000:0c86:0600:22:0
+RTV1
+p:Ziggo
+1bc5:ffff0000:0c86:0600:25:0
+RTV Go TV
+p:Ziggo
+1bc6:ffff0000:0c86:0600:25:0
+Oog-TV
+p:Ziggo
+1bcc:ffff0000:0c86:0600:25:0
+Eemsdelta TV
 p:Ziggo
 end
 Editor:DreamSet 2.4.13 - http://www.dreamset-editor.com

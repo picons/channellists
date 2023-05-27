@@ -1,2 +1,4 @@
 #NAME User - Bouquets (Radio)
-#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "bouquets.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.ziggo.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.lokaal_regionaal_groningen_drenthe_noord.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.lokaal_zuid_holland_zuid___rijnmond.radio" ORDER BY bouquet
