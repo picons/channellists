@@ -2822,9 +2822,6 @@ p:Ziggo,C:0000,f:1000
 4e3d:ffff0000:0802:0600:25:0
 MTV Live HD
 p:Ziggo,C:0000,f:1000
-4e4e:ffff0000:0803:0600:1:0
-CGTN
-p:Ziggo,C:0000,f:1000
 4e54:ffff0000:0803:0600:1:0
 Mediaset Italia
 p:Ziggo,C:0000,f:1000
@@ -2876,6 +2873,9 @@ p:Ziggo
 4e4a:ffff0000:0803:0600:25:0
 Nickelodeon Ukraine
 p:Ziggo
+4e49:ffff0000:0803:0600:25:0
+Dreamworks
+p:Ziggo,C:0000
 4e65:ffff0000:0804:0600:1:0
 Aljazeera
 p:Ziggo,C:0000
@@ -2961,7 +2961,7 @@ p:Ziggo,C:0000
 Yoga Flow
 p:Ziggo,C:0000
 2782:ffff0000:0805:0600:2:0
-NPO Radio 2 Soul & Jazz
+NPO Soul & Jazz
 p:Ziggo
 2784:ffff0000:0805:0600:2:0
 Radio 538
@@ -3416,9 +3416,6 @@ p:Ziggo
 3421:ffff0000:0816:0600:1:0
 iTV cod 38
 p:Ziggo
-4b8e:ffff0000:0816:0600:1:0
-Tommy TV
-p:Ziggo,C:0000
 4b92:ffff0000:0816:0600:25:0
 Ziggo Live Events
 p:Ziggo
@@ -3490,27 +3487,6 @@ Film1 On Demand.
 p:Ziggo,C:0000
 4cc9:ffff0000:0819:0600:25:0
 Film1 On Demand.
-p:Ziggo
-4cd4:ffff0000:081a:0600:22:0
-Testbeeld
-p:Ziggo
-4cd5:ffff0000:081a:0600:22:0
-Testbeeld
-p:Ziggo
-4ccd:ffff0000:081a:0600:25:0
-Ziggo Sport
-p:Ziggo
-4cd6:ffff0000:081a:0600:25:0
-Ziggo Live Events
-p:Ziggo
-4cd7:ffff0000:081a:0600:25:0
-SBS9
-p:Ziggo,C:0000
-4511:ffff0000:081b:0600:25:0
-Ajax TV
-p:Ziggo,C:0000
-4ce1:ffff0000:081b:0600:25:0
-Ziggo Live Events
 p:Ziggo
 4cf5:ffff0000:081c:0600:25:0
 24Kitchen
@@ -3621,10 +3597,10 @@ p:Ziggo,C:0000
 TV538
 p:Ziggo,C:0000
 4c32:ffff0000:0837:0600:25:0
-Netflix.
+Netflix
 p:Ziggo
 4c33:ffff0000:0837:0600:25:0
-Videoland.
+Videoland
 p:Ziggo
 4c35:ffff0000:0837:0600:25:0
 Ziggo Live Events ESPN
@@ -3647,12 +3623,9 @@ p:Ziggo
 4c36:ffff0000:0837:0600:25:0
 HBOmax
 p:Ziggo
-3f35:ffff0000:0839:0600:22:0
-Testbeeld
+4c37:ffff0000:0837:0600:25:0
+SkyShowtime
 p:Ziggo
-3f45:ffff0000:0839:0600:25:0
-Ziggo Live Events
-p:Ziggo,C:0000
 7761:ffff0000:083a:0600:25:0
 Ziggo Live Events ESPN
 p:Ziggo,C:0000
@@ -3746,8 +3719,32 @@ p:Ziggo,C:0000,f:1000
 4af2:ffff0000:0840:0600:25:0
 NDR
 p:Ziggo
-1969:ffff0000:0c7a:0600:1:0
-TV Hoeksche Waard
+4cd4:ffff0000:081a:0600:22:0
+Testbeeld
+p:Ziggo
+4cd5:ffff0000:081a:0600:22:0
+Testbeeld
+p:Ziggo
+4ccd:ffff0000:081a:0600:25:0
+Ziggo Sport
+p:Ziggo
+4cd6:ffff0000:081a:0600:25:0
+Ziggo Live Events
+p:Ziggo
+4cd7:ffff0000:081a:0600:25:0
+SBS9
+p:Ziggo,C:0000
+4511:ffff0000:081b:0600:25:0
+Ajax TV
+p:Ziggo,C:0000
+4ce1:ffff0000:081b:0600:25:0
+Ziggo Live Events
+p:Ziggo
+3f35:ffff0000:0839:0600:22:0
+Testbeeld
+p:Ziggo
+3f45:ffff0000:0839:0600:25:0
+Ziggo Live Events
 p:Ziggo
 196a:ffff0000:0c7a:0600:1:0
 Open Rotterdam
@@ -3757,12 +3754,6 @@ Rotterdam Podium
 p:Ziggo
 196c:ffff0000:0c7a:0600:1:0
 Atos TV
-p:Ziggo
-196e:ffff0000:0c7a:0600:1:0
-TV Dordrecht
-p:Ziggo
-1970:ffff0000:0c7a:0600:1:0
-Capelle TV
 p:Ziggo
 0db4:ffff0000:0c7a:0600:2:0
 WOS Radio
@@ -3844,6 +3835,15 @@ WOS Media
 p:Ziggo
 1975:ffff0000:0c7a:0600:25:0
 SRC TV
+p:Ziggo
+1969:ffff0000:0c7a:0600:25:0
+TV Hoeksche Waard
+p:Ziggo
+196e:ffff0000:0c7a:0600:25:0
+TV Dordrecht
+p:Ziggo
+1970:ffff0000:0c7a:0600:25:0
+Capelle TV
 p:Ziggo
 1bc9:ffff0000:0c86:0600:1:0
 Omroep Zulthe
