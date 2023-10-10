@@ -4391,6 +4391,12 @@ p:M7 Group
 36ff:00eb0000:0c8c:0003:25:0
 CNN Prima News HD
 p:M7 Group
+36e6:00eb0000:0c8c:0003:25:0
+Nova Sport 3 HD
+p:M7 Group,C:0000
+36e7:00eb0000:0c8c:0003:25:0
+Nova Sport 4 HD
+p:M7 Group,C:0000
 3b61:00eb0000:0c8d:0003:22:0
 Prime
 p:M7 Group,C:0000
@@ -5168,6 +5174,12 @@ p:MX1,C:1837
 1434:00eb0000:0ca2:0003:25:0
 Stingray Classica HD
 p:BetaDigital,C:1837
+1389:00eb0000:0ca2:0003:1:0
+RTS Nauka
+p:Telekom Srbija
+138a:00eb0000:0ca2:0003:1:0
+RTS Poletarac 2
+p:Telekom Srbija
 4e63:00eb0000:0ca4:0003:1:0
 FOX Life HD
 p:Telekom Srbija,C:0000
@@ -5506,6 +5518,9 @@ p:,f:40
 p:,f:40
 055a:00eb2d7b:0000:0001:1:0
 1370 Stalowa-Wola SuperNova
+p:
+056e:00eb2d7b:0000:0001:1:0
+1390 Biala-Podlaska SuperNova
 p:
 1f40:00eb2d80:0001:0000:2:0
 Radio Zlote Przeboje Katowice
