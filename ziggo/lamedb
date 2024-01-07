@@ -3237,7 +3237,7 @@ p:Ziggo
 AT5
 p:Ziggo
 4b0b:ffff0000:080e:0600:25:0
-NH Nieuws
+NH
 p:Ziggo
 4b0c:ffff0000:080e:0600:25:0
 RTV West
@@ -3261,7 +3261,7 @@ p:Ziggo
 AT5
 p:Ziggo
 52db:ffff0000:080e:0600:25:0
-NH Nieuws
+NH
 p:Ziggo
 52dc:ffff0000:080e:0600:25:0
 RTV West
@@ -3276,7 +3276,7 @@ p:Ziggo,C:0000,f:1000
 Discovery
 p:Ziggo,C:0000,f:1000
 4b1a:ffff0000:080f:0600:25:0
-Canvas
+VRT CANVAS
 p:Ziggo,C:0000,f:1000
 4b32:ffff0000:0810:0600:1:0
 TRT Çocuk
@@ -3352,6 +3352,9 @@ RTL Telekids
 p:Ziggo,C:0000
 4b60:ffff0000:0813:0600:25:0
 192TV
+p:Ziggo,C:0000
+4b5d:ffff0000:0813:0600:25:0
+Test1
 p:Ziggo,C:0000
 4b65:ffff0000:0814:0600:1:0
 Nicktoons
@@ -3487,6 +3490,27 @@ Film1 On Demand.
 p:Ziggo,C:0000
 4cc9:ffff0000:0819:0600:25:0
 Film1 On Demand.
+p:Ziggo
+4cd4:ffff0000:081a:0600:22:0
+Testbeeld
+p:Ziggo
+4cd5:ffff0000:081a:0600:22:0
+Testbeeld
+p:Ziggo
+4ccd:ffff0000:081a:0600:25:0
+Ziggo Sport
+p:Ziggo
+4cd6:ffff0000:081a:0600:25:0
+Ziggo Live Events
+p:Ziggo
+4cd7:ffff0000:081a:0600:25:0
+SBS9
+p:Ziggo,C:0000
+4511:ffff0000:081b:0600:25:0
+Ajax TV
+p:Ziggo,C:0000
+4ce1:ffff0000:081b:0600:25:0
+Ziggo Live Events
 p:Ziggo
 4cf5:ffff0000:081c:0600:25:0
 24Kitchen
@@ -3626,6 +3650,15 @@ p:Ziggo
 4c37:ffff0000:0837:0600:25:0
 SkyShowtime
 p:Ziggo
+4c38:ffff0000:0837:0600:25:0
+Canal+
+p:Ziggo
+3f35:ffff0000:0839:0600:22:0
+Testbeeld
+p:Ziggo
+3f45:ffff0000:0839:0600:25:0
+Ziggo Live Events
+p:Ziggo
 7761:ffff0000:083a:0600:25:0
 Ziggo Live Events ESPN
 p:Ziggo,C:0000
@@ -3639,7 +3672,7 @@ p:Ziggo,C:0000,f:1000
 ESPN 4
 p:Ziggo,C:0000,f:1000
 4c6b:ffff0000:083a:0600:25:0
-FOX
+STAR Channel
 p:Ziggo,C:0000,f:1000
 4c6e:ffff0000:083a:0600:25:0
 TLC
@@ -3719,6 +3752,15 @@ p:Ziggo,C:0000,f:1000
 4af2:ffff0000:0840:0600:25:0
 NDR
 p:Ziggo
+4115:ffff0000:081a:0600:1:0
+Code Download HZN
+p:Ziggo
+4116:ffff0000:081a:0600:1:0
+Humax 5500C
+p:Ziggo
+4117:ffff0000:081a:0600:1:0
+Codedownload D4A
+p:Ziggo
 4cd4:ffff0000:081a:0600:22:0
 Testbeeld
 p:Ziggo
@@ -3734,17 +3776,89 @@ p:Ziggo
 4cd7:ffff0000:081a:0600:25:0
 SBS9
 p:Ziggo,C:0000
-4511:ffff0000:081b:0600:25:0
-Ajax TV
-p:Ziggo,C:0000
-4ce1:ffff0000:081b:0600:25:0
-Ziggo Live Events
+3f36:ffff0000:0839:0600:1:0
+Radio Actual
+p:Ziggo
+3f3d:ffff0000:0839:0600:1:0
+TV Guide
+p:Ziggo
+3f3e:ffff0000:0839:0600:1:0
+Code Download
+p:Ziggo
+3f3f:ffff0000:0839:0600:1:0
+Switch Image
+p:Ziggo
+3f42:ffff0000:0839:0600:1:0
+TV Search
+p:Ziggo
+3f43:ffff0000:0839:0600:1:0
+Welcome Application
+p:Ziggo
+3f46:ffff0000:0839:0600:1:0
+Standby Application
+p:Ziggo
+3f47:ffff0000:0839:0600:1:0
+Film1 Applicatie
+p:Ziggo
+3f49:ffff0000:0839:0600:1:0
+CUTV
 p:Ziggo
 3f35:ffff0000:0839:0600:22:0
 Testbeeld
 p:Ziggo
 3f45:ffff0000:0839:0600:25:0
 Ziggo Live Events
+p:Ziggo,C:0000
+4515:ffff0000:081b:0600:1:0
+iTV CDT New
+p:Ziggo
+4522:ffff0000:081b:0600:1:0
+Place Holder Application
+p:Ziggo
+4526:ffff0000:081b:0600:1:0
+iTV Nachtlounge COD
+p:Ziggo
+4528:ffff0000:081b:0600:1:0
+iTV General Messaging 4
+p:Ziggo
+452a:ffff0000:081b:0600:1:0
+iTV TV Tips
+p:Ziggo
+452c:ffff0000:081b:0600:1:0
+iTV Self Care Application
+p:Ziggo
+452e:ffff0000:081b:0600:1:0
+VOD2 test
+p:Ziggo
+452f:ffff0000:081b:0600:1:0
+ondemand
+p:Ziggo
+4530:ffff0000:081b:0600:1:0
+VOD2 Dual Barker 1
+p:Ziggo
+4531:ffff0000:081b:0600:1:0
+VOD2 Dual Barker 2
+p:Ziggo
+4532:ffff0000:081b:0600:1:0
+On Demand
+p:Ziggo
+4511:ffff0000:081b:0600:25:0
+Ajax TV
+p:Ziggo,C:0000
+4ce1:ffff0000:081b:0600:25:0
+Ziggo Live Events
+p:Ziggo
+4ce2:ffff0000:081b:0600:25:0
+Dagpas gestopt
+p:Ziggo
+4ce3:ffff0000:081b:0600:25:0
+Ondemand gestopt
+p:Ziggo
+4ce4:ffff0000:081b:0600:25:0
+Dagpas gestopt
+p:Ziggo
+4ce5:ffff0000:081b:0600:25:0
+Ondemand gestopt
 p:Ziggo
 196a:ffff0000:0c7a:0600:1:0
 Open Rotterdam
