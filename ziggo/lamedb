@@ -2766,6 +2766,12 @@ ffff0000:0c7a:0600
 ffff0000:0c86:0600
 	c 266000:6900000:2:5:0:0:0
 /
+ffff0000:7501:03e8
+	c 546000:6900000:2:5:0:0:0
+/
+ffff0000:7502:03e8
+	c 554000:6900000:2:5:0:0:0
+/
 eeee01da:0906:2210
 	t 473999000:0:5:5:4:6:2:4:2:0:0:0
 /
@@ -3305,9 +3311,6 @@ p:Ziggo,C:0000
 4b42:ffff0000:0812:0600:1:0
 Eurostar
 p:Ziggo,C:0000
-4b46:ffff0000:0812:0600:1:0
-Euro D
-p:Ziggo,C:0000
 4b47:ffff0000:0812:0600:1:0
 100% NL TV
 p:Ziggo,C:0000,f:1000
@@ -3335,6 +3338,9 @@ p:Ziggo,C:0000
 4b4a:ffff0000:0812:0600:25:0
 Mezzo
 p:Ziggo,C:0000
+4b46:ffff0000:0812:0600:25:0
+Euro D
+p:Ziggo,C:0000
 4b5e:ffff0000:0813:0600:1:0
 SLAM!TV
 p:Ziggo,C:0000,f:1000
@@ -3354,7 +3360,7 @@ p:Ziggo,C:0000
 192TV
 p:Ziggo,C:0000
 4b5d:ffff0000:0813:0600:25:0
-Test1
+HGTV
 p:Ziggo,C:0000
 4b65:ffff0000:0814:0600:1:0
 Nicktoons
@@ -3490,27 +3496,6 @@ Film1 On Demand.
 p:Ziggo,C:0000
 4cc9:ffff0000:0819:0600:25:0
 Film1 On Demand.
-p:Ziggo
-4cd4:ffff0000:081a:0600:22:0
-Testbeeld
-p:Ziggo
-4cd5:ffff0000:081a:0600:22:0
-Testbeeld
-p:Ziggo
-4ccd:ffff0000:081a:0600:25:0
-Ziggo Sport
-p:Ziggo
-4cd6:ffff0000:081a:0600:25:0
-Ziggo Live Events
-p:Ziggo
-4cd7:ffff0000:081a:0600:25:0
-SBS9
-p:Ziggo,C:0000
-4511:ffff0000:081b:0600:25:0
-Ajax TV
-p:Ziggo,C:0000
-4ce1:ffff0000:081b:0600:25:0
-Ziggo Live Events
 p:Ziggo
 4cf5:ffff0000:081c:0600:25:0
 24Kitchen
@@ -3653,12 +3638,6 @@ p:Ziggo
 4c38:ffff0000:0837:0600:25:0
 Canal+
 p:Ziggo
-3f35:ffff0000:0839:0600:22:0
-Testbeeld
-p:Ziggo
-3f45:ffff0000:0839:0600:25:0
-Ziggo Live Events
-p:Ziggo
 7761:ffff0000:083a:0600:25:0
 Ziggo Live Events ESPN
 p:Ziggo,C:0000
@@ -3751,114 +3730,6 @@ RTL Z
 p:Ziggo,C:0000,f:1000
 4af2:ffff0000:0840:0600:25:0
 NDR
-p:Ziggo
-4115:ffff0000:081a:0600:1:0
-Code Download HZN
-p:Ziggo
-4116:ffff0000:081a:0600:1:0
-Humax 5500C
-p:Ziggo
-4117:ffff0000:081a:0600:1:0
-Codedownload D4A
-p:Ziggo
-4cd4:ffff0000:081a:0600:22:0
-Testbeeld
-p:Ziggo
-4cd5:ffff0000:081a:0600:22:0
-Testbeeld
-p:Ziggo
-4ccd:ffff0000:081a:0600:25:0
-Ziggo Sport
-p:Ziggo
-4cd6:ffff0000:081a:0600:25:0
-Ziggo Live Events
-p:Ziggo
-4cd7:ffff0000:081a:0600:25:0
-SBS9
-p:Ziggo,C:0000
-3f36:ffff0000:0839:0600:1:0
-Radio Actual
-p:Ziggo
-3f3d:ffff0000:0839:0600:1:0
-TV Guide
-p:Ziggo
-3f3e:ffff0000:0839:0600:1:0
-Code Download
-p:Ziggo
-3f3f:ffff0000:0839:0600:1:0
-Switch Image
-p:Ziggo
-3f42:ffff0000:0839:0600:1:0
-TV Search
-p:Ziggo
-3f43:ffff0000:0839:0600:1:0
-Welcome Application
-p:Ziggo
-3f46:ffff0000:0839:0600:1:0
-Standby Application
-p:Ziggo
-3f47:ffff0000:0839:0600:1:0
-Film1 Applicatie
-p:Ziggo
-3f49:ffff0000:0839:0600:1:0
-CUTV
-p:Ziggo
-3f35:ffff0000:0839:0600:22:0
-Testbeeld
-p:Ziggo
-3f45:ffff0000:0839:0600:25:0
-Ziggo Live Events
-p:Ziggo,C:0000
-4515:ffff0000:081b:0600:1:0
-iTV CDT New
-p:Ziggo
-4522:ffff0000:081b:0600:1:0
-Place Holder Application
-p:Ziggo
-4526:ffff0000:081b:0600:1:0
-iTV Nachtlounge COD
-p:Ziggo
-4528:ffff0000:081b:0600:1:0
-iTV General Messaging 4
-p:Ziggo
-452a:ffff0000:081b:0600:1:0
-iTV TV Tips
-p:Ziggo
-452c:ffff0000:081b:0600:1:0
-iTV Self Care Application
-p:Ziggo
-452e:ffff0000:081b:0600:1:0
-VOD2 test
-p:Ziggo
-452f:ffff0000:081b:0600:1:0
-ondemand
-p:Ziggo
-4530:ffff0000:081b:0600:1:0
-VOD2 Dual Barker 1
-p:Ziggo
-4531:ffff0000:081b:0600:1:0
-VOD2 Dual Barker 2
-p:Ziggo
-4532:ffff0000:081b:0600:1:0
-On Demand
-p:Ziggo
-4511:ffff0000:081b:0600:25:0
-Ajax TV
-p:Ziggo,C:0000
-4ce1:ffff0000:081b:0600:25:0
-Ziggo Live Events
-p:Ziggo
-4ce2:ffff0000:081b:0600:25:0
-Dagpas gestopt
-p:Ziggo
-4ce3:ffff0000:081b:0600:25:0
-Ondemand gestopt
-p:Ziggo
-4ce4:ffff0000:081b:0600:25:0
-Dagpas gestopt
-p:Ziggo
-4ce5:ffff0000:081b:0600:25:0
-Ondemand gestopt
 p:Ziggo
 196a:ffff0000:0c7a:0600:1:0
 Open Rotterdam
@@ -3959,21 +3830,6 @@ p:Ziggo
 1970:ffff0000:0c7a:0600:25:0
 Capelle TV
 p:Ziggo
-1bc9:ffff0000:0c86:0600:1:0
-Omroep Zulthe
-p:Ziggo
-1bca:ffff0000:0c86:0600:1:0
-Omroep Het Hogeland
-p:Ziggo
-1bcb:ffff0000:0c86:0600:1:0
-ZO!34 TV
-p:Ziggo
-1bcd:ffff0000:0c86:0600:1:0
-Regionieuws TV
-p:Ziggo
-1bce:ffff0000:0c86:0600:1:0
-TV AA en Hunze
-p:Ziggo
 100c:ffff0000:0c86:0600:2:0
 Tukker FM
 p:Ziggo
@@ -4002,7 +3858,7 @@ p:Ziggo
 Omroep Assen Radio
 p:Ziggo
 1015:ffff0000:0c86:0600:2:0
-RTV Borger-Odoorn Radio
+Zulthe Radio
 p:Ziggo
 1016:ffff0000:0c86:0600:2:0
 Radio Westerwolde
@@ -4025,12 +3881,6 @@ p:Ziggo
 101c:ffff0000:0c86:0600:2:0
 Joy Radio
 p:Ziggo
-1bc7:ffff0000:0c86:0600:22:0
-Omroep Assen TV
-p:Ziggo
-1bc8:ffff0000:0c86:0600:22:0
-RTV1
-p:Ziggo
 1bc5:ffff0000:0c86:0600:25:0
 RTV Go TV
 p:Ziggo
@@ -4039,6 +3889,213 @@ Oog-TV
 p:Ziggo
 1bcc:ffff0000:0c86:0600:25:0
 Eemsdelta TV
+p:Ziggo
+101d:ffff0000:0c86:0600:2:0
+HITZZZ!!
+p:Ziggo
+1bc7:ffff0000:0c86:0600:25:0
+Omroep Assen TV
+p:Ziggo
+1bc8:ffff0000:0c86:0600:25:0
+RTV1
+p:Ziggo
+1bc9:ffff0000:0c86:0600:25:0
+Omroep Zulthe
+p:Ziggo
+1bca:ffff0000:0c86:0600:25:0
+Omroep Het Hogeland
+p:Ziggo
+1bcb:ffff0000:0c86:0600:25:0
+ZO!34 TV
+p:Ziggo
+1bcd:ffff0000:0c86:0600:25:0
+Regionieuws TV
+p:Ziggo
+1bce:ffff0000:0c86:0600:25:0
+TV AA en Hunze
+p:Ziggo
+1bcf:ffff0000:0c86:0600:25:0
+Tynaarlo Lokaal
+p:Ziggo
+0003:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+0004:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+0005:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+0006:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+0007:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+0008:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+0009:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+000a:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+000b:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+000c:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+000d:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+000e:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+000f:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+0010:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+0011:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+0012:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+0013:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+0014:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+0015:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+0016:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+0017:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+0018:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+0019:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+001a:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+001b:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+001c:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+001d:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+001e:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+001f:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+0020:ffff0000:7501:03e8:1:0
+on demand
+p:Ziggo
+0003:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+0004:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+0005:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+0006:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+0007:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+0008:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+0009:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+000a:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+000b:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+000c:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+000d:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+000e:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+000f:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+0010:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+0011:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+0012:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+0013:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+0014:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+0015:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+0016:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+0017:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+0018:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+0019:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+001a:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+001b:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+001c:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+001d:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+001e:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+001f:ffff0000:7502:03e8:1:0
+on demand
+p:Ziggo
+0020:ffff0000:7502:03e8:1:0
+on demand
 p:Ziggo
 end
 Editor:DreamSet 2.4.13 - http://www.dreamset-editor.com
