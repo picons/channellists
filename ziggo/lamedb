@@ -2882,9 +2882,6 @@ p:Ziggo
 4e49:ffff0000:0803:0600:25:0
 Dreamworks
 p:Ziggo,C:0000
-4e65:ffff0000:0804:0600:1:0
-Aljazeera
-p:Ziggo,C:0000
 4e66:ffff0000:0804:0600:1:0
 TRT Müzik
 p:Ziggo,C:0000
@@ -2917,6 +2914,9 @@ TVM Europe
 p:Ziggo,C:0000
 4e67:ffff0000:0804:0600:25:0
 Horse & Country TV
+p:Ziggo,C:0000
+4e65:ffff0000:0804:0600:25:0
+Aljazeera
 p:Ziggo,C:0000
 4a3e:ffff0000:0805:0600:1:0
 ESPN UHD
@@ -3308,6 +3308,12 @@ p:Ziggo
 4b30:ffff0000:0810:0600:25:0
 Stingray DJAZZ
 p:Ziggo,C:0000
+474c:ffff0000:0810:0600:2:0
+TWEE Radio
+p:Ziggo
+4b34:ffff0000:0810:0600:25:0
+TWEE
+p:Ziggo
 4b42:ffff0000:0812:0600:1:0
 Eurostar
 p:Ziggo,C:0000
@@ -3460,6 +3466,18 @@ Radio Info
 p:Ziggo
 4b98:ffff0000:0816:0600:25:0
 NPO Start
+p:Ziggo
+4b8d:ffff0000:0816:0600:25:0
+Dagpas gestopt
+p:Ziggo,c:0007d1,c:0307d1,c:050001
+4b8e:ffff0000:0816:0600:25:0
+Ondemand gestopt
+p:Ziggo,c:0008fd,c:0308fd,c:050001
+4b8f:ffff0000:0816:0600:25:0
+Dagpas gestopt
+p:Ziggo,c:0007d1,c:0307d1,c:050001
+4b90:ffff0000:0816:0600:25:0
+Ondemand gestopt
 p:Ziggo
 4ba2:ffff0000:0817:0600:25:0
 VRT 1
@@ -3623,9 +3641,6 @@ p:Ziggo,c:001bbd,c:011bc7,c:031bbd,c:050001,C:0000
 4c31:ffff0000:0837:0600:25:0
 Viaplay
 p:Ziggo
-4c34:ffff0000:0837:0600:25:0
-Viaplay
-p:Ziggo
 4c2f:ffff0000:0837:0600:25:0
 Disney Plus
 p:Ziggo
@@ -3638,6 +3653,9 @@ p:Ziggo
 4c38:ffff0000:0837:0600:25:0
 Canal+
 p:Ziggo
+4c39:ffff0000:0837:0600:25:0
+Apple TV+
+p:Ziggo,c:0015e1,c:0315e1,c:050001
 7761:ffff0000:083a:0600:25:0
 Ziggo Live Events ESPN
 p:Ziggo,C:0000
@@ -3666,7 +3684,7 @@ p:Ziggo
 RTV Drenthe
 p:Ziggo
 5458:ffff0000:083b:0600:25:0
-RTV Oost
+Oost
 p:Ziggo
 5459:ffff0000:083b:0600:25:0
 Omroep Brabant
@@ -3681,7 +3699,7 @@ p:Ziggo
 RTV Drenthe
 p:Ziggo
 4c88:ffff0000:083b:0600:25:0
-RTV Oost
+Oost
 p:Ziggo
 4c89:ffff0000:083b:0600:25:0
 Omroep Brabant
@@ -3731,11 +3749,41 @@ p:Ziggo,C:0000,f:1000
 4af2:ffff0000:0840:0600:25:0
 NDR
 p:Ziggo
-196a:ffff0000:0c7a:0600:1:0
-Open Rotterdam
+4115:ffff0000:081a:0600:1:0
+Code Download HZN
 p:Ziggo
-196b:ffff0000:0c7a:0600:1:0
-Rotterdam Podium
+4116:ffff0000:081a:0600:1:0
+Humax 5500C
+p:Ziggo
+4117:ffff0000:081a:0600:1:0
+Codedownload D4A
+p:Ziggo
+4cd4:ffff0000:081a:0600:22:0
+Testbeeld
+p:Ziggo
+4cd5:ffff0000:081a:0600:22:0
+Testbeeld
+p:Ziggo
+4ccd:ffff0000:081a:0600:25:0
+Ziggo Sport
+p:Ziggo
+4cd7:ffff0000:081a:0600:25:0
+SBS9
+p:Ziggo,C:0000
+3f36:ffff0000:0839:0600:1:0
+Radio Actual
+p:Ziggo
+3f3d:ffff0000:0839:0600:1:0
+TV Guide
+p:Ziggo
+3f3e:ffff0000:0839:0600:1:0
+Code Download
+p:Ziggo
+3f3f:ffff0000:0839:0600:1:0
+Switch Image
+p:Ziggo
+3f35:ffff0000:0839:0600:22:0
+Testbeeld
 p:Ziggo
 196c:ffff0000:0c7a:0600:1:0
 Atos TV
@@ -3774,7 +3822,7 @@ p:Ziggo
 Klok Radio
 p:Ziggo
 0dbf:ffff0000:0c7a:0600:2:0
-Radio Slogo
+Archipel Radio
 p:Ziggo
 0dc0:ffff0000:0c7a:0600:2:0
 Papendrecht-FM
@@ -3795,7 +3843,7 @@ p:Ziggo
 TV-Papendrecht
 p:Ziggo
 1971:ffff0000:0c7a:0600:25:0
-RTV Slogo
+Archipel
 p:Ziggo
 1973:ffff0000:0c7a:0600:25:0
 Merwe TV
@@ -3829,6 +3877,12 @@ TV Dordrecht
 p:Ziggo
 1970:ffff0000:0c7a:0600:25:0
 Capelle TV
+p:Ziggo
+196a:ffff0000:0c7a:0600:25:0
+Open Rotterdam
+p:Ziggo
+196b:ffff0000:0c7a:0600:25:0
+Rotterdam Podium
 p:Ziggo
 100c:ffff0000:0c86:0600:2:0
 Tukker FM
