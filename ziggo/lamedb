@@ -3080,9 +3080,6 @@ p:Ziggo
 4681:ffff0000:0807:0600:2:0
 Grand Prix Radio
 p:Ziggo
-4a68:ffff0000:0807:0600:25:0
-Viaplay Xtra
-p:Ziggo
 4a75:ffff0000:0808:0600:1:0
 Veronica / Disney XD
 p:Ziggo,f:1000
@@ -3515,6 +3512,27 @@ p:Ziggo,C:0000
 4cc9:ffff0000:0819:0600:25:0
 Film1 On Demand.
 p:Ziggo
+4115:ffff0000:081a:0600:1:0
+Code Download HZN
+p:Ziggo
+4116:ffff0000:081a:0600:1:0
+Humax 5500C
+p:Ziggo
+4117:ffff0000:081a:0600:1:0
+Codedownload D4A
+p:Ziggo
+4cd4:ffff0000:081a:0600:22:0
+Testbeeld
+p:Ziggo
+4cd5:ffff0000:081a:0600:22:0
+Testbeeld
+p:Ziggo
+4ccd:ffff0000:081a:0600:25:0
+Ziggo Sport
+p:Ziggo
+4cd7:ffff0000:081a:0600:25:0
+SBS9
+p:Ziggo,C:0000
 4cf5:ffff0000:081c:0600:25:0
 24Kitchen
 p:Ziggo,C:0000,f:1000
@@ -3575,9 +3593,6 @@ p:Ziggo,C:0000,f:1000
 4bf7:ffff0000:0834:0600:25:0
 CNN
 p:Ziggo
-7700:ffff0000:0835:0600:25:0
-Ziggo Live Events ESPN
-p:Ziggo,C:0000
 4c05:ffff0000:0835:0600:25:0
 RTL 4
 p:Ziggo,C:0000,f:1000
@@ -3595,9 +3610,6 @@ MTV Hits
 p:Ziggo,C:0000,f:1000
 4c22:ffff0000:0836:0600:1:0
 Baby TV
-p:Ziggo,C:0000,f:1000
-4c23:ffff0000:0836:0600:1:0
-BBC Entertainment
 p:Ziggo,C:0000,f:1000
 4c26:ffff0000:0836:0600:1:0
 Nick Music
@@ -3629,9 +3641,6 @@ p:Ziggo
 4c33:ffff0000:0837:0600:25:0
 Videoland
 p:Ziggo
-4c35:ffff0000:0837:0600:25:0
-Ziggo Live Events ESPN
-p:Ziggo,C:0000
 4c30:ffff0000:0837:0600:31:0
 Ziggo Sport
 p:Ziggo,c:000b55,c:010b5f,c:030b55,c:050007,C:0000
@@ -3656,12 +3665,21 @@ p:Ziggo
 4c39:ffff0000:0837:0600:25:0
 Apple TV+
 p:Ziggo,c:0015e1,c:0315e1,c:050001
-7761:ffff0000:083a:0600:25:0
-Ziggo Live Events ESPN
-p:Ziggo,C:0000
-7762:ffff0000:083a:0600:25:0
-Ziggo Live Events ESPN
-p:Ziggo,C:0000
+3f36:ffff0000:0839:0600:1:0
+Radio Actual
+p:Ziggo
+3f3d:ffff0000:0839:0600:1:0
+TV Guide
+p:Ziggo
+3f3e:ffff0000:0839:0600:1:0
+Code Download
+p:Ziggo
+3f3f:ffff0000:0839:0600:1:0
+Switch Image
+p:Ziggo
+3f35:ffff0000:0839:0600:22:0
+Testbeeld
+p:Ziggo
 4c69:ffff0000:083a:0600:25:0
 ESPN 2
 p:Ziggo,C:0000,f:1000
@@ -3768,7 +3786,7 @@ p:Ziggo
 Ziggo Sport
 p:Ziggo
 4cd7:ffff0000:081a:0600:25:0
-SBS9
+Viaplay TV
 p:Ziggo,C:0000
 3f36:ffff0000:0839:0600:1:0
 Radio Actual
@@ -3782,7 +3800,7 @@ p:Ziggo
 3f3f:ffff0000:0839:0600:1:0
 Switch Image
 p:Ziggo
-3f35:ffff0000:0839:0600:22:0
+3f35:ffff0000:0839:0600:25:0
 Testbeeld
 p:Ziggo
 196c:ffff0000:0c7a:0600:1:0
