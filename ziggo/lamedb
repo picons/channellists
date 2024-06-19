@@ -2772,6 +2772,9 @@ ffff0000:7501:03e8
 ffff0000:7502:03e8
 	c 554000:6900000:2:5:0:0:0
 /
+ffff0000:0012:0600
+	c 474000:6875000:2:3:0:0:0
+/
 eeee01da:0906:2210
 	t 473999000:0:5:5:4:6:2:4:2:0:0:0
 /
@@ -2918,6 +2921,9 @@ p:Ziggo,C:0000
 4e65:ffff0000:0804:0600:25:0
 Aljazeera
 p:Ziggo,C:0000
+4e65:ffff0000:0804:0600:22:124
+Aljazeera
+p:Ziggo,C:0000,f:40
 4a3e:ffff0000:0805:0600:1:0
 ESPN UHD
 p:Ziggo
@@ -2928,10 +2934,10 @@ p:Ziggo,C:0000
 France Chansons
 p:Ziggo,C:0000
 4653:ffff0000:0805:0600:2:0
-Piratenplaten
+Lekker Hollands
 p:Ziggo,C:0000
 4654:ffff0000:0805:0600:2:0
-In De Kroeg
+De Bruine Kroeg
 p:Ziggo,C:0000
 4655:ffff0000:0805:0600:2:0
 POP NL
@@ -3047,6 +3053,33 @@ p:Ziggo,C:0000,f:1000
 4a51:ffff0000:0806:0600:25:0
 Ketnet
 p:Ziggo
+27ea:ffff0000:0806:0600:2:0
+KINK
+p:Ziggo
+27eb:ffff0000:0806:0600:2:0
+JOE
+p:Ziggo
+27ec:ffff0000:0806:0600:2:0
+NPO Campus Radio
+p:Ziggo
+27ed:ffff0000:0806:0600:2:0
+NPO Sterren NL
+p:Ziggo
+27ee:ffff0000:0806:0600:2:0
+Qmusic Het Foute Uur
+p:Ziggo
+27ef:ffff0000:0806:0600:2:0
+Qmusic TOP 40
+p:Ziggo
+27f0:ffff0000:0806:0600:2:0
+Qmusic Nederlandstalig
+p:Ziggo
+27f1:ffff0000:0806:0600:2:0
+Qmusic Thema
+p:Ziggo
+27f2:ffff0000:0806:0600:2:0
+Qmusic 90s 00s
+p:Ziggo
 4a67:ffff0000:0807:0600:1:0
 2M
 p:Ziggo,C:0000,f:1000
@@ -3123,13 +3156,13 @@ p:Ziggo
 Classic Rock
 p:Ziggo,C:0000
 468e:ffff0000:0808:0600:2:0
-Rock On
+Ultimate Throwback
 p:Ziggo,C:0000
 468f:ffff0000:0808:0600:2:0
 Kneiterhard
 p:Ziggo,C:0000
 4690:ffff0000:0808:0600:2:0
-Metal Madness
+Hip-Hop Evolution
 p:Ziggo,C:0000
 4691:ffff0000:0808:0600:2:0
 Jazz Vibes
@@ -3138,13 +3171,13 @@ p:Ziggo,C:0000
 Soul Baby
 p:Ziggo,C:0000
 4693:ffff0000:0808:0600:2:0
-Wereldmuziek
+R&B Classic Jams
 p:Ziggo,C:0000
 4694:ffff0000:0808:0600:2:0
 Got The Blues
 p:Ziggo,C:0000
 4695:ffff0000:0808:0600:2:0
-Season Vibes
+XITE Celebrates
 p:Ziggo,C:0000
 4696:ffff0000:0808:0600:2:0
 Ziggo Dome
@@ -3416,18 +3449,6 @@ p:Ziggo,C:0000,f:1000
 341d:ffff0000:0816:0600:1:0
 Test 13341
 p:Ziggo,c:0007d1,c:0307d1,C:0000
-341e:ffff0000:0816:0600:1:0
-iTV cod 32
-p:Ziggo
-341f:ffff0000:0816:0600:1:0
-iTV cod 35
-p:Ziggo
-3420:ffff0000:0816:0600:1:0
-iTV cod 37
-p:Ziggo
-3421:ffff0000:0816:0600:1:0
-iTV cod 38
-p:Ziggo
 4b92:ffff0000:0816:0600:25:0
 Ziggo Live Events
 p:Ziggo
@@ -3512,27 +3533,6 @@ p:Ziggo,C:0000
 4cc9:ffff0000:0819:0600:25:0
 Film1 On Demand.
 p:Ziggo
-4115:ffff0000:081a:0600:1:0
-Code Download HZN
-p:Ziggo
-4116:ffff0000:081a:0600:1:0
-Humax 5500C
-p:Ziggo
-4117:ffff0000:081a:0600:1:0
-Codedownload D4A
-p:Ziggo
-4cd4:ffff0000:081a:0600:22:0
-Testbeeld
-p:Ziggo
-4cd5:ffff0000:081a:0600:22:0
-Testbeeld
-p:Ziggo
-4ccd:ffff0000:081a:0600:25:0
-Ziggo Sport
-p:Ziggo
-4cd7:ffff0000:081a:0600:25:0
-SBS9
-p:Ziggo,C:0000
 4cf5:ffff0000:081c:0600:25:0
 24Kitchen
 p:Ziggo,C:0000,f:1000
@@ -3665,21 +3665,6 @@ p:Ziggo
 4c39:ffff0000:0837:0600:25:0
 Apple TV+
 p:Ziggo,c:0015e1,c:0315e1,c:050001
-3f36:ffff0000:0839:0600:1:0
-Radio Actual
-p:Ziggo
-3f3d:ffff0000:0839:0600:1:0
-TV Guide
-p:Ziggo
-3f3e:ffff0000:0839:0600:1:0
-Code Download
-p:Ziggo
-3f3f:ffff0000:0839:0600:1:0
-Switch Image
-p:Ziggo
-3f35:ffff0000:0839:0600:22:0
-Testbeeld
-p:Ziggo
 4c69:ffff0000:083a:0600:25:0
 ESPN 2
 p:Ziggo,C:0000,f:1000
@@ -3767,15 +3752,6 @@ p:Ziggo,C:0000,f:1000
 4af2:ffff0000:0840:0600:25:0
 NDR
 p:Ziggo
-4115:ffff0000:081a:0600:1:0
-Code Download HZN
-p:Ziggo
-4116:ffff0000:081a:0600:1:0
-Humax 5500C
-p:Ziggo
-4117:ffff0000:081a:0600:1:0
-Codedownload D4A
-p:Ziggo
 4cd4:ffff0000:081a:0600:22:0
 Testbeeld
 p:Ziggo
@@ -3788,18 +3764,6 @@ p:Ziggo
 4cd7:ffff0000:081a:0600:25:0
 Viaplay TV
 p:Ziggo,C:0000
-3f36:ffff0000:0839:0600:1:0
-Radio Actual
-p:Ziggo
-3f3d:ffff0000:0839:0600:1:0
-TV Guide
-p:Ziggo
-3f3e:ffff0000:0839:0600:1:0
-Code Download
-p:Ziggo
-3f3f:ffff0000:0839:0600:1:0
-Switch Image
-p:Ziggo
 3f35:ffff0000:0839:0600:25:0
 Testbeeld
 p:Ziggo
@@ -3942,7 +3906,7 @@ p:Ziggo
 ZO!34 FM
 p:Ziggo
 1019:ffff0000:0c86:0600:2:0
-TeamFM Drenthe-Groningen
+TeamFM
 p:Ziggo
 101a:ffff0000:0c86:0600:2:0
 Regio FM
@@ -4169,5 +4133,11 @@ p:Ziggo
 0020:ffff0000:7502:03e8:1:0
 on demand
 p:Ziggo
+4d2b:ffff0000:0012:0600:25:93
+Secret Circle info
+p:Ziggo,f:40
+4d2c:ffff0000:0012:0600:25:94
+Ziggo Live Events
+p:Ziggo,f:40
 end
 Editor:DreamSet 2.4.13 - http://www.dreamset-editor.com
