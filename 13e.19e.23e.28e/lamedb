@@ -192,6 +192,18 @@ transponders
 011a0000:090b:003b
 	s 11426000:27500000:0:2:282:2:0
 /
+011aaf3a:07e4:0002
+	s 12090000:29500000:1:6:282:2:0:1:1:0:2
+/
+011a2b68:0813:0002
+	s 11112000:23000000:0:3:282:2:0:1:2:0:2
+/
+011a2d21:082f:0002
+	s 11553000:23000000:0:2:282:2:0:1:2:0:2
+/
+011a0000:0833:0002
+	s 11612000:22000000:0:4:282:2:0
+/
 00eb0000:000b:0003
 	s 11651000:3780000:0:8:235:2:0:1:1:0:2
 /
@@ -861,7 +873,7 @@ p:bskyb,f:40
 sky crime hd
 p:bskyb,f:40
 186a:011a0000:07d3:0002:25:0
-6250
+Channel 4 HD
 p:bskyb,f:40
 106f:011a0000:07d3:0002:25:0
 skysp golf hd
@@ -870,10 +882,10 @@ p:bskyb,f:40
 skysp golf hd
 p:bskyb,f:40
 1a9a:011a0000:07d3:0002:25:0
-6810
+W HD
 p:bskyb,f:40
 17a0:011a0000:07d3:0002:25:0
-primevideo2hd
+HDTest2
 p:bskyb,f:40
 13b2:011a0000:07d3:0002:25:0
 primevideo1hd
@@ -916,9 +928,6 @@ sky news
 p:bskyb,f:40
 1451:011a0000:07d7:0002:1:0
 sky witness
-p:bskyb,f:40
-1487:011a0000:07d7:0002:1:0
-virgin one
 p:bskyb,f:40
 1789:011a0000:07d7:0002:1:0
 sky crime+1
@@ -986,6 +995,9 @@ p:bskyb,f:40
 03f1:011a0000:07d8:0002:25:0
 sky kids hd
 p:bskyb,f:40
+1886:011a0000:07d8:0002:25:0
+SkyShowcaseHD
+p:BSkyB,C:0000
 146d:011a0000:07db:0002:1:0
 sky arts
 p:bskyb,f:40
@@ -999,7 +1011,7 @@ p:bskyb,f:40
 sky nature
 p:bskyb,f:40
 1575:011a0000:07db:0002:1:0
-rté2+1
+RTÉ2+1
 p:bskyb,f:40
 149c:011a0000:07db:0002:1:0
 sky showcase
@@ -1010,26 +1022,17 @@ p:bskyb,f:40
 14a1:011a0000:07db:0002:1:0
 sky showcase
 p:bskyb,f:40
-15a1:011a0000:07db:0002:1:0
-rté one
-p:bskyb,f:40
-15a2:011a0000:07db:0002:1:0
-rté2
-p:bskyb,f:40
-15a3:011a0000:07db:0002:1:0
-tg4
-p:bskyb,f:40
 15a4:011a0000:07db:0002:1:0
-rté one+1
+RTÉ One+1
 p:bskyb,f:40
 15a5:011a0000:07db:0002:1:0
 oireachtas tv
 p:bskyb,f:40
 15a6:011a0000:07db:0002:1:0
-rté news
+RTÉ News
 p:bskyb,f:40
 15a7:011a0000:07db:0002:1:0
-rtéjr
+RTÉjr
 p:bskyb,f:40
 16c9:011a0000:07db:0002:1:0
 sky replay
@@ -1041,31 +1044,28 @@ p:bskyb,f:40
 mutv
 p:bskyb,f:40
 15a8:011a0000:07db:0002:2:0
-rté radio 1
+RTÉ Radio 1
 p:bskyb,f:40
 15a9:011a0000:07db:0002:2:0
-rté 2fm
+RTÉ 2FM
 p:bskyb,f:40
 15aa:011a0000:07db:0002:2:0
-rté lyric fm
+RTÉ Lyric fm
 p:bskyb,f:40
 15ab:011a0000:07db:0002:2:0
-rté r na g
+RTÉ R na G
 p:bskyb,f:40
 1810:011a0000:07dc:0002:1:0
 challenge
 p:bskyb,f:40
 1612:011a0000:07dc:0002:1:0
-sky greats
+Sky 00s
 p:bskyb,f:40
 0f13:011a0000:07dc:0002:1:0
 skysp arena
 p:bskyb,f:40
 051b:011a0000:07dc:0002:1:0
 skysp f1
-p:bskyb,f:40
-041e:011a0000:07dc:0002:1:0
-etfg
 p:bskyb,f:40
 1133:011a0000:07dc:0002:1:0
 sky family
@@ -1095,7 +1095,7 @@ p:bskyb,f:40
 sky
 p:bskyb,f:40
 119f:011a0000:07dc:0002:1:0
-skysp nfl
+SkySp Action
 p:bskyb,f:40
 149f:011a0000:07dc:0002:1:0
 sky showcase
@@ -1118,9 +1118,6 @@ p:bskyb,f:40
 14ba:011a0000:07dc:0002:1:0
 skysp f1
 p:bskyb,f:40
-16bf:011a0000:07dc:0002:1:0
-skypremiere+1
-p:bskyb,f:40
 14c0:011a0000:07dc:0002:1:0
 skysp pl
 p:bskyb,f:40
@@ -1128,7 +1125,7 @@ p:bskyb,f:40
 sky action
 p:bskyb,f:40
 14d5:011a0000:07dc:0002:1:0
-skysp nfl
+SkySp Action
 p:bskyb,f:40
 0fff:011a0000:07dc:0002:1:0
 skysp pl
@@ -1142,6 +1139,48 @@ p:bskyb,f:40
 1ffb:011a0000:07dc:0002:130:0
 dummy eire service
 p:bskyb,f:40
+0f08:011a0000:07dc:0002:1:0
+SkySp F'ball
+p:BSkyB,C:0000
+151c:011a0000:07dc:0002:1:0
+SkySp Golf
+p:BSkyB
+052e:011a0000:07dc:0002:1:0
+SkySp PL
+p:BSkyB,C:0000
+132e:011a0000:07dc:0002:1:0
+SkySp News
+p:BSkyB
+053e:011a0000:07dc:0002:1:0
+SkySp Cricket
+p:BSkyB,C:0000
+1073:011a0000:07dc:0002:1:0
+SkySp News
+p:BSkyB,C:0000
+1089:011a0000:07dc:0002:1:0
+SkySp Golf
+p:BSkyB
+189e:011a0000:07dc:0002:1:0
+SkySp Cricket
+p:BSkyB
+1e9e:011a0000:07dc:0002:1:0
+SkySp F'ball
+p:BSkyB
+109f:011a0000:07dc:0002:1:0
+SkySpMainEv
+p:BSkyB
+189f:011a0000:07dc:0002:1:0
+SkySp PL
+p:BSkyB
+14c2:011a0000:07dc:0002:1:0
+SkySp News
+p:BSkyB
+14ca:011a0000:07dc:0002:1:0
+SkySp Golf
+p:BSkyB
+154a:011a0000:07dc:0002:2:0
+SNR
+p:BSkyB
 0f03:011a0000:07e0:0002:25:0
 skysp f'ball hd
 p:bskyb,f:40
@@ -1196,9 +1235,9 @@ p:bskyb,f:40
 1f6a:011a0000:07e0:0002:130:0
 update email address
 p:bskyb,f:40
-1fd0:011a0000:07e0:0002:130:0
-launchpad
-p:bskyb,f:40
+1833:011a0000:07e0:0002:25:0
+SkyHistory2HD
+p:BSkyB
 1904:011a0000:07e3:0002:1:0
 sky news
 p:bskyb,f:40
@@ -1271,9 +1310,6 @@ p:bskyb,f:40
 13bb:011a0000:07e3:0002:1:0
 movies24+
 p:bskyb,f:40
-0fc6:011a0000:07e3:0002:1:0
-virgin two
-p:bskyb,f:40
 0fc7:011a0000:07e3:0002:1:0
 virgin one+1
 p:bskyb,f:40
@@ -1316,75 +1352,45 @@ p:bskyb,f:40
 1572:011a0000:07e3:0002:132:0
 dcs14
 p:bskyb,f:40
-0f0e:011a0000:07e4:0002:25:0
-sky news hd
-p:bskyb,f:40
-1817:011a0000:07e4:0002:25:0
-stv hd
-p:bskyb,f:40
-1418:011a0000:07e4:0002:25:0
-sky comedy hd
-p:bskyb,f:40
-0f26:011a0000:07e4:0002:25:0
-skyspcricket hd
-p:bskyb,f:40
-0e2d:011a0000:07e4:0002:25:0
-skysp news hd
-p:bskyb,f:40
-0f4b:011a0000:07e4:0002:25:0
-skyspcricket hd
-p:bskyb,f:40
-145c:011a0000:07e4:0002:25:0
-sky crime hd
-p:bskyb,f:40
-0cc9:011a0000:07e4:0002:25:0
-skysp mix hd
-p:bskyb,f:40
-0eee:011a0000:07e4:0002:25:0
-skysp nfl hd
-p:bskyb,f:40
-0ef0:011a0000:07e4:0002:25:0
-skysp nfl hd
-p:bskyb,f:40
-0efb:011a0000:07e4:0002:25:0
-skysp f1 hd
-p:bskyb,f:40
-0efc:011a0000:07e4:0002:25:0
-skysp f1 hd
-p:bskyb,f:40
-0ffc:011a0000:07e4:0002:25:0
-skysp mix hd
-p:bskyb,f:40
-0f2c:011a0000:07e5:0002:25:0
-sky sci-fi hd
-p:bskyb,f:40
-1432:011a0000:07e5:0002:25:0
-stv hd
-p:bskyb,f:40
-144b:011a0000:07e5:0002:25:0
-skyhistory2hd
-p:bskyb,f:40
-0f52:011a0000:07e5:0002:25:0
-dave hd
-p:bskyb,f:40
-1482:011a0000:07e5:0002:25:0
-channel 4 hd
-p:bskyb,f:40
-1793:011a0000:07e5:0002:25:0
-nat geo hd
-p:bskyb,f:40
-149e:011a0000:07e5:0002:25:0
-skyshowcasehd
-p:bskyb,f:40
-0fa5:011a0000:07e5:0002:25:0
-sony max hd
-p:bskyb,f:40
-16b2:011a0000:07e5:0002:25:0
-w hd
-p:bskyb,f:40
-0ccc:011a0000:07e5:0002:25:0
-tg4 hd
-p:bskyb,f:40
+0f0e:011a0000:07e5:0002:25:0
+Sky News HD
+p:BSkyB,C:0000
+1817:011a0000:07e5:0002:25:0
+STV HD
+p:BSkyB
+1418:011a0000:07e5:0002:25:0
+Sky Comedy HD
+p:BSkyB
+0f26:011a0000:07e5:0002:25:0
+SkySpCricket HD
+p:BSkyB,C:0000
+0e2d:011a0000:07e5:0002:25:0
+SkySp News HD
+p:BSkyB,C:0000
+0f4b:011a0000:07e5:0002:25:0
+SkySpCricket HD
+p:BSkyB
+145c:011a0000:07e5:0002:25:0
+Sky Crime HD
+p:BSkyB
+0cc9:011a0000:07e5:0002:25:0
+SkySp Mix HD
+p:BSkyB,C:0000
+0eee:011a0000:07e5:0002:25:0
+SkySp ActionHD
+p:BSkyB,C:0000
+0ef0:011a0000:07e5:0002:25:0
+SkySp ActionHD
+p:BSkyB,C:0000
+0efb:011a0000:07e5:0002:25:0
+SkySp F1 HD
+p:BSkyB,C:0000
+0efc:011a0000:07e5:0002:25:0
+SkySp F1 HD
+p:BSkyB,C:0000
+0ffc:011a0000:07e5:0002:25:0
+SkySp Mix HD
+p:BSkyB
 620d:011a0000:07e6:0002:1:0
 gold+1
 p:bskyb,f:40
@@ -1442,65 +1448,14 @@ p:bskyb,f:40
 197a:011a0000:07e6:0002:1:0
 drama
 p:bskyb,f:40
-c490:011a0000:07e6:0002:1:0
-25120
-p:bskyb,f:40
-c4a5:011a0000:07e6:0002:1:0
-25121
-p:bskyb,f:40
-c4b3:011a0000:07e6:0002:1:0
-25122
-p:bskyb,f:40
-0f08:011a0000:07e7:0002:1:0
-skysp f'ball
-p:bskyb,f:40
-1519:011a0000:07e7:0002:1:0
-skysp golf
-p:bskyb,f:40
 141a:011a0000:07e7:0002:1:0
 sky comedy
-p:bskyb,f:40
-151c:011a0000:07e7:0002:1:0
-skysp golf
-p:bskyb,f:40
-1325:011a0000:07e7:0002:1:0
-sky atlantic
-p:bskyb,f:40
-132a:011a0000:07e7:0002:1:0
-skyspboxoff
-p:bskyb,f:40
-132b:011a0000:07e7:0002:1:0
-skysp news
 p:bskyb,f:40
 132d:011a0000:07e7:0002:1:0
 skysp news
 p:bskyb,f:40
-052e:011a0000:07e7:0002:1:0
-skysp pl
-p:bskyb,f:40
-132e:011a0000:07e7:0002:1:0
-skysp news
-p:bskyb,f:40
-1332:011a0000:07e7:0002:1:0
-skyspmainev
-p:bskyb,f:40
-053e:011a0000:07e7:0002:1:0
-skysp cricket
-p:bskyb,f:40
-164f:011a0000:07e7:0002:1:0
-sky atlantic
-p:bskyb,f:40
-1650:011a0000:07e7:0002:1:0
-sky witness+1
-p:bskyb,f:40
-1651:011a0000:07e7:0002:1:0
-eurosport 1
-p:bskyb,f:40
 106e:011a0000:07e7:0002:1:0
 skysp golf
-p:bskyb,f:40
-1073:011a0000:07e7:0002:1:0
-skysp news
 p:bskyb,f:40
 157f:011a0000:07e7:0002:1:0
 5503
@@ -1508,47 +1463,8 @@ p:bskyb,f:40
 0585:011a0000:07e7:0002:1:0
 sky atlantic+1
 p:bskyb,f:40
-1089:011a0000:07e7:0002:1:0
-skysp golf
-p:bskyb,f:40
-1391:011a0000:07e7:0002:1:0
-eurosport 2
-p:bskyb,f:40
-159c:011a0000:07e7:0002:1:0
-skynewsarabia
-p:bskyb,f:40
-109f:011a0000:07e7:0002:1:0
-skyspmainev
-p:bskyb,f:40
-14a5:011a0000:07e7:0002:1:0
-5285
-p:bskyb,f:40
-14b6:011a0000:07e7:0002:1:0
-skysp cricket
-p:bskyb,f:40
-14b7:011a0000:07e7:0002:1:0
-skysp pl
-p:bskyb,f:40
-14bd:011a0000:07e7:0002:1:0
-s1test
-p:bskyb,f:40
-14f3:011a0000:07e7:0002:1:0
-5363
-p:bskyb,f:40
-0efe:011a0000:07e7:0002:1:0
-skysp f'ball
-p:bskyb,f:40
-1f57:011a0000:07e7:0002:130:0
-esales test
-p:bskyb,f:40
-1f90:011a0000:07e7:0002:130:0
-stb dev app
-p:bskyb,f:40
-14bc:011a0000:07e7:0002:130:0
-s2test
-p:bskyb,f:40
 181a:011a0000:07e8:0002:25:0
-6170
+STV HD
 p:bskyb,f:40
 145d:011a0000:07e8:0002:25:0
 channel 4 hd
@@ -1608,13 +1524,13 @@ p:bskyb,f:40
 skysp racing hd
 p:bskyb,f:40
 14a4:011a0000:07e9:0002:25:0
-5284
+SkySp Tennis HD
 p:bskyb,f:40
 1abd:011a0000:07e9:0002:25:0
 lfctv hd
 p:bskyb,f:40
 14f2:011a0000:07e9:0002:25:0
-5362
+SkySp Tennis HD
 p:bskyb,f:40
 1f50:011a0000:07e9:0002:130:0
 bt ppv 2 roi vcid
@@ -1622,6 +1538,9 @@ p:bskyb,f:40
 1f52:011a0000:07e9:0002:130:0
 bt ppv 1 roi vcid
 p:bskyb,f:40
+c5ad:011a0000:07e9:0002:25:0
+Premier 2 HD
+p:BSkyB
 03a0:011a0000:07ea:0002:0:0
 928
 p:bskyb,f:40
@@ -1662,7 +1581,7 @@ p:bskyb,f:40
 channel 4 hd
 p:bskyb,f:40
 1aa2:011a0000:07eb:0002:25:0
-rté one hd
+RTÉ One HD
 p:bskyb,f:40
 0fbe:011a0000:07eb:0002:25:0
 sony tv hd
@@ -1709,6 +1628,9 @@ p:bskyb,f:40
 1fbf:011a0000:07eb:0002:130:0
 my account
 p:bskyb,f:40
+1b77:011a0000:07eb:0002:25:0
+Nat Geo HD
+p:BSkyB,C:0000
 148b:011a0000:07ec:0002:2:0
 snr
 p:bskyb,f:40
@@ -1761,10 +1683,10 @@ p:bskyb,f:40
 discovery hd
 p:bskyb,f:40
 0fa1:011a0000:07ed:0002:25:0
-skysp nfl hd
+SkySp ActionHD
 p:bskyb,f:40
 0fa2:011a0000:07ed:0002:25:0
-4002
+SkySp Tennis HD
 p:bskyb,f:40
 0fa3:011a0000:07ed:0002:25:0
 skyspmainevhd
@@ -1790,6 +1712,9 @@ p:bskyb,f:40
 0ff0:011a0000:07ed:0002:25:0
 mutv hd
 p:bskyb,f:40
+1a99:011a0000:07ed:0002:25:0
+Dave HD
+p:BSkyB,C:0000
 1837:011a0000:07ee:0002:25:0
 skyanimationhd
 p:bskyb,f:40
@@ -1800,25 +1725,25 @@ p:bskyb,f:40
 sky family hd
 p:bskyb,f:40
 1784:011a0000:07ee:0002:25:0
-skyfeelgoodhd
+Sky Icons HD
 p:bskyb,f:40
 1785:011a0000:07ee:0002:25:0
 skypremierehd
 p:bskyb,f:40
 1791:011a0000:07ee:0002:25:0
-skystartrekhd
+Sky Hits HD
 p:bskyb,f:40
 17ae:011a0000:07ee:0002:25:0
 sky thriller hd
 p:bskyb,f:40
 0ee7:011a0000:07ee:0002:25:0
-sky greats hd
+Sky 00s HD
 p:bskyb,f:40
 0ee8:011a0000:07ee:0002:25:0
 sky drama hd
 p:bskyb,f:40
 0ee9:011a0000:07ee:0002:25:0
-sky scfi/horhd
+Sky SciFi/HorHD
 p:bskyb,f:40
 0eeb:011a0000:07ee:0002:25:0
 sky comedy hd
@@ -1838,6 +1763,15 @@ p:bskyb,f:40
 041a:011a0000:07f0:0002:198:0
 bdl
 p:bskyb,f:40
+179e:011a0000:07f0:0002:25:0
+SONY MAX HD
+p:BSkyB,C:0000
+03eb:011a0000:07f0:0002:25:0
+Sky Intro (899)
+p:BSkyB
+03ec:011a0000:07f0:0002:25:0
+Sky Intro (950)
+p:BSkyB
 0f1d:011a0000:07f2:0002:25:0
 nickelodeonhd
 p:bskyb,f:40
@@ -1854,7 +1788,7 @@ p:bskyb,f:40
 channel 4 hd
 p:bskyb,f:40
 1496:011a0000:07f2:0002:25:0
-rté2 hd
+RTÉ2 HD
 p:bskyb,f:40
 13b4:011a0000:07f2:0002:25:0
 virgin four hd
@@ -1862,6 +1796,12 @@ p:bskyb,f:40
 13f2:011a0000:07f2:0002:25:0
 itv1 hd
 p:bskyb,f:40
+1792:011a0000:07f2:0002:25:0
+TG4 HD
+p:BSkyB,C:0000
+17ba:011a0000:07f2:0002:25:0
+Sky Sci-Fi HD
+p:BSkyB,C:0000
 1839:011a0000:07f3:0002:1:0
 discovery
 p:bskyb,f:40
@@ -1973,18 +1913,6 @@ p:bskyb,f:40
 18e3:011a0000:07fd:0002:25:0
 bbc one yks hd
 p:bskyb,f:40
-1924:011a0000:07fe:0002:2:0
-10336
-p:bskyb,f:40
-1927:011a0000:07fe:0002:2:0
-10339
-p:bskyb,f:40
-1950:011a0000:07fe:0002:2:0
-10340
-p:bskyb,f:40
-1952:011a0000:07fe:0002:2:0
-10332
-p:bskyb,f:40
 285c:011a0000:07fe:0002:2:0
 bbc r cymru
 p:bskyb,f:40
@@ -2015,77 +1943,11 @@ p:bskyb,f:40
 2865:011a0000:07fe:0002:25:0
 bbc one sw hd
 p:bskyb,f:40
-190b:011a0000:07ff:0002:1:0
-bbc one
-p:bskyb,f:40
-190c:011a0000:07ff:0002:1:0
-bbc two
-p:bskyb,f:40
-190d:011a0000:07ff:0002:1:0
-bbc three
-p:bskyb,f:40
-190e:011a0000:07ff:0002:1:0
-bbc four
-p:bskyb,f:40
-190f:011a0000:07ff:0002:1:0
-bbc scotland
-p:bskyb,f:40
-1910:011a0000:07ff:0002:1:0
-bbc alba
-p:bskyb,f:40
-1911:011a0000:07ff:0002:1:0
-bbc news
-p:bskyb,f:40
-1912:011a0000:07ff:0002:1:0
-bbc parliament
-p:bskyb,f:40
-1913:011a0000:07ff:0002:1:0
-bbc rb 1
-p:bskyb,f:40
-1919:011a0000:07ff:0002:1:0
-bbc one
-p:bskyb,f:40
-191a:011a0000:07ff:0002:1:0
-bbc one
-p:bskyb,f:40
-191b:011a0000:07ff:0002:1:0
-bbc one
-p:bskyb,f:40
-192b:011a0000:07ff:0002:1:0
-cbbc
-p:bskyb,f:40
-192c:011a0000:07ff:0002:1:0
-cbeebies
-p:bskyb,f:40
-192e:011a0000:07ff:0002:1:0
-bbc alba
-p:bskyb,f:40
-195b:011a0000:07ff:0002:1:0
-bbc one
-p:bskyb,f:40
-195c:011a0000:07ff:0002:1:0
-bbc two
-p:bskyb,f:40
-195d:011a0000:07ff:0002:1:0
-bbc three
-p:bskyb,f:40
-195e:011a0000:07ff:0002:1:0
-bbc four
-p:bskyb,f:40
-195f:011a0000:07ff:0002:1:0
-cbbc
-p:bskyb,f:40
-1960:011a0000:07ff:0002:1:0
-cbeebies
-p:bskyb,f:40
 287f:011a0000:0800:0002:2:0
 bbc r ulster
 p:bskyb,f:40
 2880:011a0000:0800:0002:2:0
 bbc r foyle
-p:bskyb,f:40
-2889:011a0000:0800:0002:2:0
-bbc r4 lw
 p:bskyb,f:40
 287b:011a0000:0800:0002:25:0
 bbc one lon hd
@@ -2153,18 +2015,6 @@ p:bskyb,f:40
 1b55:011a0000:0802:0002:130:0
 6997
 p:bskyb,f:40
-2805:011a0000:0805:0002:1:0
-10166
-p:bskyb,f:40
-280a:011a0000:0805:0002:1:0
-10120
-p:bskyb,f:40
-280f:011a0000:0805:0002:1:0
-10148
-p:bskyb,f:40
-2815:011a0000:0805:0002:1:0
-10158
-p:bskyb,f:40
 2788:011a0000:0805:0002:1:0
 itv1
 p:bskyb,f:40
@@ -2209,18 +2059,6 @@ itv2+1
 p:bskyb,f:40
 27b6:011a0000:0805:0002:1:0
 itv4+1
-p:bskyb,f:40
-27da:011a0000:0805:0002:1:0
-10152
-p:bskyb,f:40
-27e2:011a0000:0805:0002:1:0
-10130
-p:bskyb,f:40
-27ed:011a0000:0805:0002:1:0
-10131
-p:bskyb,f:40
-27fb:011a0000:0805:0002:1:0
-10146
 p:bskyb,f:40
 206c:011a0000:0808:0002:1:0
 e4+1
@@ -2268,7 +2106,7 @@ p:bskyb,f:40
 bbc r3
 p:bskyb,f:40
 2304:011a0000:080d:0002:2:0
-bbc r4 fm
+BBC R4
 p:bskyb,f:40
 2305:011a0000:080d:0002:2:0
 bbc r5l
@@ -2393,12 +2231,6 @@ p:bskyb,f:40
 c4b8:011a0000:0811:0002:1:0
 zee tv
 p:bskyb,f:40
-c4bb:011a0000:0811:0002:1:0
-skysp racing
-p:bskyb,f:40
-c4bc:011a0000:0811:0002:1:0
-skysp racing
-p:bskyb,f:40
 c4bd:011a0000:0811:0002:1:0
 qtv religious
 p:bskyb,f:40
@@ -2420,6 +2252,27 @@ p:bskyb,f:40
 c4d6:011a0000:0811:0002:1:0
 inspiration tv
 p:bskyb,f:40
+c47c:011a0000:0811:0002:1:0
+Home Shop TV
+p:BSkyB
+c491:011a0000:0811:0002:1:0
+NOW 70s
+p:BSkyB
+c497:011a0000:0811:0002:1:0
+Rewind TV
+p:BSkyB
+c4a6:011a0000:0811:0002:1:0
+Eman Channel
+p:BSkyB
+c4ab:011a0000:0811:0002:1:0
+Gems TV
+p:BSkyB
+c4b4:011a0000:0811:0002:1:0
+Ideal World
+p:BSkyB
+c4ba:011a0000:0811:0002:1:0
+50362
+p:BSkyB
 5212:011a0000:0812:0002:25:0
 itv1 hd
 p:bskyb,f:40
@@ -2444,14 +2297,8 @@ p:bskyb,f:40
 c512:011a0000:0813:0002:1:0
 faith uk
 p:bskyb,f:40
-c518:011a0000:0813:0002:1:0
-ideal world
-p:bskyb,f:40
 c51c:011a0000:0813:0002:1:0
 brit asia tv
-p:bskyb,f:40
-c526:011a0000:0813:0002:1:0
-ary digital
 p:bskyb,f:40
 cb35:011a0000:0813:0002:1:0
 islam tv
@@ -2462,23 +2309,8 @@ p:bskyb,f:40
 c53a:011a0000:0813:0002:1:0
 dunya news
 p:bskyb,f:40
-c53f:011a0000:0813:0002:1:0
-matv national
-p:bskyb,f:40
-c541:011a0000:0813:0002:1:0
-new vision tv
-p:bskyb,f:40
-c4e0:011a0000:0813:0002:1:0
-arise news
-p:bskyb,f:40
-c4e5:011a0000:0813:0002:1:0
-geo news
-p:bskyb,f:40
 cbea:011a0000:0813:0002:1:0
 iqra tv
-p:bskyb,f:40
-c4eb:011a0000:0813:0002:1:0
-gems tv
 p:bskyb,f:40
 c4fa:011a0000:0813:0002:1:0
 india today
@@ -2546,6 +2378,9 @@ p:bskyb,f:40
 5722:011a0000:082b:0002:25:0
 qvc style hd
 p:bskyb,f:40
+5728:011a0000:082b:0002:1:0
+Dangal
+p:BSkyB
 d7e8:011a0000:082c:0002:25:0
 racing tv hd
 p:bskyb,f:40
@@ -2559,34 +2394,34 @@ d7eb:011a0000:082c:0002:25:0
 al jazeera hd
 p:bskyb,f:40
 1db3:011a0000:082d:0002:1:0
-7603
+ATN
 p:bskyb,f:40
 1db4:011a0000:082d:0002:1:0
-7604
+Ahlebait TV
 p:bskyb,f:40
 1db5:011a0000:082d:0002:1:0
-7605
+PoliticsPunjab
 p:bskyb,f:40
 1db6:011a0000:082d:0002:1:0
-7606
+KICC TV
 p:bskyb,f:40
 1db7:011a0000:082d:0002:1:0
-7607
+Xpanded TV
 p:bskyb,f:40
 1db8:011a0000:082d:0002:1:0
-7608
+Word Network
 p:bskyb,f:40
 1db9:011a0000:082d:0002:1:0
-7609
+Ayozat TV
 p:bskyb,f:40
 1dba:011a0000:082d:0002:1:0
-7610
+92 News
 p:bskyb,f:40
 1dbb:011a0000:082d:0002:1:0
-7611
+iON TV
 p:bskyb,f:40
 1dbd:011a0000:082d:0002:2:0
-7613
+WRN Europe
 p:bskyb,f:40
 1db0:011a0000:082d:0002:25:0
 w hd
@@ -2596,42 +2431,6 @@ alibi hd
 p:bskyb,f:40
 1db2:011a0000:082d:0002:25:0
 dave hd
-p:bskyb,f:40
-1dbc:011a0000:082d:0002:25:0
-7612
-p:bskyb,f:40
-5849:011a0000:082e:0002:1:0
-atn
-p:bskyb,f:40
-584b:011a0000:082e:0002:1:0
-ahlebait tv
-p:bskyb,f:40
-584c:011a0000:082e:0002:1:0
-politicspunjab
-p:bskyb,f:40
-5850:011a0000:082e:0002:1:0
-kicc tv
-p:bskyb,f:40
-5851:011a0000:082e:0002:1:0
-xpanded tv
-p:bskyb,f:40
-5852:011a0000:082e:0002:1:0
-word network
-p:bskyb,f:40
-5856:011a0000:082e:0002:1:0
-ayozat tv
-p:bskyb,f:40
-5857:011a0000:082e:0002:1:0
-92 news
-p:bskyb,f:40
-5858:011a0000:082e:0002:1:0
-ion tv
-p:bskyb,f:40
-587b:011a0000:082e:0002:2:0
-wrn europe
-p:bskyb,f:40
-5867:011a0000:082e:0002:25:0
-sportystuff hd
 p:bskyb,f:40
 d73c:011a0000:082f:0002:1:0
 tjc
@@ -2738,17 +2537,11 @@ p:bskyb,f:40
 d359:011a0000:0830:0002:1:0
 get lucky tv
 p:bskyb,f:40
-d35a:011a0000:0830:0002:1:0
-direct store tv
-p:bskyb,f:40
 d35b:011a0000:0830:0002:1:0
 sony sab
 p:bskyb,f:40
 d360:011a0000:0830:0002:1:0
 best direct
-p:bskyb,f:40
-d361:011a0000:0830:0002:1:0
-god channel
 p:bskyb,f:40
 d364:011a0000:0830:0002:1:0
 jewellerymaker
@@ -2764,9 +2557,6 @@ court tv
 p:bskyb,f:40
 d381:011a0000:0830:0002:1:0
 takbeer tv
-p:bskyb,f:40
-d386:011a0000:0830:0002:1:0
-jml direct
 p:bskyb,f:40
 d395:011a0000:0830:0002:1:0
 aaj tak
@@ -2786,57 +2576,12 @@ p:bskyb,f:40
 d3a9:011a0000:0830:0002:1:0
 geo tv
 p:bskyb,f:40
-cb86:011a0000:0831:0002:1:0
-pitaara
-p:bskyb,f:40
-cb88:011a0000:0831:0002:1:0
-dangal
-p:bskyb,f:40
-cb8a:011a0000:0831:0002:1:0
-kanshi tv
-p:bskyb,f:40
-cb8b:011a0000:0831:0002:1:0
-now 70s
-p:bskyb,f:40
-cb8d:011a0000:0831:0002:1:0
-chstv
-p:bskyb,f:40
-cb90:011a0000:0831:0002:1:0
-babenation
-p:bskyb,f:40
-cb99:011a0000:0831:0002:1:0
-that's 60s
-p:bskyb,f:40
-cba7:011a0000:0831:0002:1:0
-talkingpictures
-p:bskyb,f:40
-cbab:011a0000:0831:0002:1:0
-that's tv
-p:bskyb,f:40
-cbac:011a0000:0831:0002:1:0
-eman channel
-p:bskyb,f:40
-cbdc:011a0000:0831:0002:2:0
-talksport
-p:bskyb,f:40
-cbd9:011a0000:0831:0002:25:0
-zee tv hd
-p:bskyb,f:40
-d14c:011a0000:0832:0002:1:0
-tntsports8 hd
-p:bskyb,f:40
-d151:011a0000:0832:0002:1:0
-tntsports9 hd
-p:bskyb,f:40
-d156:011a0000:0832:0002:1:0
-tntsports10 hd
-p:bskyb,f:40
-d15b:011a0000:0832:0002:25:0
-create&crafthd
-p:bskyb,f:40
-d0fd:011a0000:0832:0002:25:0
-new media hd
-p:bskyb,f:40
+d387:011a0000:0830:0002:1:0
+ChartShowRetro
+p:BSkyB
+d390:011a0000:0830:0002:1:0
+54160
+p:BSkyB
 1a40:011a0000:0834:0002:1:0
 mtv
 p:bskyb,f:40
@@ -2915,39 +2660,33 @@ p:bskyb,f:40
 d332:011a0000:0836:0002:1:0
 revelation
 p:bskyb,f:40
+d324:011a0000:0836:0002:1:0
+Islam Bangla
+p:BSkyB
+d326:011a0000:0836:0002:1:0
+GOD Channel
+p:BSkyB
 c441:011a0000:0837:0002:25:0
 gb news hd
 p:bskyb,f:40
-c44a:011a0000:0837:0002:25:0
-iran int'l hd
-p:bskyb,f:40
 c44b:011a0000:0837:0002:25:0
-viaplay 2 hd
+Premier 1 HD
 p:bskyb,f:40
 c44f:011a0000:0837:0002:25:0
 loveworld hd
 p:bskyb,f:40
-c454:011a0000:0837:0002:25:0
-earthxtv hd
-p:bskyb,f:40
 c472:011a0000:0837:0002:25:0
 cnn hd
 p:bskyb,f:40
+c455:011a0000:0837:0002:25:0
+Bloomberg HD
+p:BSkyB
 d809:011a0000:0838:0002:25:0
 daystar hd
 p:bskyb,f:40
-d80e:011a0000:0838:0002:25:0
-france 24 hd
-p:bskyb,f:40
-d813:011a0000:0838:0002:25:0
-tjc hd
-p:bskyb,f:40
-d818:011a0000:0838:0002:25:0
-viaplay 1 hd
-p:bskyb,f:40
-d860:011a0000:0838:0002:25:0
-bloomberg hd
-p:bskyb,f:40
+d804:011a0000:0838:0002:25:0
+Seen On TV HD
+p:BSkyB
 d3c3:011a0000:0839:0002:1:0
 ptc punjabi
 p:bskyb,f:40
@@ -2958,10 +2697,7 @@ d3c5:011a0000:0839:0002:1:0
 adult channel
 p:bskyb,f:40
 d3c7:011a0000:0839:0002:1:0
-xxx college
-p:bskyb,f:40
-d3c8:011a0000:0839:0002:1:0
-xxxpublicpikups
+Climax
 p:bskyb,f:40
 d3ca:011a0000:0839:0002:1:0
 xxx girl girl
@@ -3008,6 +2744,9 @@ p:bskyb,f:40
 cf9f:011a0000:083a:0002:25:0
 mta1 world hd
 p:bskyb,f:40
+cf9c:011a0000:083a:0002:1:0
+GREAT! romance
+p:BSkyB
 1c27:011a0000:083b:0002:1:0
 magic
 p:bskyb,f:40
@@ -3055,9 +2794,6 @@ dunamis tv
 p:bskyb,f:40
 cba2:011a0000:083c:0002:1:0
 islam ch urdu
-p:bskyb,f:40
-cba6:011a0000:083c:0002:1:0
-islam bangla
 p:bskyb,f:40
 cba8:011a0000:083c:0002:1:0
 ewtn catholic
@@ -3113,14 +2849,8 @@ p:bskyb,f:40
 d04d:011a0000:083e:0002:1:0
 g! romance+1
 p:bskyb,f:40
-d052:011a0000:083e:0002:1:0
-tiny pop
-p:bskyb,f:40
 d05c:011a0000:083e:0002:1:0
 pop
-p:bskyb,f:40
-d061:011a0000:083e:0002:1:0
-tiny pop+1
 p:bskyb,f:40
 d066:011a0000:083e:0002:1:0
 pop max
@@ -3143,6 +2873,24 @@ p:bskyb,f:40
 d084:011a0000:083e:0002:1:0
 great! tv+1
 p:bskyb,f:40
+d034:011a0000:083e:0002:1:0
+GREAT! movies
+p:BSkyB
+d039:011a0000:083e:0002:1:0
+GREAT! tv
+p:BSkyB
+d057:011a0000:083e:0002:1:0
+GREAT! real
+p:BSkyB
+d089:011a0000:083e:0002:1:0
+GREAT! real+1
+p:BSkyB
+d094:011a0000:083e:0002:1:0
+SkySp Racing
+p:BSkyB
+d095:011a0000:083e:0002:1:0
+SkySp Racing
+p:BSkyB
 d002:011a0000:083f:0002:1:0
 tnt sports 8
 p:bskyb,f:40
@@ -3166,12 +2914,6 @@ tnt sports 4
 p:bskyb,f:40
 d026:011a0000:083f:0002:1:0
 tnt sports 4
-p:bskyb,f:40
-d029:011a0000:083f:0002:1:0
-great! movies
-p:bskyb,f:40
-d02a:011a0000:083f:0002:1:0
-great! tv
 p:bskyb,f:40
 cfd0:011a0000:083f:0002:1:0
 tnt sports 5
@@ -3200,9 +2942,6 @@ p:bskyb,f:40
 d7a2:011a0000:0840:0002:1:0
 legend xtra
 p:bskyb,f:40
-d7a5:011a0000:0840:0002:1:0
-tnt sports 1
-p:bskyb,f:40
 d7a7:011a0000:0840:0002:1:0
 that's 90s
 p:bskyb,f:40
@@ -3211,12 +2950,6 @@ true crime x
 p:bskyb,f:40
 d7a9:011a0000:0840:0002:1:0
 legend
-p:bskyb,f:40
-d7aa:011a0000:0840:0002:1:0
-trace vault
-p:bskyb,f:40
-d7ab:011a0000:0840:0002:1:0
-tnt sports 3
 p:bskyb,f:40
 d7ad:011a0000:0840:0002:1:0
 pbs america
@@ -3236,26 +2969,8 @@ p:bskyb,f:40
 d7b3:011a0000:0840:0002:1:0
 bt sport mosaic
 p:bskyb,f:40
-d7d2:011a0000:0840:0002:1:0
-tnt sports 1
-p:bskyb,f:40
-d7d3:011a0000:0840:0002:1:0
-55251
-p:bskyb,f:40
-d7d4:011a0000:0840:0002:1:0
-50368
-p:bskyb,f:40
 c6d7:011a0000:0840:0002:1:0
 true crime x
-p:bskyb,f:40
-d7dc:011a0000:0840:0002:1:0
-tnt sports 3
-p:bskyb,f:40
-d7dd:011a0000:0840:0002:1:0
-50342
-p:bskyb,f:40
-d7de:011a0000:0840:0002:1:0
-50343
 p:bskyb,f:40
 d7e1:011a0000:0840:0002:1:0
 55265
@@ -3266,6 +2981,18 @@ p:bskyb,f:40
 d7ff:011a0000:0840:0002:1:0
 s4c
 p:bskyb,f:40
+d7b9:011a0000:0840:0002:1:0
+TalkingPictures
+p:BSkyB
+d7be:011a0000:0840:0002:1:0
+That's TV
+p:BSkyB
+d7c3:011a0000:0840:0002:1:0
+That's 60s
+p:BSkyB
+d7c8:011a0000:0840:0002:1:0
+Babenation
+p:BSkyB
 d219:011a0000:0841:0002:25:0
 tntsports2 hd
 p:bskyb,f:40
@@ -3281,9 +3008,6 @@ p:bskyb,f:40
 d225:011a0000:0841:0002:25:0
 tntsboxoffhd
 p:bskyb,f:40
-d1ce:011a0000:0841:0002:25:0
-nbcnewsnowhd
-p:bskyb,f:40
 d1dd:011a0000:0841:0002:25:0
 dazn 1 hd
 p:bskyb,f:40
@@ -3293,6 +3017,12 @@ p:bskyb,f:40
 d1e7:011a0000:0841:0002:25:0
 hobbymakerhd
 p:bskyb,f:40
+d1c4:011a0000:0841:0002:25:0
+FRANCE 24 HD
+p:BSkyB
+d1c9:011a0000:0841:0002:25:0
+Create&CraftHD
+p:BSkyB
 c5ea:011a0000:0842:0002:1:0
 tntsports5 hd
 p:bskyb,f:40
@@ -3335,15 +3065,12 @@ p:bskyb,f:40
 cd5b:011a0000:0844:0002:25:0
 tlc hd
 p:bskyb,f:40
-cd5f:011a0000:0844:0002:25:0
-viaplayxtrahd
-p:bskyb,f:40
 cd64:011a0000:0844:0002:25:0
 quest hd
 p:bskyb,f:40
-cd6e:011a0000:0844:0002:25:0
-talktv hd
-p:bskyb,f:40
+cd5a:011a0000:0844:0002:25:0
+TJC HD
+p:BSkyB
 2968:011a0000:090b:003b:1:0
 trp 1
 p:,f:40
@@ -3380,6 +3107,144 @@ p:arqiva,f:40
 2963:011a0000:090b:003b:12:0
 talksport dist
 p:arqiva,f:40
+295a:011a0000:090b:003b:12:0
+D1 Scotland
+p:Arqiva
+1901:011aaf3a:07e4:0002:1:0
+6401
+p:BSkyB
+1802:011aaf3a:07e4:0002:1:0
+6146
+p:BSkyB,C:0000
+1906:011aaf3a:07e4:0002:1:0
+6406
+p:BSkyB
+041e:011aaf3a:07e4:0002:1:0
+ETFG
+p:BSkyB
+1525:011aaf3a:07e4:0002:1:0
+5413
+p:BSkyB,C:0000
+183b:011aaf3a:07e4:0002:1:0
+6203
+p:BSkyB
+183d:011aaf3a:07e4:0002:1:0
+Sky Witness+1
+p:BSkyB
+1457:011aaf3a:07e4:0002:1:0
+5207
+p:BSkyB,C:0000
+165e:011aaf3a:07e4:0002:1:0
+Eurosport 1
+p:BSkyB,C:0000
+1887:011aaf3a:07e4:0002:1:0
+6279
+p:BSkyB
+188d:011aaf3a:07e4:0002:1:0
+SkySp Tennis
+p:BSkyB
+1c90:011aaf3a:07e4:0002:1:0
+7312
+p:BSkyB
+1ea0:011aaf3a:07e4:0002:1:0
+SkySp F'ball
+p:BSkyB
+18a5:011aaf3a:07e4:0002:1:0
+SkySpMainEv
+p:BSkyB
+18be:011aaf3a:07e4:0002:1:0
+6334
+p:BSkyB
+14c7:011aaf3a:07e4:0002:1:0
+5319
+p:BSkyB,C:0000
+14cc:011aaf3a:07e4:0002:1:0
+5324
+p:BSkyB,C:0000
+16d1:011aaf3a:07e4:0002:1:0
+Eurosport 2
+p:BSkyB,C:0000
+14d2:011aaf3a:07e4:0002:1:0
+5330
+p:BSkyB,C:0000
+1ddd:011aaf3a:07e4:0002:1:0
+SkyNewsArabia
+p:BSkyB
+14f3:011aaf3a:07e4:0002:1:0
+SkySp Tennis
+p:BSkyB,C:0000
+1cf4:011aaf3a:07e4:0002:1:0
+Sky Atlantic
+p:BSkyB
+1cf6:011aaf3a:07e4:0002:1:0
+Sky Atlantic
+p:BSkyB
+c52b:011a2b68:0813:0002:25:0
+Zee TV HD
+p:BSkyB,C:0000
+c530:011a2b68:0813:0002:25:0
+50480
+p:BSkyB
+c535:011a2b68:0813:0002:25:0
+New Media HD
+p:BSkyB
+d746:011a2d21:082f:0002:1:0
+Pitaara
+p:BSkyB
+d748:011a2d21:082f:0002:1:0
+Arise News
+p:BSkyB
+d74f:011a2d21:082f:0002:1:0
+GEO News
+p:BSkyB
+d751:011a2d21:082f:0002:1:0
+New Vision TV
+p:BSkyB
+d752:011a2d21:082f:0002:1:0
+MATV National
+p:BSkyB
+d755:011a2d21:082f:0002:1:0
+ARY Digital
+p:BSkyB
+d766:011a2d21:082f:0002:1:0
+CHSTV
+p:BSkyB
+d773:011a2d21:082f:0002:1:0
+Kanshi TV
+p:BSkyB
+d79e:011a2d21:082f:0002:2:0
+talkSPORT
+p:BSkyB
+d869:011a0000:0833:0002:1:0
+TNT Sports 1
+p:BSkyB,C:0000
+d873:011a0000:0833:0002:1:0
+TNT Sports 3
+p:BSkyB,C:0000
+d7a5:011a0000:0833:0002:1:0
+55401
+p:BSkyB
+d7ab:011a0000:0833:0002:1:0
+55411
+p:BSkyB
+d7d2:011a0000:0833:0002:1:0
+TNT Sports 1
+p:BSkyB,C:0000
+d7d3:011a0000:0833:0002:1:0
+55251
+p:BSkyB,C:0000
+d7d4:011a0000:0833:0002:1:0
+50368
+p:BSkyB,C:0000
+d7dc:011a0000:0833:0002:1:0
+TNT Sports 3
+p:BSkyB,C:0000
+d7dd:011a0000:0833:0002:1:0
+50342
+p:BSkyB,C:0000
+d7de:011a0000:0833:0002:1:0
+50343
+p:BSkyB,C:0000
 1007:00eb0000:000b:0003:2:0
 rmf maxx nowy sacz
 p:grupa rmf,c:011005,f:4
@@ -5444,6 +5309,12 @@ p:,f:40
 08fc:00eb2d7b:0000:0001:1:0
 2300 beskidy/zywiec eska
 p:,f:40
+1f54:00eb2d7b:0000:0001:1:0
+8020 Emaus
+p:
+1388:00eb2d7b:0000:0001:1:0
+5000 - Testowy 1
+p:
 1f40:00eb2d80:0001:0000:2:0
 radio zlote przeboje katowice
 p:grupa radiowa agory,c:010321,c:030321,f:41
@@ -5669,12 +5540,6 @@ p:SES,C:0000
 0321:00eb0000:0c9e:0003:12:0
 
 p:SES
-1f54:00eb2d7b:0000:0001:1:0
-8020 Emaus
-p:
-1388:00eb2d7b:0000:0001:1:0
-5000 - Testowy 1
-p:
 345d:00c00000:03e9:0001:31:0
 service13405
 p:ors
