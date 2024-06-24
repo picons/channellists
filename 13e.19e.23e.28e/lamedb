@@ -204,6 +204,9 @@ transponders
 011a0000:0833:0002
 	s 11612000:22000000:0:4:282:2:0
 /
+011a0000:0806:0002
+	s 10906000:22000000:1:4:282:2:0
+/
 00eb0000:000b:0003
 	s 11651000:3780000:0:8:235:2:0:1:1:0:2
 /
@@ -1352,6 +1355,9 @@ p:bskyb,f:40
 1572:011a0000:07e3:0002:132:0
 dcs14
 p:bskyb,f:40
+1817:011a0000:07e4:0002:25:0
+STV Dundee HD
+p:BSkyB,f:48
 0f0e:011a0000:07e5:0002:25:0
 Sky News HD
 p:BSkyB,C:0000
@@ -1391,6 +1397,9 @@ p:BSkyB,C:0000
 0ffc:011a0000:07e5:0002:25:0
 SkySp Mix HD
 p:BSkyB
+1432:011a0000:07e5:0002:25:0
+STV East HD
+p:BSkyB,f:48
 620d:011a0000:07e6:0002:1:0
 gold+1
 p:bskyb,f:40
@@ -1794,7 +1803,7 @@ p:bskyb,f:40
 virgin four hd
 p:bskyb,f:40
 13f2:011a0000:07f2:0002:25:0
-itv1 hd
+ITV1 London HD
 p:bskyb,f:40
 1792:011a0000:07f2:0002:25:0
 TG4 HD
@@ -2046,7 +2055,7 @@ p:bskyb,f:40
 itv2
 p:bskyb,f:40
 27ab:011a0000:0805:0002:1:0
-itv1+1
+ITV1+1 London
 p:bskyb,f:40
 27ae:011a0000:0805:0002:1:0
 itv3+1
@@ -2577,7 +2586,7 @@ d3a9:011a0000:0830:0002:1:0
 geo tv
 p:bskyb,f:40
 d387:011a0000:0830:0002:1:0
-ChartShowRetro
+That's Dance
 p:BSkyB
 d390:011a0000:0830:0002:1:0
 54160
@@ -3245,6 +3254,12 @@ p:BSkyB,C:0000
 d7de:011a0000:0833:0002:1:0
 50343
 p:BSkyB,C:0000
+280f:011a0000:0806:0002:1:0
+ITV1+1 Granada
+p:BSkyB,f:1048
+27fb:011a0000:0806:0002:1:0
+ITV1+1 Meridian East
+p:BSkyB,f:1048
 1007:00eb0000:000b:0003:2:0
 rmf maxx nowy sacz
 p:grupa rmf,c:011005,f:4
