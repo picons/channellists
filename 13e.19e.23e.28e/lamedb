@@ -207,6 +207,9 @@ transponders
 011a0000:0806:0002
 	s 10906000:22000000:1:4:282:2:0
 /
+011a305e:07f3:0002
+	s 12382000:29500000:0:2:282:2:0:1:2:0:2
+/
 00eb0000:000b:0003
 	s 11651000:3780000:0:8:235:2:0:1:1:0:2
 /
@@ -1062,7 +1065,7 @@ p:bskyb,f:40
 challenge
 p:bskyb,f:40
 1612:011a0000:07dc:0002:1:0
-Sky 00s
+Sky Greats
 p:bskyb,f:40
 0f13:011a0000:07dc:0002:1:0
 skysp arena
@@ -1100,9 +1103,6 @@ p:bskyb,f:40
 119f:011a0000:07dc:0002:1:0
 SkySp Action
 p:bskyb,f:40
-149f:011a0000:07dc:0002:1:0
-sky showcase
-p:bskyb,f:40
 11a3:011a0000:07dc:0002:1:0
 sky intro
 p:bskyb,f:40
@@ -1120,9 +1120,6 @@ skysp arena
 p:bskyb,f:40
 14ba:011a0000:07dc:0002:1:0
 skysp f1
-p:bskyb,f:40
-14c0:011a0000:07dc:0002:1:0
-skysp pl
 p:bskyb,f:40
 10ce:011a0000:07dc:0002:1:0
 sky action
@@ -1184,6 +1181,12 @@ p:BSkyB
 154a:011a0000:07dc:0002:2:0
 SNR
 p:BSkyB
+1902:011a0000:07dc:0002:1:0
+6402
+p:BSkyB,c:000201,c:010282,c:02024a,c:031ffe,C:0963,C:0961,C:0960
+1bb3:011a0000:07dc:0002:1:0
+7091
+p:BSkyB,c:000200,c:010280,c:020240,c:031ffe,C:0963,C:0961,C:0960
 0f03:011a0000:07e0:0002:25:0
 skysp f'ball hd
 p:bskyb,f:40
@@ -1456,21 +1459,6 @@ alibi
 p:bskyb,f:40
 197a:011a0000:07e6:0002:1:0
 drama
-p:bskyb,f:40
-141a:011a0000:07e7:0002:1:0
-sky comedy
-p:bskyb,f:40
-132d:011a0000:07e7:0002:1:0
-skysp news
-p:bskyb,f:40
-106e:011a0000:07e7:0002:1:0
-skysp golf
-p:bskyb,f:40
-157f:011a0000:07e7:0002:1:0
-5503
-p:bskyb,f:40
-0585:011a0000:07e7:0002:1:0
-sky atlantic+1
 p:bskyb,f:40
 181a:011a0000:07e8:0002:25:0
 STV HD
@@ -2258,9 +2246,6 @@ p:bskyb,f:40
 c4cc:011a0000:0811:0002:1:0
 crime+inv+1
 p:bskyb,f:40
-c4d6:011a0000:0811:0002:1:0
-inspiration tv
-p:bskyb,f:40
 c47c:011a0000:0811:0002:1:0
 Home Shop TV
 p:BSkyB
@@ -2589,7 +2574,7 @@ d387:011a0000:0830:0002:1:0
 That's Dance
 p:BSkyB
 d390:011a0000:0830:0002:1:0
-54160
+NOW 90s & 00s
 p:BSkyB
 1a40:011a0000:0834:0002:1:0
 mtv
@@ -2744,6 +2729,9 @@ p:bskyb,f:40
 d3d5:011a0000:0839:0002:1:0
 aastha
 p:bskyb,f:40
+d3c2:011a0000:0839:0002:1:0
+Arise News
+p:BSkyB,c:00090f,c:010912,c:03090f
 cf9b:011a0000:083a:0002:25:0
 nhk world hd
 p:bskyb,f:40
@@ -2997,7 +2985,7 @@ d7be:011a0000:0840:0002:1:0
 That's TV
 p:BSkyB
 d7c3:011a0000:0840:0002:1:0
-That's 60s
+Thats Memories
 p:BSkyB
 d7c8:011a0000:0840:0002:1:0
 Babenation
@@ -3123,7 +3111,7 @@ p:Arqiva
 6401
 p:BSkyB
 1802:011aaf3a:07e4:0002:1:0
-6146
+Sky Comedy
 p:BSkyB,C:0000
 1906:011aaf3a:07e4:0002:1:0
 6406
@@ -3132,7 +3120,7 @@ p:BSkyB
 ETFG
 p:BSkyB
 1525:011aaf3a:07e4:0002:1:0
-5413
+Sky Atlantic+1
 p:BSkyB,C:0000
 183b:011aaf3a:07e4:0002:1:0
 6203
@@ -3147,13 +3135,13 @@ p:BSkyB,C:0000
 Eurosport 1
 p:BSkyB,C:0000
 1887:011aaf3a:07e4:0002:1:0
-6279
+Sky Showcase
 p:BSkyB
 188d:011aaf3a:07e4:0002:1:0
 SkySp Tennis
 p:BSkyB
 1c90:011aaf3a:07e4:0002:1:0
-7312
+SkySp PL
 p:BSkyB
 1ea0:011aaf3a:07e4:0002:1:0
 SkySp F'ball
@@ -3165,10 +3153,10 @@ p:BSkyB
 6334
 p:BSkyB
 14c7:011aaf3a:07e4:0002:1:0
-5319
+SkySp News
 p:BSkyB,C:0000
 14cc:011aaf3a:07e4:0002:1:0
-5324
+SkySp Golf
 p:BSkyB,C:0000
 16d1:011aaf3a:07e4:0002:1:0
 Eurosport 2
@@ -3188,20 +3176,26 @@ p:BSkyB
 1cf6:011aaf3a:07e4:0002:1:0
 Sky Atlantic
 p:BSkyB
+16ae:011aaf3a:07e4:0002:1:0
+5806
+p:BSkyB,C:0000,f:40
+16be:011aaf3a:07e4:0002:1:0
+5822
+p:BSkyB,f:40
 c52b:011a2b68:0813:0002:25:0
 Zee TV HD
 p:BSkyB,C:0000
 c530:011a2b68:0813:0002:25:0
-50480
+Ideal World HD
 p:BSkyB
 c535:011a2b68:0813:0002:25:0
 New Media HD
 p:BSkyB
+c532:011a2b68:0813:0002:25:0
+50482
+p:BSkyB
 d746:011a2d21:082f:0002:1:0
 Pitaara
-p:BSkyB
-d748:011a2d21:082f:0002:1:0
-Arise News
 p:BSkyB
 d74f:011a2d21:082f:0002:1:0
 GEO News
@@ -3260,6 +3254,18 @@ p:BSkyB,f:1048
 27fb:011a0000:0806:0002:1:0
 ITV1+1 Meridian East
 p:BSkyB,f:1048
+0b58:011a305e:07f3:0002:1:0
+2904
+p:BSkyB
+0b65:011a305e:07f3:0002:1:0
+2917
+p:BSkyB
+0b66:011a305e:07f3:0002:1:0
+2918
+p:BSkyB
+0b67:011a305e:07f3:0002:1:0
+2919
+p:BSkyB
 1007:00eb0000:000b:0003:2:0
 rmf maxx nowy sacz
 p:grupa rmf,c:011005,f:4
