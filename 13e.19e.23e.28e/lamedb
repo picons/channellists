@@ -306,6 +306,27 @@ transponders
 00eb0000:0c9e:0003
 	s 12285000:30000000:1:2:235:2:0:1:2:0:2
 /
+00ebaddb:0c82:0003
+	s 11739000:29900000:1:3:235:2:0:1:2:0:2
+/
+00ebae50:0c88:0003
+	s 11856000:29900000:1:3:235:2:0:1:2:0:2
+/
+00ebae9e:0c8c:0003
+	s 11934000:29900000:1:3:235:2:0:1:2:0:2
+/
+00ebaec5:0c8e:0003
+	s 11973000:29900000:1:3:235:2:0:1:2:0:2
+/
+00ebaeec:0c90:0003
+	s 12012000:29900000:1:3:235:2:0:1:2:0:2
+/
+00ebaf61:0c96:0003
+	s 12129000:29900000:1:3:235:2:0:1:2:0:2
+/
+00eb3038:0ca1:0003
+	s 12344000:29900000:0:3:235:2:0:1:2:0:2
+/
 00c00000:03e9:0001
 	s 11214000:22000000:0:2:192:2:0:1:2:0:2
 /
@@ -3530,9 +3551,6 @@ p:m7 group
 178e:00eb0000:0c82:0003:22:0
 Star Channel
 p:m7 group
-1794:00eb0000:0c82:0003:22:0
-cartoonito
-p:m7 group
 17b1:00eb0000:0c82:0003:22:0
 disney channel
 p:m7 group
@@ -3547,15 +3565,6 @@ tvv infokanaal
 p:m7 group
 17ea:00eb0000:0c82:0003:22:0
 fightbox
-p:m7 group
-1816:00eb0000:0c82:0003:25:0
-mezzo hd
-p:m7 group
-17ae:00eb0000:0c82:0003:25:0
-travel xp hd
-p:m7 group
-17af:00eb0000:0c82:0003:25:0
-travel xp hd bnl
 p:m7 group
 17b4:00eb0000:0c82:0003:25:0
 espn 4 hd
@@ -3896,9 +3905,6 @@ p:m7 group
 1b95:00eb0000:0c88:0003:22:0
 play6
 p:m7 group
-1b62:00eb0000:0c88:0003:25:0
-dreamworks
-p:m7 group
 1b6c:00eb0000:0c88:0003:25:0
 rtl4 hd
 p:m7 group
@@ -3928,9 +3934,6 @@ nautical hd
 p:m7 group
 1b97:00eb0000:0c88:0003:22:0
 Crime+Investigation
-p:M7 Group
-1c02:00eb0000:0c88:0003:25:0
-Doma HD
 p:M7 Group
 339a:00eb0000:0c89:0003:22:0
 jojko
@@ -4145,9 +4148,6 @@ p:m7 group
 36e4:00eb0000:0c8c:0003:22:0
 paramount network
 p:m7 group
-36e9:00eb0000:0c8c:0003:22:0
-filmbox
-p:m7 group
 36ea:00eb0000:0c8c:0003:22:0
 cs film
 p:m7 group
@@ -4201,9 +4201,6 @@ prima zoom hd
 p:m7 group
 36ec:00eb0000:0c8c:0003:25:0
 prima krimi hd
-p:m7 group
-36ef:00eb0000:0c8c:0003:25:0
-prima love hd
 p:m7 group
 36ff:00eb0000:0c8c:0003:25:0
 cnn prima news hd
@@ -4334,14 +4331,8 @@ p:m7 group
 3c30:00eb0000:0c90:0003:22:0
 hobby tv
 p:m7 group
-3c31:00eb0000:0c90:0003:22:0
-tv spark
-p:m7 group
 3c34:00eb0000:0c90:0003:22:0
 filmbox family
-p:m7 group
-3c35:00eb0000:0c90:0003:22:0
-golf channel
 p:m7 group
 3c37:00eb0000:0c90:0003:22:0
 jimjam cz
@@ -4361,18 +4352,9 @@ p:m7 group
 3c2e:00eb0000:0c90:0003:25:0
 filmbox extra hd
 p:m7 group
-3c32:00eb0000:0c90:0003:25:0
-slagr premium hd
-p:m7 group
-3c36:00eb0000:0c90:0003:25:0
-history hd
-p:m7 group
 3c3b:00eb0000:0c90:0003:25:0
 newsmax hd
 p:m7 group
-3c2b:00eb0000:0c90:0003:25:0
-JOJ Svet HD
-p:M7 Group,C:0000
 3c38:00eb0000:0c90:0003:25:0
 CANAL+ Sport 2 (SK)
 p:M7 Group
@@ -4602,38 +4584,29 @@ p:m7 group
 film1 action
 p:m7 group
 51bd:00eb0000:0c96:0003:22:0
-ziggo sport voetbal
+Ziggo Sport 2
 p:m7 group
 51c2:00eb0000:0c96:0003:22:0
-ziggo sport golf
-p:m7 group
-51d1:00eb0000:0c96:0003:22:0
-Viaplay TV
+Ziggo Sport 6
 p:m7 group
 51d5:00eb0000:0c96:0003:22:0
-ment tv
+Ment Pop
 p:m7 group
 51da:00eb0000:0c96:0003:22:0
 eclips tv
 p:m7 group
 52ec:00eb0000:0c96:0003:22:0
-eleven sports pro league 1 nl
+DAZN Pro League 1 NL
 p:m7 group
 51db:00eb0000:0c96:0003:25:0
 film1 premiere hd
 p:m7 group
 51e0:00eb0000:0c96:0003:25:0
-ziggo sport select hd
+Ziggo Sport
 p:m7 group
 51e5:00eb0000:0c96:0003:25:0
 ngc hd
 p:m7 group
-52ed:00eb0000:0c96:0003:25:0
-sport 10 hd
-p:m7 group
-52f1:00eb0000:0c96:0003:25:0
-earthxtv
-p:m7 group,c:000215,c:030215,c:040071,c:050001
 1455:00eb0000:0c98:0003:1:0
 ses_lcn2
 p:ses astra
@@ -4839,7 +4812,7 @@ p:ceska televize
 ct 1 jm hd
 p:ceska televize
 1f49:00eb0000:0ca1:0003:25:0
-prima plus hd
+Prima SK
 p:m7 group
 1f4a:00eb0000:0ca1:0003:25:0
 ct 1 svc hd
@@ -4988,6 +4961,9 @@ p:mx1,c:180037
 1434:00eb0000:0ca2:0003:25:0
 stingray classica hd
 p:betadigital,c:180037
+1349:00eb0000:0ca2:0003:2:0
+ROCK
+p:Towercom
 4e63:00eb0000:0ca4:0003:1:0
 Star Life HD
 p:telekom srbija
@@ -5447,12 +5423,6 @@ p:M7 Group
 1b97:00eb0000:0c92:0003:22:0
 Crime+Investigation
 p:M7 Group
-1c02:00eb0000:0c92:0003:25:0
-Doma HD
-p:M7 Group
-1b62:00eb0000:0c92:0003:25:0
-DreamWorks
-p:M7 Group,C:0000
 1b6c:00eb0000:0c92:0003:25:0
 RTL4 HD
 p:M7 Group,C:0000
@@ -5480,6 +5450,33 @@ p:M7 Group
 1bfd:00eb0000:0c92:0003:25:0
 Nautical HD
 p:M7 Group
+1c10:00eb0000:0c92:0003:22:0
+Duna World / M4 Sport+
+p:M7 Group,c:000248,c:01011c,c:020180,c:030248,c:050001,C:181d,C:0b02,C:0653,C:0624,C:0500
+1c15:00eb0000:0c92:0003:22:0
+Film+ Hungary
+p:M7 Group,c:00024d,c:010121,c:03024d,c:050001,C:181d,C:0b02,C:0653,C:0624,C:0500
+1c16:00eb0000:0c92:0003:22:0
+Duna SD
+p:M7 Group,c:00024e,c:0101ea,c:02005a,c:03024e,c:050001,C:181d,C:0b02,C:0653,C:0624,C:0500
+1c17:00eb0000:0c92:0003:22:0
+Cool
+p:M7 Group,c:00024f,c:010187,c:03024f,c:050001,C:181d,C:0b02,C:0653,C:0624,C:0500
+1b62:00eb0000:0c92:0003:22:0
+DreamWorks
+p:M7 Group,C:0000
+1c0c:00eb0000:0c92:0003:25:0
+Penthouse Gold CZ
+p:M7 Group,c:000236,c:0100a6,c:030236,c:050001,C:181d,C:0d96,C:0b02,C:0653,C:0624,C:0500
+1c0d:00eb0000:0c92:0003:25:0
+Penthouse Reality TV CZ
+p:M7 Group,c:000237,c:0100a7,c:030237,c:050001,C:181d,C:0d96,C:0b02,C:0653,C:0624,C:0500
+1bfe:00eb0000:0c92:0003:25:0
+Penthouse Gold
+p:M7 Group,c:000236,c:0100a6,c:030236,c:050001,C:181d,C:1818,C:1817,C:0500,C:0100
+1bff:00eb0000:0c92:0003:25:0
+Penthouse Reality TV
+p:M7 Group,c:000237,c:0100a7,c:030237,c:050001,C:181d,C:1818,C:1817,C:0500,C:0100
 339a:00eb0000:0c9d:0003:22:0
 Jojko
 p:M7 Group,f:40
@@ -5525,9 +5522,6 @@ p:M7 Group,f:40
 33a0:00eb0000:0c9d:0003:25:0
 JOJ 24 HD
 p:M7 Group,f:40
-1e41:00eb0000:0c9e:0003:1:0
-DIM TV
-p:
 1e1e:00eb0000:0c9e:0003:2:0
 Ukrayinske Radio
 p:
@@ -5561,6 +5555,138 @@ p:SES,C:0000
 0321:00eb0000:0c9e:0003:12:0
 
 p:SES
+1e35:00eb0000:0c9e:0003:1:0
+Suspilne Kultura
+p:
+1e37:00eb0000:0c9e:0003:1:0
+Suspilne News
+p:
+1e5a:00eb0000:0c9e:0003:22:0
+1+1 International
+p:1plus1 Media
+1e5b:00eb0000:0c9e:0003:22:0
+1+1 Marafon SES
+p:1plus1 Media
+1e64:00eb0000:0c9e:0003:22:0
+ICTV
+p:,c:000321,c:010322,c:030321,c:050001
+1e65:00eb0000:0c9e:0003:22:0
+STB
+p:
+1e66:00eb0000:0c9e:0003:22:0
+NOVY CHANNEL
+p:
+1e6e:00eb0000:0c9e:0003:22:0
+SONCE
+p:
+1e50:00eb0000:0c9e:0003:25:0
+Inter HD
+p:
+1816:00ebaddb:0c82:0003:22:0
+Mezzo
+p:M7 Group
+17ae:00ebaddb:0c82:0003:22:0
+Travel XP
+p:M7 Group,C:0000
+17af:00ebaddb:0c82:0003:22:0
+Travel XP BNL
+p:M7 Group,C:0000
+17e2:00ebaddb:0c82:0003:25:0
+Vixen HD
+p:M7 Group,f:1000
+1c10:00ebae50:0c88:0003:22:0
+Duna World / M4 Sport+
+p:M7 Group,c:000248,c:01011c,c:020180,c:030248,c:050001,C:181d,C:0b02,C:0653,C:0624,C:0500
+1c15:00ebae50:0c88:0003:22:0
+Film+ Hungary
+p:M7 Group,c:00024d,c:010121,c:03024d,c:050001,C:181d,C:0b02,C:0653,C:0624,C:0500
+1c16:00ebae50:0c88:0003:22:0
+Duna SD
+p:M7 Group,c:00024e,c:0101ea,c:02005a,c:03024e,c:050001,C:181d,C:0b02,C:0653,C:0624,C:0500
+1c17:00ebae50:0c88:0003:22:0
+Cool
+p:M7 Group,c:00024f,c:010187,c:03024f,c:050001,C:181d,C:0b02,C:0653,C:0624,C:0500
+1b62:00ebae50:0c88:0003:22:0
+DreamWorks
+p:M7 Group,c:0001fe,c:01006e,c:0301fe,c:050001,C:181d,C:1817,C:0500
+1c0c:00ebae50:0c88:0003:25:0
+Penthouse Gold CZ
+p:M7 Group,c:000236,c:0100a6,c:030236,c:050001,C:181d,C:0d96,C:0b02,C:0653,C:0624,C:0500
+1c0d:00ebae50:0c88:0003:25:0
+Penthouse Reality TV CZ
+p:M7 Group,c:000237,c:0100a7,c:030237,c:050001,C:181d,C:0d96,C:0b02,C:0653,C:0624,C:0500
+1bfe:00ebae50:0c88:0003:25:0
+Penthouse Gold
+p:M7 Group,c:000236,c:0100a6,c:030236,c:050001,C:181d,C:1818,C:1817,C:0500,C:0100
+1bff:00ebae50:0c88:0003:25:0
+Penthouse Reality TV
+p:M7 Group,c:000237,c:0100a7,c:030237,c:050001,C:181d,C:1818,C:1817,C:0500,C:0100
+36ef:00ebae9e:0c8c:0003:22:0
+Prima Love
+p:M7 Group,C:0000,f:1000
+36f6:00ebae9e:0c8c:0003:22:0
+Spektrum Home
+p:M7 Group,c:001b62,c:011b6c,c:031b62,c:050001,C:181d,C:0b02,C:0653,C:0624,C:0500
+36f7:00ebae9e:0c8c:0003:22:0
+Nicktoons CZ
+p:M7 Group,c:001bc6,c:011bd0,c:031bc6,c:050001,C:181d,C:0b02,C:0653,C:0624,C:0500
+36f8:00ebae9e:0c8c:0003:22:0
+Film+ SK
+p:M7 Group,c:001c2a,c:011c34,c:031c2a,c:050001,C:181d,C:0b02,C:0653,C:0624,C:0500
+36e9:00ebae9e:0c8c:0003:25:0
+Filmbox HD
+p:M7 Group,C:0000
+372b:00ebaec5:0c8e:0003:22:0
+AMC SK
+p:M7 Group,c:000906,c:010911,c:030906,c:050001,C:181d,C:0d96,C:0b02,C:0653,C:0624,C:0500
+3725:00ebaec5:0c8e:0003:25:0
+Prima COOL SK
+p:M7 Group,c:0006ae,c:0306ae,c:0406b9,c:050001,C:181d,C:0b02,C:0653,C:0624,C:0500
+372c:00ebaec5:0c8e:0003:25:0
+Nova Sport 5 HD
+p:M7 Group,c:00096a,c:010975,c:03096a,c:050001,C:181d,C:0b02,C:0653,C:0624,C:0500
+3c3c:00ebaeec:0c90:0003:25:0
+Jednotka HD
+p:M7 Group
+3c3d:00ebaeec:0c90:0003:25:0
+Dvojka HD
+p:M7 Group
+3c3e:00ebaeec:0c90:0003:25:0
+RTVS 24 HD
+p:M7 Group
+3c3f:00ebaeec:0c90:0003:25:0
+RTVS SPORT HD
+p:M7 Group
+52ed:00ebaf61:0c96:0003:22:0
+Sport 10
+p:M7 Group
+52f1:00ebaf61:0c96:0003:22:0
+EarthxTV
+p:M7 Group,c:000215,c:030215,c:040071,c:050001
+52f2:00ebaf61:0c96:0003:22:0
+Mozi+
+p:M7 Group,c:000216,c:01008b,c:030216,c:050001,C:181d,C:0b02,C:0653,C:0624,C:0500
+52f3:00ebaf61:0c96:0003:22:0
+Muzsika TV
+p:M7 Group,c:000217,c:010087,c:030217,c:050001,C:181d,C:0b02,C:0653,C:0624,C:0500
+52f5:00ebaf61:0c96:0003:22:0
+Slager TV
+p:M7 Group,c:000219,c:010089,c:030219,c:050001,C:181d,C:0b02,C:0653,C:0624,C:0500
+51d1:00ebaf61:0c96:0003:25:0
+Viaplay TV
+p:M7 Group,C:0000
+1f50:00eb3038:0ca1:0003:22:0
+STORY4 HU
+p:M7 Group,c:000a32,c:010a3c,c:030a32,c:050001,C:181d,C:0b02,C:0653,C:0624,C:0500,f:40
+1f51:00eb3038:0ca1:0003:22:0
+M5
+p:M7 Group,c:000a96,c:010aa1,c:020aaa,c:030a96,c:050001,C:181d,C:0b02,C:0653,C:0624,C:0500,f:40
+1f4f:00eb3038:0ca1:0003:25:0
+JOJ Svet HD
+p:M7 Group,c:0009ce,c:0109d9,c:0309ce,c:050001,C:181d,C:0b02,C:0653,C:0624,C:0500,f:40
+0fe6:00eb2d7b:0000:0001:1:0
+4070 Krakow PLUS
+p:
 345d:00c00000:03e9:0001:31:0
 service13405
 p:ors
