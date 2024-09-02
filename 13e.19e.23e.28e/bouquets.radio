@@ -1,2 +1,3 @@
 #NAME User - Bouquets (Radio)
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.radio.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.28.2E_Astra_2E2F2G_-_Services.radio" ORDER BY bouquet
