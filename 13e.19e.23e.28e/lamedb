@@ -4872,7 +4872,7 @@ p:eutelsat
 SkySpMainEv
 p:BSkyB,C:0000
 119f:011a0000:07dc:0002:1:0:0
-SkySp Action
+SkySp NFL
 p:BSkyB,C:0000
 189f:011a0000:07dc:0002:1:0:0
 SkySp PL
@@ -6086,6 +6086,9 @@ p:ard
 76ce:00c00000:040e:0001:1:0:0
 canal cocina
 p:cacoc
+c4ce:011a0000:0811:0002:1:0:0
+50382
+p:BSkyB
 ccce:011a0000:080e:0002:1:0:0
 TLC
 p:BSkyB,C:0000
@@ -6161,6 +6164,9 @@ p:,c:050001
 74d0:00c00000:03f8:0001:1:0:0
 descarga cisco
 p:movistar+
+c4d0:011a0000:0811:0002:1:0:0
+50384
+p:BSkyB
 d3d0:011a0000:0839:0002:1:0:0
 Euronews
 p:BSkyB
@@ -6230,6 +6236,9 @@ p:canal+
 3dd2:00820000:0640:013e:1:0:0
 tvn 24 hd
 p:tvn
+c4d2:011a0000:0811:0002:1:0:0
+50386
+p:BSkyB
 d3d2:011a0000:0839:0002:1:0:0
 TV One
 p:BSkyB
@@ -6315,7 +6324,7 @@ p:
 2m monde
 p:globecast
 14d5:011a0000:07dc:0002:1:0:0
-SkySp Action
+SkySp NFL
 p:BSkyB,C:0000
 17d5:00c00000:042a:0001:1:0:0
 cnn int.
@@ -7015,7 +7024,7 @@ radio exterior
 p:tsa
 2301:011a0000:080d:0002:2:0:0
 BBC R1
-p:BSkyB
+p:BSkyB,c:011771,c:031771
 0e02:00820000:1f40:013e:2:0:0
 radio 4
 p:tsa
@@ -7033,7 +7042,7 @@ BBC R4
 p:BSkyB
 2305:011a0000:080d:0002:2:0:0
 BBC R5L
-p:BSkyB
+p:BSkyB,c:011775,c:031775
 2905:00820000:1c20:013e:2:0:0
 radio congo
 p:globecast
@@ -12091,7 +12100,7 @@ trace urban
 p:csat
 16c7:011a0000:07eb:0002:25:0:0
 Sky Mix HD
-p:BSkyB
+p:BSkyB,c:000209,c:020247,c:030209,c:04028e,c:050001
 22c7:00c00000:0434:0001:25:0:0
 multisports 5
 p:csat
