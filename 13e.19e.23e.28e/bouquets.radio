@@ -2,4 +2,3 @@
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.13.0E_Hotbird_13F13G_-_Services.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.19.2E_Astra_1KR1L1M1N_-_Services.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.23.5E_Astra_3B3C_-_Services.radio" ORDER BY bouquet
-#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.28.2E_Astra_2E2F2G_-_Services.radio" ORDER BY bouquet
